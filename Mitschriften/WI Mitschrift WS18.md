@@ -60,6 +60,7 @@ IDE: Integrated Development Environment
 
 ## Software-Layer (11/6/18)
 
+3-Schichten Architektur
  - Präsentation
  - Anwendungslogik
  - Datenhaltung
@@ -73,7 +74,105 @@ Notwendige Literatur: Intgegration betrieblicher Informationssysteme I (Mertens)
 Methodenintegration - Beispiel Maßsystem (Metric/Imperial); Deckungsbeitrag (I, II oder III)
 
 
+## Enterprise Resource Planning (11/12/18)
+
+ERP: Ganzheitliche Sicht auf die Geschäftstätigkeit eines Unternehmens
+
+Business Process (Re-)Engineering (aka greenfield) vs Kontinuierliche Prozessverbesserung (KPV)
+
+Unternehmensziele => Geschäftsmodell => Prozessmodellierung => Anwendung
+
+[Business Model Canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas) 
+Alexander Osterwalder,  University of Lausanne, 2008
+
+ERP:
+- integriertes Anwendungspaket
+- Abwicklung von Geschäftstransaktionen
+- umfasst alle wesentlichen betrieblichen Funktionsbereiche
+
+Integration durch eine zentrale Datenbank (e.g SAP/R3: Oracle, HANA)
+
+ERP: **3-Schichten Architektur**
+- Präsentation => Benutzeroberfläche
+- Anwendungslogik => Module (Funktionsbereiche, siehe oben), Basissystem
+- Datenhaltung => Datenbanksysteme
+
+Business Suite: ERP + CRM + SCM
+
+## Nutzwertanalyse
+
+Nutzwertanalyse:
+- Was?
+- Wie?
+- Vorteile/Nachteile?
+
+"Analyse komplexer Handlungsalternativen mit dem Zweck, diese in Bezug auf ein Zielsystem bzw. Vorgaben zu ordnen. Die Ordnung erfolgt durch die Angabe von Nutzwerten für die jeweilige Alternative"
+
+Ablauf:
+- Definition des Ziels
+- Ausschluss- und Auswahlkriterien
+- Gewichtung der Ziele
+- Alternativen incl. NULL, d.h. Beibehaltung des Status Quo
+- Bewertung der Alternativen
+
+Vorteile:
+- Flexibilität
+- Transparenz
+
+Nachteile:
+- Auswahl der Gewichtung
+- Sehr subjektiv
+
+[Enzyklopädie der Wirtschaftsinformatik](http://www.enzyklopaedie-der-wirtschaftsinformatik.de/), Universität Potsdam 
+
+## Supply Chain Management (11/13/18)
+
+Supply Chain = Wertschöpfungskette
+
+Wir unterscheiden 3 (drei) Flussarten:
+- physischer Warenfluss
+- Zahlungsfluss
+- Informationsfluss (EDI)
+
+Vorlieferant <=> Hersteller <=> Händler
+
+Supply Chain Management: Management der Geschäftsprozesse entlang der gesamten Wertschöpfungskette
+
+Aufgabe: Medienbrüche vermeiden 
+
+**XML**: eXtensible Markup Language, wird in EDI verwendet; moderne Alternative: **JSON**
+- Schema/DTD enthält Meta-Information
+- .xml enthält die eigentlichen Daten
+
+**EDIFACT**: Uralter Datenübertragungsstandard
+
+## Customer Relationship Management
+
+CRM dient der
+- Kundengewinnung
+- Kundenerhaltung
+	- Kundenbindung
+	- Kundenausschöpfung
+
+Cross-/Upselling
+
+Customer Lifetime Cycle
+
+Kernelement Kundenprofil:
+- Explizite Daten
+	- Registrierung
+	- Bestellformular
+- Implizite Date
+	- Browserverhalten
+
+Das Kundenprofil enthält die Segmentierungskriterien
+
+*"psychographische Daten"* -> Lebensstil, Glauben, Hobbies
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0OTE3MTgyOSwxMDQ3OTg4NTM3LC04ND
-Y0NzU4MTEsMjA0NjE0NzcwNiwxNzk3MjMxNjExXX0=
+eyJoaXN0b3J5IjpbMTYwMDM5MTIzNiwtMzIxMDI2NzIzLDE4MD
+QxNzA0MTIsLTEzNTg4NzkxOTYsMTM2MzYwMjg5NCwtOTQ5MTcx
+ODI5LDEwNDc5ODg1MzcsLTg0NjQ3NTgxMSwyMDQ2MTQ3NzA2LD
+E3OTcyMzE2MTFdfQ==
 -->
