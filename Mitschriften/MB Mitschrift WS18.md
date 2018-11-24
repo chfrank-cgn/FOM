@@ -157,8 +157,44 @@ Taking a company public:
 	- Value per share might decline
 	- Increase in transparency regulations (and fines)
 
+## Flowtify SaaS (11/19/18)
+
+"Your digital HACCP, Operations and Maintenance documentation"
+
+Tagline: *"What's not documented shall be deemed not done"*
+
+Flowtify software: Hosted on Azure, MongoDB, React JS, Java Spring (Boot)
+
+Define the mission! Use **OKR** (Objectives and Key Results) 
+
+Open tasks: Analytics, Preventive Maintenance
+
+Tagline: *"Culture beats Strategy"*
+
+> Kapitalerhöhung: Siehe Flipchart
+
+Business Plan:
+
+ - Customer Benefits
+ - Competition (comparison)
+ - Production or provisioning of services
+ - Costs, Pricing
+
+Unique Selling Point (**USP**)
+
+Break even (on sales revenue - variable costs of sold products)
+
+non-cash: Depreciation, Amortization, Accruals
+
+long-term: Strategic Management:
+
+ - Outside-In view: Structure -> Conduct -> Performance
+ - Inside-Out view: Potential -> Strategy -> Performance
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAwNTI3ODkxLDM5OTAxMDg2MywxODU3Nz
+eyJoaXN0b3J5IjpbODEzNjcwODQwLDM5OTAxMDg2MywxODU3Nz
 MzNTE5XX0=
 -->
