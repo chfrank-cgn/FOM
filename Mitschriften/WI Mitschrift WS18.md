@@ -169,10 +169,96 @@ Das Kundenprofil enthält die Segmentierungskriterien
 
 *"psychographische Daten"* -> Lebensstil, Glauben, Hobbies
 
+## Management Support Systems (11/20/18)
+
+Fehlt
+
+## Business Intelligence Systems (11/27/18)
+
+Summary: (multi) Data Warehouse - receives data from ERP, CRM, SCM
+
+Warum?
+- Umfangreiche Auswertungen, über das Standard-Reporting hinaus
+- Möglichkeit, Daten systemübergreifend zu verknüpfen
+- Normalisierung unterschiedlicher Datenstrukturen
+
+Prozesse: Planen - Steuern - Kontrollieren
+
+1/ Vordefinierte Kennzahlen (**KPI**)
+Standardisierte Reports (z.B. Year-To-Date)
+
+2/ Ad-Hoc Reporting **OLAP** (Online Analytical Processing)
+OLAP Navigation: (Drei-dimensionaler Würfel: z.B. Kunde - Produkt - Zeit)
+- Slicing
+- Dicing
+- Roll-up
+- Drill-down
+
+3/ Data Mining
+Eine Phase im Prozess von "Knowledge Discovery in Databases" (Fayyad)
+
+*Lesen: Edgar F. Codd "12 Regeln zur OLAP Fähigkeit von Informationssystemen"*
+
+*Lesen: ETL Prozess (Data Warehouse): Extract - Transform - Load*
+
+Data Mining:
+- Classification: Bildung von Klassen, z.B. Kreditwürdigkeit
+- Clustering: Bildung von Gruppen, z.B. Kundentypen im CRM
+- Association: Zusammenhänge erkennen, z.B. welche Artikel werden zusammen gekauft
+
+## E-Business and E-Commerce (Tim O'Reilly)
+
+Web 2.0 Prinzipien
+- The web as platform
+- Harnessing collective intelligence
+- Data is the next Intel
+- End of the software release cycle
+- Lightweight programming model
+- Software above the level of a single device (aka "Mobile First")
+- Rich user experience
+
+Enterprise 2.0
+- The Long Tail "Großes Geld mit kleinen Geschäften"
+	- Mache alles verfügbar
+	- Hilf mir, es zu finden
+- Crowdsourcing
+- Crowdfunding
+
+Web 3.0 - the semantic web
+- Covenience
+
+## Architektur von Informationssystemen
+
+Modellierungssprache ARIS (ARchitektur integrierter Informations Systeme)
+
+> ARIS stützt sich hauptsächlich auf seine eigene
+> Fünf-Sichten-Architektur (ARIS-Haus). Diese fünf Sichten sind die
+> Organisations-, Daten-, Leistungs-, Funktions- und Steuerungssicht auf
+> einen Prozess. Die Einteilung erfolgt, um die Komplexität des Modells
+> in fünf Facetten aufzubrechen und so die Prozessmodellierung einfacher
+> zu gestalten.
+
+*(siehe ARIS-Modell Diagramm)*
+
+ARIS-Sichten (Partionierung):
+- Organisation: Wer macht
+- Funktion: was 
+- Daten: womit?
+- Steuerung: Prozess
+- Leistung: Ergebnis / Output
+
+ARIS-Schichten (Beschreibungsebene)
+- Fachkonzept
+- DV-Konzept (IT-Konzept)
+- (Technische) Implementierung
+
+**Ereignissgesteurte Prozesskette**
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDM5MTIzNiwtMzIxMDI2NzIzLDE4MD
-QxNzA0MTIsLTEzNTg4NzkxOTYsMTM2MzYwMjg5NCwtOTQ5MTcx
-ODI5LDEwNDc5ODg1MzcsLTg0NjQ3NTgxMSwyMDQ2MTQ3NzA2LD
-E3OTcyMzE2MTFdfQ==
+eyJoaXN0b3J5IjpbLTQzNjIxNDEyNiwxNjEwMDE4Nzc3LC0yMj
+QwMTg0NjUsLTMyMTAyNjcyMywxODA0MTcwNDEyLC0xMzU4ODc5
+MTk2LDEzNjM2MDI4OTQsLTk0OTE3MTgyOSwxMDQ3OTg4NTM3LC
+04NDY0NzU4MTEsMjA0NjE0NzcwNiwxNzk3MjMxNjExXX0=
 -->
