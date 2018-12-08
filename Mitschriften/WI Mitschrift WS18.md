@@ -229,7 +229,7 @@ Web 3.0 - the semantic web
 
 ## Architektur von Informationssystemen
 
-Modellierungssprache ARIS (ARchitektur integrierter Informations Systeme)
+Modellierungssprache [ARIS](https://en.wikipedia.org/wiki/Architecture_of_Integrated_Information_Systems) (ARchitektur integrierter Informations Systeme)
 
 > ARIS stützt sich hauptsächlich auf seine eigene
 > Fünf-Sichten-Architektur (ARIS-Haus). Diese fünf Sichten sind die
@@ -254,11 +254,60 @@ ARIS-Schichten (Beschreibungsebene)
 
 **Ereignissgesteurte Prozesskette**
 
+## Modellierung von Geschäftsprozessen (12/4/18)
+
+ARIS Schichten:
+- Fachkonzept
+- DV-Konzept
+- Implementierung
+
+ARIS Sichten:
+- Organisationssicht
+- Datensicht
+- Steuerungssicht
+- Funktionssicht
+- Leistungssicht
+
+Organisationssicht:
+- Aufbauorganisation
+- Organigramm
+
+Funktionssicht:
+- zu erfüllende Funktion
+- Funktionshierarchiebäume
+- Zieldiagramm
+
+Datensicht:
+- Definition der Daten
+- Entity-Relationship Model (UML)
+
+Steuerungssicht:
+- Modellierung der Geschäftsprozesse
+- [EPK (Ereignisgesteuerte Prozesskette)](https://www.der-wirtschaftsingenieur.de/index.php/ereignisgesteuerte-prozesskette-epk/)
+- eEPK (erweiterte EPK)
+
+EPK Elemente & Syntax:
+
+[Ereignis] -> [Funktion] -> [Ereignis]
+Mögliche Verknüpfungen: XOR, AND, OR (werden im Diagramm wie geschweifte Klammern wieder geschlossen)
+
+*XOR nach Funktion* (es wird eine Entscheidung getroffen)
+*AND, OR nach einem Ereignis*
+
+eEPK Elemente:
+
+Organisationselement (-> Funktion)
+Daten (-> Funktion)
+Prozesschnitstelle (-> Ereignis)
+
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjIxNDEyNiwxNjEwMDE4Nzc3LC0yMj
-QwMTg0NjUsLTMyMTAyNjcyMywxODA0MTcwNDEyLC0xMzU4ODc5
-MTk2LDEzNjM2MDI4OTQsLTk0OTE3MTgyOSwxMDQ3OTg4NTM3LC
-04NDY0NzU4MTEsMjA0NjE0NzcwNiwxNzk3MjMxNjExXX0=
+eyJoaXN0b3J5IjpbMTM3NjY1MzYxNSwtOTEzNzg0Mzk5LC0xND
+g1ODEzMzcyLC00MzYyMTQxMjYsMTYxMDAxODc3NywtMjI0MDE4
+NDY1LC0zMjEwMjY3MjMsMTgwNDE3MDQxMiwtMTM1ODg3OTE5Ni
+wxMzYzNjAyODk0LC05NDkxNzE4MjksMTA0Nzk4ODUzNywtODQ2
+NDc1ODExLDIwNDYxNDc3MDYsMTc5NzIzMTYxMV19
 -->
