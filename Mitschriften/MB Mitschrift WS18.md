@@ -32,14 +32,14 @@ Video:
  - Passion (over a sustained period of time)
  - Try again and again (don't give up)
  - Vision (believe in the Why -> meaningful -> not only for money)
- - Never forget due dilligence
+ - Never forget due diligence
  - Swallow your pride
  - No Plan B ...
  - Hire smarts
  - Be honest and ethical
 
 Turnover = Umsatz
-Profie = Gewinn (vor / nach Steuern)
+Profit = Gewinn (vor / nach Steuern)
 Costs = Kosten
 
 Fixed Costs vs Variable Costs (if you're producing something)
@@ -191,10 +191,107 @@ long-term: Strategic Management:
  - Outside-In view: Structure -> Conduct -> Performance
  - Inside-Out view: Potential -> Strategy -> Performance
 
+## Deutsche Bank caught money laundering (12/3/18)
+
+Recap: Strategic Planning (pg 75 ff)
+
+**Strategic Management:** Key Elements & Overview
+
+1/ Mission / Vision Statement
+- actual vs planned *("to be")*
+- actual strategy
+- Business we're in *("Bizz Def")*
+
+2/ External
+- Market, Competition, Eco
+- Customers, Suppliers, Social
+- Regulatory Changes
+- Technology (Digitalisation)
+
+=> PESTER (Political Economic Social Techno Eco Legal)
+=> Five Forces (Porter)
+
+3/ Internal
+- Resources / Staff
+- (IT) Systems
+- Business Process Optimization (through digitalization)
+	- higher customer focus
+
+=> Value Chain Analysis
+=>  [Boston Consulting Group Matrix](https://www.strategicmanagementinsight.com/tools/bcg-matrix-growth-share.html)
+=> 7-S McKinsey Internal Strategic Analysis
+
+4/ Strategic Analysis
+- SWOT Analysis (Strength, Weaknesses, Opportunities, Threats)
+- Product / Customer Portfolio Analysis
+
+5/ Strategy (3-5 Years)
+- What to do and what not to do
+*(Porter: The essence of stratgey of what not to offer)*
+- Focus internal resources
+- Communication principle: KISS
+
+6/ Execution (1-2 Years)
+- Operational plans to execute strategy
+	- Marketing
+	- Sales
+	- Production
+	- Finance
+- Milestones: When, Who, Staff, Priorities
+- Budget (1 year)
+
+**7-S Internal Strategic Analysis** (McKinsey)
+- Shared Vision
+- Structure (Organizational)
+- Strategy (Products, Customers, Markets)
+- Skills (to create competitive advantage)
+- Systems (internal/external)
+- Style (management communications, priorities)
+- Staff
+
+Fundamentals of competitive strategy:
+- Central goal of superior, log-term ROI
+- Fundamental unit is the industry
+- Economic performance drive from two sources:
+	- Industry structure
+		- Rules of competition
+	- Relative performance
+
+**ROI**: Return on Investment
+Net Profit - Assets (Equity and Debt) => Return on invested capital (in %)
+Should be greater than the cost of capital, to create value for the shareholders
+
+Potters' **Five Forces**
+
+1/ New/substitute products/services
+2/ Suppliers
+3/ Buyers
+4/ New entrants
+5/ Competition!
+
+Competitive Advantage
+- Value differentiation
+- Lower cost
+
+*"Companies are collections of discrete activities, in which competitive advantage resides"*
+
+Strategic continuity and continuos improvement
+
+Strategy requires constant discipline and clear communication
+
+## Q4 Rancher Rodeo (12/10/18)
+
+Missing
+
+
+
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzNjcwODQwLDM5OTAxMDg2MywxODU3Nz
-MzNTE5XX0=
+eyJoaXN0b3J5IjpbMTM0ODc2MTA4OCwtMTMwMzYxMjk2LDE0Nz
+gxOTg5MTAsODEzNjcwODQwLDM5OTAxMDg2MywxODU3NzMzNTE5
+XX0=
 -->
