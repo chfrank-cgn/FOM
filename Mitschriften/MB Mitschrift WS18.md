@@ -283,7 +283,33 @@ Strategy requires constant discipline and clear communication
 
 Missing
 
+## ANSOFF Starbucks (12/11/18)
 
+*"Structure follows Strategy"*
+
+DTAG: **ROCE** > **WACC**
+ROCE: [Return On Capital Employed](https://www.investopedia.com/terms/r/roce.asp)
+WACC: [Weighted Average Cost of Capital](https://www.investopedia.com/terms/w/wacc.asp)
+
+> Goodwill is an intangible asset associated with the purchase of one
+> company by another. Specifically, goodwill is recorded in a situation
+> in which the purchase price is higher than the sum of the fair value
+> of all identifiable tangible and intangible assets purchased in the
+> acquisition and the liabilities assumed in the process. The value of a
+> company’s brand name, solid customer base, good customer relations,
+> good employee relations, and any patents or proprietary technology
+> represent some examples of goodwill. Goodwill is considered an
+> intangible (or noncurrent) asset because it is not a physical asset
+> like buildings or equipment. The goodwill account can be found in the
+> assets portion of a company's balance sheet.
+
+Consensus Report: High-Low-Avg of key analysts' estimates
+
+CAGR: [Compound Annual Growth Rate](https://www.investopedia.com/terms/c/cagr.asp)
+
+Break even analyis:
+break-even-1 = sales-revenue - variable-costs (of products sold)
+operational result = break-even-1 - operational-costs
 
 
 
@@ -291,7 +317,7 @@ Missing
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODc2MTA4OCwtMTMwMzYxMjk2LDE0Nz
-gxOTg5MTAsODEzNjcwODQwLDM5OTAxMDg2MywxODU3NzMzNTE5
-XX0=
+eyJoaXN0b3J5IjpbOTkzOTA1Nzg4LDEzNDg3NjEwODgsLTEzMD
+M2MTI5NiwxNDc4MTk4OTEwLDgxMzY3MDg0MCwzOTkwMTA4NjMs
+MTg1NzczMzUxOV19
 -->
