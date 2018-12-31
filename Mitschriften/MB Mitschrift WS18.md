@@ -1,5 +1,5 @@
 
-## WB Mitschrift (10/15/18)
+## MB Mitschrift (10/15/18)
 
 Interessante Artikel? -> Bitte per EMail schicken!
 
@@ -499,8 +499,8 @@ OPEX = Operating Expenses
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MjI3MDcxLC0zODU5NTk1NDEsLTUwMD
-c4NTI2MCwtMTg4NjIzMDcyOCwxMzQ4NzYxMDg4LC0xMzAzNjEy
-OTYsMTQ3ODE5ODkxMCw4MTM2NzA4NDAsMzk5MDEwODYzLDE4NT
-c3MzM1MTldfQ==
+eyJoaXN0b3J5IjpbMTk0MDUwNTU0NywtOTgyMjcwNzEsLTM4NT
+k1OTU0MSwtNTAwNzg1MjYwLC0xODg2MjMwNzI4LDEzNDg3NjEw
+ODgsLTEzMDM2MTI5NiwxNDc4MTk4OTEwLDgxMzY3MDg0MCwzOT
+kwMTA4NjMsMTg1NzczMzUxOV19
 -->
