@@ -316,7 +316,7 @@ Long-term price floor: operational-result zero
 
 Check `/fom/mb/945029_uebung_deckungsbeitrag_taxi_24_7`
 
-## Tesla Share Price $17 in 2010, $333 end of 2018
+## Tesla Share Price $17 in 2010, $333 end of 2018 (12/18/18)
 
 Elements of a Marketing Mix (4P):
 - Product (Productrange)
@@ -497,10 +497,183 @@ ROCE = Earnings Before Interest and Tax (EBIT) / Capital Employed
 CAPEX = Capital Expenditure
 OPEX = Operating Expenses
 
+## Snow in the mountains (1/7/19)
+
+Bring a pocket calculator for the exam!
+
+Warren Buffet: 5/25
+- Focus on the top 5 goals, ignore the rest
+- Stick to it! (Implementation / Finish)
+- Changes come with costs ("opportunity costs")
+
+80/20 Rule
+- Typically, 20% of SKUs generate 80% of profit
+
+[Pareto diagram](https://en.wikipedia.org/wiki/Pareto_chart)
+The purpose of the Pareto chart is to highlight the most important among a (typically large) set of factors. In quality control, it often represents the most common sources of defects, the highest occurring type of defect, or the most frequent reasons for customer complaints, and so on.
+
+[Diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns)
+The law of diminishing returns states that in all productive processes, adding more of one factor of production, while holding all others constant ("ceteris paribus"), will at some point yield lower incremental per-unit returns.
+
+**Exam hint:** Ansoff Matrix, BCG Matrix, other decision tools
+
+Depreciation: a reduction in the value of an asset over time, due in particular to wear and tear.
+"provision should be made for depreciation of fixed assets"
+
+Write-off: A write-off is a (extraordinary) deduction in the value of earnings by the amount of an expense or loss.
+
+Operating profit: EBIT
+
+Net profit: EBITDA
+
+Check ROCE: https://www.onvista.de/
+
+As long as ROCE is greater than WACC, it is worth to leverage financing - *"financial leverage" on your equity*
+
+**ROE** - Return (profit) on equity
+**ROI/ROCE** - Return (profit) on overall captial / investment
+
+Functions of Finance:
+- Budgeting
+- Accounting (Balance sheets / P&L)
+- Controlling (Cash-out, budget actual vs planned)
+- Money transfers (e.g. Salary)
+- Financing (Loans)
+- Investing (Calculating profitability)
+
+Financing is a part of Finance
+
+**Investment**: One cash-out leads to regular cash-ins
+
+**Financing**: One cash-in leads to regular cash-outs
+
+Financing triangle:
+- Return (Profit)
+- Risk (Security)
+- Liquidity
+- + Independence
+
+**Exam hint:** Difference between debt and equity (pg 129)
+
+Projects can have milestone payments.
+
+Factoring: [Del credere function](https://en.wikipedia.org/wiki/Del_credere)
+A del credere position is that of a surety who is liable to the principal should the purchaser make default. The agreement between agent and principal need not be reduced to or evidenced by writing, for the undertaking is not a guarantee within the Statute of Frauds.
+A Del Credere Agent not only establishes a privity of contract between the principal and the third party but also guarantees to the principal the due performance of the contract by the third party. The agent is liable, however, only when the third party fails to carry out their contract, e.g., by insolvency. The agent is not liable to the principal if the third party refuses to carry out the contract, for example if the buyer refuses to take delivery.
+
+## Discounted Cash Flow
+
+Private equity is an important part of Financing - approx. 20% WW share
+Website: https://www.preqin.com/
+Average yield is 15% p.A. - very attractive in times of 0% interest offered by banks
+Also, the parts years have shown a good performance record - audited and ranked by Preqin and others.
+
+**IRR** - Internal Rate of Return
+
+[Du Pont analysis](https://en.wikipedia.org/wiki/DuPont_analysis)
+The Du Pont analysis breaks down Return on Equity (that is, the returns that investors receive from the firm) into three distinct elements. This analysis enables the analyst to understand the source of superior (or inferior) return by comparison with companies in similar industries (or between industries).
+ROE = (Profit margin)*(Asset turnover)*(Equity multiplier) = (Net profit/Sales)*(Sales/Average Total Assets)*(Average Total Assets/Average Equity) = (Net Profit/Equity)
+
+If the sum of the discounted cash flows (=adjusted for inflation, interest etc.) is greater than the initial investment, it's a good investment
+
+[Time value of money](https://en.wikipedia.org/wiki/Time_value_of_money)
+The time value of money is the greater benefit of receiving money now rather than an identical sum later. It is founded on time preference.
+The time value of money explains why interest is paid or earned: Interest, whether it is on a bank deposit or debt, compensates the depositor or lender for the time value of money.
+It also underlies investment. Investors are willing to forgo spending their money now only if they expect a favorable return on their investment in the future, such that the increased value to be available later is sufficiently high to offset the preference to have money now.
+
+[Discounted Cash Flow](https://www.investopedia.com/terms/d/dcf.asp)
+Discounted cash flow (DCF) is a valuation method used to estimate the value of an investment based on its future cash flows. DCF analysis finds the present value of expected future cash flows using a discount rate. A present value estimate is then used to evaluate a potential investment. If the value calculated through DCF is higher than the current cost of the investment, the opportunity should be considered.
+
+DCF= CF1 / (1+r)^1^ + CF2 / (1+r)^2^ + CF3 / (1+r)^3^ + ...
+(CF = Cash Flow, r = discount rate)
+
+[Compounding](https://www.investopedia.com/terms/c/compounding.asp)
+Compounding is the process in which an asset's earnings, from either capital gains or interest, are reinvested to generate additional earnings over time. This growth, calculated using exponential functions, occurs because the investment will generate earnings from both its initial principal and the accumulated earnings from preceding periods. Compounding, therefore, differs from linear growth, where only the principal earns interest each period.
+
+[Discounting](https://www.investopedia.com/terms/d/discounting.asp)
+Discounting is the process of determining the present value of a payment or a stream of payments that is to be received in the future. Given the time value of money, a dollar is worth more today than it would be worth tomorrow. Discounting is the primary factor used in pricing a stream of tomorrow's cash flows.
+
+> In essence, every company is a series of cashflows
+
+**Question:** How to get to the discount rate? Check the [WACC](https://www.investopedia.com/terms/w/wacc.asp)!
+
+**WACC**
+- Cost of debt (=Fremdkapitalzinsen)
+- Cost of equity (=Eigenkapitalkosten)
+
+Example: Financing 500kEur - 400kEur debt at 5% and 100kEur equity at 10% -> WACC
+
+See worksheet `/fom/mb/present-value-heritage`
+
+**DCF** (See whiteboard photo `/fom/mb/img_20190108_141235`)
+*One of the most important tools in business for decision making*
+
+## Exam preparation
+
+The exam will consist of 60 to 70% multiple choice questions, some open questions and a calculation, either of DCF or contribution margin
+
+Potential questions could be:
+- Explain the difference between B2C and B2B Marketing
+- What is the Marketing Mix? (4P)
+- Reasoning behind a  DCF calculation
+- What can you do with a contribution margin calculation? (Decisions / potential issues)
+
+Learn: DCF, DCF, DCF, 
+
+*Note: There are no sessions on the day before the exam (Monday, 2/11/19)!*
+
+## Marketing (1/15/19)
+
+> From the need to buying
+
+Phases of marketing:
+- Analysis
+- Planning
+- Implementation
+- Inspections / Control
+
+**Brand Strategy**
+
+Brand hierarchy
+- Corporate
+- Umbrella
+- Single / product
+- Sub-Brand
+
+Brand rating companies: Interbrand, Brand Finance, Millward Brown
+
+> Brand is about trust and emotions
+
+[Maslow pyramid of needs](https://www.simplypsychology.org/maslow.html)
+
+> Goods are means to satisfy a need
+
+Economic principle:
+- Maximum: Fixed input, maximized output
+- Minimum: Fixed output, minimized input
+
+Trade-off:
+*"There's no such thing as a free lunch"*
+-> Opportunity costs, e.g. money, time, other needs
+
+[Comparative Advantage](https://en.wikipedia.org/wiki/Comparative_advantage)
+Comparative advantage is the economic reality describing the work gains from trade for individuals, firms, or nations, which arise from differences in their factor endowments or technological progress. In an economic model, agents have a comparative advantage over others in producing a particular good if they can produce that good at a lower relative opportunity cost or autarky price, i.e. at a lower relative marginal cost prior to trade.
+The law or principle of comparative advantage holds that under free trade, an agent will produce more of and consume less of a good for which they have a comparative advantage. **Free trade beats protectionism!**
+
+Price elasticity (pg 46-48):
+- High elasticity: High quantity reduction at a certain price increase
+- Low elasticity: Low quantity reduction at a certain price increase
+
+[Muy Lento](https://youtu.be/pxRJlVfiask) 
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MDUwNTU0NywtOTgyMjcwNzEsLTM4NT
-k1OTU0MSwtNTAwNzg1MjYwLC0xODg2MjMwNzI4LDEzNDg3NjEw
-ODgsLTEzMDM2MTI5NiwxNDc4MTk4OTEwLDgxMzY3MDg0MCwzOT
-kwMTA4NjMsMTg1NzczMzUxOV19
+eyJoaXN0b3J5IjpbMTIxNTQ0MjQ2MiwxMTUzNzMyNzkyLDIxMj
+UxNTY4NjcsMTUxNjUwMTI4OSw2NDc3NjUwNzUsMjAwMTQ5Nzky
+MiwyMTAxNDEyMDE0LC0xNjM2MjExMTUsMTI2NjM1NDU5OCwxOT
+Y2MTk0NDE2LC0xNDcwNTMyMDAzLDExMTI5NTk0NCwyMDU3MDIy
+NjQzLDE5NDA1MDU1NDcsLTk4MjI3MDcxLC0zODU5NTk1NDEsLT
+UwMDc4NTI2MCwtMTg4NjIzMDcyOCwxMzQ4NzYxMDg4LC0xMzAz
+NjEyOTZdfQ==
 -->
