@@ -517,8 +517,7 @@ The law of diminishing returns states that in all productive processes, adding m
 
 **Exam hint:** Ansoff Matrix, BCG Matrix, other decision tools
 
-Depreciation: a reduction in the value of an asset over time, due in particular to wear and tear.
-"provision should be made for depreciation of fixed assets"
+Depreciation: a reduction in the value of an asset over time, due in particular to wear and tear. "provision should be made for depreciation of fixed assets"
 
 Write-off: A write-off is a (extraordinary) deduction in the value of earnings by the amount of an expense or loss.
 
@@ -666,14 +665,85 @@ Price elasticity (pg 46-48):
 
 [Muy Lento](https://youtu.be/pxRJlVfiask) 
 
+## Conflict of interest, Insolvency (1/21/19)
+
+Example: WeWork, DTAG supervisory board
+=> Transparency is key!
+
+Check `/fom/mb/roe_roce_finexpert` page 7, "Median ROE"
+
+**Exam hints:**
+- Explain the Maslow pyramid of needs
+- What is the economic principle?
+- Explain Trade-Off
+- What is Comparative Advantage?
+- What is elasticity in regards to demand?
+
+Check `/fom/mb/financial_leverage_spider_ag` !
+
+Sources: 
+- HGB `http://www.gesetze-im-internet.de/`
+- Bundesanzeiger `https://www.bundesanzeiger.de/`
+- Bekanntmachungen `https://www.insolvenzbekanntmachungen.de/`
+
+Reasons for insolvency (Script #3, pg 49):
+- Illequidity §17 InsO
+- Threat of illequidity §18 InsO
+- More debt than equity "negative equity" §19 InsO
+
+*"Shoot the bleeding dog"*
+
+Negative equity can be alleviated with a Rangrücktritt loan - "throwing good money after bad money"
+
+Two possibilities for Mergers & Acquisitions:
+- Share deal
+- Asset deal
+
+## Henkel (1/22/19)
+
+Ad-hoc message, indicating slower growth than average
+
+Financial accounting: Accounts payable / Accounts receivable
+Management accounting: Controlling / Internal reporting
+
+**Transferaufgabe:**
+
+Review "Deutsche Telekom Annual Report 2017" and prepare these topics:
+- pg 9-10 -> Organisation of the overall committees
+- pg 22 -> Sustainable Development Goals
+- pg 31-34 -> **Group Organization**
+- pg 34-37 -> **Group Strategy**
+- pg 38-42 -> Group Management
+- pg 77-88 -> Corporate Responsibility & non-financial goals
+	- Sustainability indices (mandatory reporting)
+- pg 96-100 -> Employees
+	- Gender Equality
+
+**Amortisation**
+
+Note: The following items are *non-cash*
+- Depreciation
+- Write-off
+- Accruals
+- "calc" (Interest calc., Salary calc.)
+
+everything else is *cash*
+
+Check `/fom/mb/amortization_payback`
+
+**Compounding**
+
+Formula: 1/(1+r)^y^  with r being the interest rate and y the number of years
+
+Check `/fom/mb/present-value-heritage`
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTQ0MjQ2MiwxMTUzNzMyNzkyLDIxMj
-UxNTY4NjcsMTUxNjUwMTI4OSw2NDc3NjUwNzUsMjAwMTQ5Nzky
-MiwyMTAxNDEyMDE0LC0xNjM2MjExMTUsMTI2NjM1NDU5OCwxOT
-Y2MTk0NDE2LC0xNDcwNTMyMDAzLDExMTI5NTk0NCwyMDU3MDIy
-NjQzLDE5NDA1MDU1NDcsLTk4MjI3MDcxLC0zODU5NTk1NDEsLT
-UwMDc4NTI2MCwtMTg4NjIzMDcyOCwxMzQ4NzYxMDg4LC0xMzAz
-NjEyOTZdfQ==
+eyJoaXN0b3J5IjpbLTE5NDAxNjM2MzIsMTA3NzQ5MzU3NiwxMj
+E1NDQyNDYyLDExNTM3MzI3OTIsMjEyNTE1Njg2NywxNTE2NTAx
+Mjg5LDY0Nzc2NTA3NSwyMDAxNDk3OTIyLDIxMDE0MTIwMTQsLT
+E2MzYyMTExNSwxMjY2MzU0NTk4LDE5NjYxOTQ0MTYsLTE0NzA1
+MzIwMDMsMTExMjk1OTQ0LDIwNTcwMjI2NDMsMTk0MDUwNTU0Ny
+wtOTgyMjcwNzEsLTM4NTk1OTU0MSwtNTAwNzg1MjYwLC0xODg2
+MjMwNzI4XX0=
 -->
