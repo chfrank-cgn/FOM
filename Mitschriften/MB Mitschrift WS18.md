@@ -737,13 +737,87 @@ Formula: 1/(1+r)^y^  with r being the interest rate and y the number of years
 
 Check `/fom/mb/present-value-heritage`
 
+## Gerry Weber insolvency (1/29/19)
+
+Check [dgap.de](https://dgap.de/) for mandatory filings in Germany
+
+**Tax**
+
+Income tax is a [community tax](https://www.investopedia.com/terms/l/localtax.asp) and based on domiciliation. 
+To pay dues only once, many countries have mutual double taxation treaties
+
+Sources of income in Germany:
+- Agriculture
+- Business
+- Freelance
+- Salaried employment
+- Rent / Lease
+- Other (e.g. Inheritance, Lottery, ...)
+
+In Germany, income tax is progressive and starts at 14%, currently increasing up to 42% (target 45%)
+
+Trade tax is a property tax
+
+VAT is a community tax (Value Added Tax), currently in Germany at 19% (reduced rate 7%)
+VAT is paid by the end consumer - businesses and retailer can deduct VAT
+Not to confuse with a Sales Tax, as levied in the US
+
+**Accounting**
+
+Why accounting?
+- Overview of costs
+- Required by law (double accounting)
+- Calculation base for investments (Go/Nogo)
+- Calculation base for pricing
+- Element of liquidity planning
+- External reporting of critical data (P&L, Cash-Flow, Balance sheet)
+- Gain cost transparency, to identify savings
+- Controlling (actual vs. planned)
+- Base for management decisions
+- Base for HR performance management (Cost Center reporting)
+- Transfer pricing
+- Tax payments
+
+Golden rule of transfer pricing: *"At Arm's length"* (i.e. at market price)
+
+**Operational accounting**
+
+- Financial accounting -> External
+- Management accounting -> Internal
+
+**Exam hints:**
+- Cost accounting (Which costs do we have?)
+- Cost center accounting (Where do they arise?)
+- Cost unit / Product accounting (For which product do they arise?) 
+
+Types of costs:
+- Material costs
+- Personnel costs
+
+Cost center: Costs allocated to a department / project
+
+Cost unit: Costs allocated to a product
+
+For cost, cash-flow and expenditure, check `/fom/mb/img_20190129_150906`
+
+Cost element accounting:
+- Clarity
+- Consistency
+- Completeness
+- Profitability
+
+Working capital:
+*"Vorräte plus Forderungen aus Lieferungen/Leistungen minus Verbindlichkeiten aus Lieferungen/Leistungen"* 
+
+PV: Present Value
+NPV: Net Present Value
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDAxNjM2MzIsMTA3NzQ5MzU3NiwxMj
-E1NDQyNDYyLDExNTM3MzI3OTIsMjEyNTE1Njg2NywxNTE2NTAx
-Mjg5LDY0Nzc2NTA3NSwyMDAxNDk3OTIyLDIxMDE0MTIwMTQsLT
-E2MzYyMTExNSwxMjY2MzU0NTk4LDE5NjYxOTQ0MTYsLTE0NzA1
-MzIwMDMsMTExMjk1OTQ0LDIwNTcwMjI2NDMsMTk0MDUwNTU0Ny
-wtOTgyMjcwNzEsLTM4NTk1OTU0MSwtNTAwNzg1MjYwLC0xODg2
-MjMwNzI4XX0=
+eyJoaXN0b3J5IjpbMTk3MTE4MzQyMSw0OTE1MzY2NjcsMTY0OT
+A4NzgxNywtMjE0MzkxOTE4NiwxOTc3MzczNzM2LC0xOTQwMTYz
+NjMyLDEwNzc0OTM1NzYsMTIxNTQ0MjQ2MiwxMTUzNzMyNzkyLD
+IxMjUxNTY4NjcsMTUxNjUwMTI4OSw2NDc3NjUwNzUsMjAwMTQ5
+NzkyMiwyMTAxNDEyMDE0LC0xNjM2MjExMTUsMTI2NjM1NDU5OC
+wxOTY2MTk0NDE2LC0xNDcwNTMyMDAzLDExMTI5NTk0NCwyMDU3
+MDIyNjQzXX0=
 -->
