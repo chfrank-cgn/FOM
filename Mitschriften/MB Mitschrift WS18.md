@@ -812,12 +812,96 @@ Working capital:
 PV: Present Value
 NPV: Net Present Value
 
+## Costing (2/4/19)
+
+Check formulas in `/fom/mb/product_costing_magnum_cornetto`
+Check Spider AG Boots or Gloves? (missing)
+
+Why accounting?
+- What are my costs? (variable/fixed)
+	- What should the price be?
+
+Explanatory video: https://youtu.be/M4Wl8P00vtE
+
+**Growth Financing** (Script #2, Pg 127-143)
+
+Types of financing:
+- IPO
+- Private equity
+- Venture capital
+- Mezzanine
+	- Silent participation
+	- Participation rights capital
+	- Convertible / Warrant bonds
+	- Subordinate loans
+- Hedge fonds
+
+Context for private capital investing: https://www.privcap.com/
+
+Key KPI for private equity: MOIC
+- Multiple on invested capital
+- Target: 2x - 3x 
+
+[EQT](http://www.eqtpartners.com/) (Sweden, Wallenberg):
+- Gross MOIC: 2.5%
+- IRR: 21%
+
+Note: During an IPO, costs go up due to the mandatory reporting and legal structures / framework needed. Also, there's an initial cost for an IPO!
+
+*Shares are equity. Borrowed capital is debt.*
+
+**Exam hints:**
+- Script #1, page 131 - Elements of debt and equity
+- Script #1, page 111 - Balance Sheet
+- Multiple Choice:
+	- The number of points indicate the number of correct answers
+- In total, between 19 to 20 questions (with 90 total points)
+
+**Risk Management**
+
+Why risk management?
+- Risk transparency to share/stakeholder
+- Risk transparency to investors (VC)
+- How to deal with identified risks?
+	- Manage risks: Avoid / Minimize / Mitigate
+- Risk buffer in P&L accounting
+- Legal requirements (transparency)
+	- [§91(2) AktG](https://www.gesetze-im-internet.de/aktg/__92.html)
+	- ISO 27001 Certification
+		- Requires risk management
+
+DTAG annual report (2017), page 111 - Risk mangement
+Allgeier SE annual report (2017), page 35 (18) - Risk management
+
+*Goal: Manage risks to ensure and protect the organisation of cash flows*
+
+Risk management process: Script #3, page 13
+
+**Exam hints:**
+- ROCE
+- ROE
+
+ROI := Operational margin / Captial turnover
+
+> Let the assets sweat
+
+Check Du Pont analysis Spider AG (missing)
+
+**[Balanced Scorecard](http://www.balanced-scorecard.de/)**
+
+KPI:
+- ROCE > WACC
+- [ARPU](https://www.investopedia.com/terms/a/arpu.asp)
+
+Book: [Bernard Marr - Key Performance Indicators](https://www.buecher.de/shop/fachbuecher/key-performance-indicators-kpi-ebook-epub/marr-bernard/products_products/detail/prod_id/38195259/)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTE4MzQyMSw0OTE1MzY2NjcsMTY0OT
-A4NzgxNywtMjE0MzkxOTE4NiwxOTc3MzczNzM2LC0xOTQwMTYz
-NjMyLDEwNzc0OTM1NzYsMTIxNTQ0MjQ2MiwxMTUzNzMyNzkyLD
-IxMjUxNTY4NjcsMTUxNjUwMTI4OSw2NDc3NjUwNzUsMjAwMTQ5
-NzkyMiwyMTAxNDEyMDE0LC0xNjM2MjExMTUsMTI2NjM1NDU5OC
-wxOTY2MTk0NDE2LC0xNDcwNTMyMDAzLDExMTI5NTk0NCwyMDU3
-MDIyNjQzXX0=
+eyJoaXN0b3J5IjpbODM3NjIzODk4LC0xNjk2ODU1OTkxLDE5Nz
+ExODM0MjEsNDkxNTM2NjY3LDE2NDkwODc4MTcsLTIxNDM5MTkx
+ODYsMTk3NzM3MzczNiwtMTk0MDE2MzYzMiwxMDc3NDkzNTc2LD
+EyMTU0NDI0NjIsMTE1MzczMjc5MiwyMTI1MTU2ODY3LDE1MTY1
+MDEyODksNjQ3NzY1MDc1LDIwMDE0OTc5MjIsMjEwMTQxMjAxNC
+wtMTYzNjIxMTE1LDEyNjYzNTQ1OTgsMTk2NjE5NDQxNiwtMTQ3
+MDUzMjAwM119
 -->
