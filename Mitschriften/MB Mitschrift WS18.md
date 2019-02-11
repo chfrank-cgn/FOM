@@ -812,7 +812,7 @@ Working capital:
 PV: Present Value
 NPV: Net Present Value
 
-## Costing (2/4/19)
+## Accounting (2/4/19)
 
 Check formulas in `/fom/mb/product_costing_magnum_cornetto`
 Check Spider AG Boots or Gloves? (missing)
@@ -895,13 +895,125 @@ KPI:
 
 Book: [Bernard Marr - Key Performance Indicators](https://www.buecher.de/shop/fachbuecher/key-performance-indicators-kpi-ebook-epub/marr-bernard/products_products/detail/prod_id/38195259/)
 
+## Germania insolvency (2/5/19)
+
+**Turnaround Management**
+
+Restructuring steps:
+- Analyze the company
+	- Source of loss
+	- Sources of income
+- Analyze the market
+- Communicate / convince stakeholders 
+
+Tools: [SWOT](https://www.investopedia.com/terms/s/swot.asp), [Pestel](https://www.professionalacademy.com/blogs-and-advice/marketing-theories---pestel-analysis), [BCG](https://www.strategicmanagementinsight.com/tools/bcg-matrix-growth-share.html), ...
+
+Key questions:
+- What is the healthy part of the business?
+- How can mid-term financing be secured?
+
+Reorganisation := Emergency measure
+Restructuring :- Continuos focus on a new company concept
+
+**Gross Domestic Product**
+
+GDP is the market value of all finished goods and services produced in a country within a year (Nominal GDP)
+
+Real GDP is adjusted for inflation, Real GDP per capita is also adjusted for populace
+
+Charts:
+- [US nominal GDP](https://fred.stlouisfed.org/series/GDP)
+- [Real US GDP](https://fred.stlouisfed.org/series/GDPC1)
+- [Real US GDP per capita](https://fred.stlouisfed.org/series/A939RX0Q048SBEA)
+
+> Real GDP per capita is a good indicator for the standard of living in
+> a country
+
+Check Snow White calculation (missing)
+
+**Exam preparation:**
+
+"Big picture" - check `/fom/mb/img_20190205_145005`
+
+> Key rationale of Management Basics is to help us make decisions
+
+Check summary sheet `/fom/mb/20190203_key_elements_of_doing_business`
+
+Slide review:
+
+Deck #1: 38, 39, 42, 50, 60, 65, 80, 82, 84, 85, 91, 93, 98, 99, 102, 106, **110**, **111**, 126, 127, 128, 133, 143
+Deck #2: 10, 14, 21, 22, 30, 32, 37, 40, **41**, 74, 88, 99, 108, 110, 113, 117, 130, 137, 138, 141, 142
+Deck #3: See notes from the last two days
+
+## PS Populismus (2/11/19)
+
+[PS Populismus by Christian Lindner](https://www.handelsblatt.com/meinung/kolumnen/expertenrat/wenzel/expertenrat-eike-wenzel-ps-populismus-blockiert-die-zukunft-ein-offener-brief-an-christian-lindner/23960940.html?share=twitter&ticket=ST-877634-UekJkVnzbvCIa1lnr0yZ-ap6)
+
+Break-Event:
+- Cost = Revenue
+- x &times; Price - x &times; varCosts - fixCosts = 0 *(x: number of units)*
+
+Potter's [Five Forces](https://www.investopedia.com/terms/p/porter.asp):
+1. Competition in the industry
+2. Potential of new entrants into the industry
+3. Power of suppliers
+4. Power of customers
+5. Threat of substitute products
+
+**ROCE** = NetProfit (==Revenue-Interest) + Interest / total Capital
+
+**ROE** = NetProfit / Equity
+
+Growth strategies, [Ansoff Matrix](https://en.wikipedia.org/wiki/Ansoff_Matrix) - Markets & Products, new and old
+-   [Market penetration](https://en.wikipedia.org/wiki/Ansoff_Matrix#Market_penetration)
+-   [Market development](https://en.wikipedia.org/wiki/Ansoff_Matrix#Market_development)
+-   [Product development](https://en.wikipedia.org/wiki/Ansoff_Matrix#Product_development)
+-   [Diversification](https://en.wikipedia.org/wiki/Ansoff_Matrix#Diversification)
+
+[Growth-Share Matrix](https://en.wikipedia.org/wiki/Growth%E2%80%93share_matrix), BCG Matrix - Markte share & Market growth
+- _**Dogs**_, more charitably called _pets_, are units with low market share in a mature, slow-growing industry
+- _**Cash cows**_ is where a company has high market share in a slow-growing industry
+- _**Question marks**_ (also known as **problem children** or **Wild cats**) are businesses operating with a low market share in a high-growth market
+- _**Stars**_ are units with a high market share in a fast-growing industry
+
+Profit margin = NetProfit/Revenue = Revenue-Cost/Revenue
+
+**4P**: Product, Place, Promotion, Price
+
+**Business Plan:**
+- Management summary
+- Products
+- Risks & Opportunities
+- Marketing & Competition
+- Marketing & Sales
+- Company
+- Management Organization
+- Financial requirements
+- Finance plan 3 years
+
+**Pestel:** (Risk analysis)
+- Political
+- Economical
+- Social & cultural
+- Technology
+- Ecological
+- Legal
+
+**SWOT Matrix:**
+- Helpful
+- Harmful
+- External
+- Internal
+
+**WACC:** Weighted Average Cost of Capital
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3NjIzODk4LC0xNjk2ODU1OTkxLDE5Nz
-ExODM0MjEsNDkxNTM2NjY3LDE2NDkwODc4MTcsLTIxNDM5MTkx
-ODYsMTk3NzM3MzczNiwtMTk0MDE2MzYzMiwxMDc3NDkzNTc2LD
-EyMTU0NDI0NjIsMTE1MzczMjc5MiwyMTI1MTU2ODY3LDE1MTY1
-MDEyODksNjQ3NzY1MDc1LDIwMDE0OTc5MjIsMjEwMTQxMjAxNC
-wtMTYzNjIxMTE1LDEyNjYzNTQ1OTgsMTk2NjE5NDQxNiwtMTQ3
-MDUzMjAwM119
+eyJoaXN0b3J5IjpbMTE2NjgxMjI1MywtNDcxMjIyMDcwLC00NT
+EzNDYwMjYsODM3NjIzODk4LC0xNjk2ODU1OTkxLDE5NzExODM0
+MjEsNDkxNTM2NjY3LDE2NDkwODc4MTcsLTIxNDM5MTkxODYsMT
+k3NzM3MzczNiwtMTk0MDE2MzYzMiwxMDc3NDkzNTc2LDEyMTU0
+NDI0NjIsMTE1MzczMjc5MiwyMTI1MTU2ODY3LDE1MTY1MDEyOD
+ksNjQ3NzY1MDc1LDIwMDE0OTc5MjIsMjEwMTQxMjAxNCwtMTYz
+NjIxMTE1XX0=
 -->
