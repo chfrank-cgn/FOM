@@ -43,8 +43,24 @@ Java API: Oracle docs
 
     javadoc -author -version
 
+## microXchg (4/1/19)
+
+  **Klausur:**
+- Klassen und Objekte  
+- Use Case und Klassendiagramme (alle Eigenschaften)  
+- Übersetzug von Code nach Klassendiagramm und umgekehrt  
+- Richtiges und sinnvolles Kommentieren von Code  
+- Primitive und Komplexe Datentypen (Insbesondere Unterschiede)  
+- Alle Variablentypen (Klassen-, Instanz-, lokale Variable und die jeweilige Visibility)  
+- Arrays  
+- String und StringBuffer  
+- Garbage Collector und Referenzen
+
+Hausaufgabe: 03-03, 03-04
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU3NTMxNjQ1LDE3NDQ3MjE4MjYsLTk2MT
-c5MDk1MSwtMjM5MDU5NzQxLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTEyNDQwMDM0MjksNjU3NTMxNjQ1LDE3ND
+Q3MjE4MjYsLTk2MTc5MDk1MSwtMjM5MDU5NzQxLDczMDk5ODEx
+Nl19
 -->
