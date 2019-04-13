@@ -171,12 +171,61 @@ A: Sei X die normalverteilte Zufallsvariable, gesucht ist
 
 P(X < 78) = P(Z < (78-&mu;)&divide;&sigma;) = P(Z < 78-70&divide;5) = P(Z < 1.6) = 0.9452 **(aus Z-Tabelle)**
 
+## Kapitel 6 - nicht klausurrelevant
+
+## Kapitel 7 (4/8/19)
+
+Parameterschätzung
+
+7.1 Punktschätzung
+
+7.1.1 Punktschätzung über einen Mittelwert &mu;
+
+Normalverteilte Grundgesamtheit X ~ N(&mu;,&sigma;^2^)
+Zufällige Stichprobe x1, x2, ... , xn
+
+&mu;-Schätzwert x = &sum; xi &div; n = (x1 + x2 + ... + xn) &div; n
+
+7.1.2 Schätzwert für unbekannte Standardabweichung
+
+S = &radic; &sum;(xi-x)^2^ &div; (n-1) = &radic; (&sum;xi^2^ - n &times; x^2^) &div; (n-1)
+
+7.2 Intervallschätzung
+
+Fall 1) &mu; ist unbekannt - &sigma; ist bekannt
+Fall 2) &mu; ist unbekannt - & sigma; ist ebenfalls unbekannt
+
+Gesucht: Wertebereich in dem sich &mu; mit grosser (>95%) Wahrscheinlichkeit befindet (&alpha=0.05)
+
+1) Gegeben sei X ~ N(&mu;,&sigma;^2^); &mu; unbekannt; &sigma; bekannt
+Schätzwert x wie oben - der Wert ist stochastisch, d.h. durch die Stichprobe bestimmt
+
+Konfidenzintervall: x - Z&alpha;/2 + &sigma; &div; &radic; n < &mu; < x + Z&alpha;/2 + &sigma; &div; &radic; n
+
+**Exkurs:** Z : Normalverteilung in der Standardform (Z-Tabelle)
+
+P(Z < Z&alpha) = 1 - &alpha;
+
+2) Gegeben sei X ~ N(&mu;,&sigma;^2^); &mu; unbekannt; &sigma; unbekannt
+ 
+**Exkurs:** t-Tabelle: df - degrees of freedom (Freiheitsgrade)
+
+x - t(&alpha;/2,n-1) &times; S &div; &radic; n < &mu; < x + t(&alpha;/2,n-1) &times; S &div; &radic; n
+
+## Kapitel 8 (4/16/19)
+
+Hypothesentest: H0 - Nullhypothese, H1 - Alternativhypothese
+
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDYzMjgwNTcsLTEwNjI3MzAyMCwtNz
-Y2NjkyMTEzLC04ODk1MTc4MjksLTUzMDkxMDk2NSwtMzA4MzIx
-MDA0LDE5MzkwMDU3NTMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE4NzA3MzAwNjQsMTIxOTkxNTg2OSwyMT
+g5ODM3NzEsMTc1ODc3MzQzMywxOTkxODI5ODYwLDgzNzA0OTgw
+MCwtMjE0NjMyODA1NywtMTA2MjczMDIwLC03NjY2OTIxMTMsLT
+g4OTUxNzgyOSwtNTMwOTEwOTY1LC0zMDgzMjEwMDQsMTkzOTAw
+NTc1Myw3MzA5OTgxMTZdfQ==
 -->

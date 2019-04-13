@@ -14,6 +14,7 @@ Hauptrisiken beim Anfertigen einer Facharbeit / Hausarbeit:
 - Verfehlung des Themas
 
 **Termin 4/9:** Festlegung des Themas
+**Termin 4/18:** Gliederung
 **Termin 6/18:** Abgabe der Arbeit und mündliche Präsentation
 
 **Lesen:** Leon Neschle - [Eine kleine Philosophie der Hausarbeit](http://www.neschle.de/index.php/blog/leon-neschle-34-7-woche-2008/)
@@ -27,7 +28,9 @@ Struktur der Hausarbeit:
 - Fazit & Ausblick
 	- 1 Seite: Nur Ergebnisse, verkürzt
 
+Zitieren: Kurz, mit Quellenverzeichnis, Fußnote - direkt bzw. "vgl" indirekt
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDgxODg3MywxMDYxMTYxNjI3XX0=
+eyJoaXN0b3J5IjpbMTYyOTc1OTMzOCwyMDc0ODE4ODczLDEwNj
+ExNjE2MjddfQ==
 -->

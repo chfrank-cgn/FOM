@@ -117,8 +117,69 @@ Zweite Normalform (2NF) (Skript Seite 81):
 Dritte Normalform (3NF) (Skript Seite 86):
 2NF + kein Nichtschlüsselattribut hängt transitiv von dem Primärschlüssel ab
 
+## Relationale Algebra (4/1/19)
+fehlt
+
+## Lookup in der Praxis (4/1/19)
+fehlt
+
+**Klausur:** Übungsaufgaben!
+
+## SQL Objekte (4/9/19)
+
+SQL Objekte:
+- Database
+- Table
+- View
+- Index
+- Procedure
+- Function
+- Trigger (CRUD)
+- User
+
+DDL - Data Definition Language
+DML - Data Modification Language
+
+DDL:
+- CREATE
+- ALTER
+- RENAME
+- DROP
+("IF EXISTS" / "IF NOT EXISTS")
+
+Namenskonventionen:
+- PascalCase
+- camelCase
+- snake_case
+- kebab.case
+
+Tabellen und Variable immer im Singular!
+
+Primary Key: id
+Foreign Key: "tabelle"\_id
+
+Datentypen:
+- char
+- varchar
+- binary
+- varbinary
+- tinytext (-blob)
+- text (blob)
+- mediumtext (-blob)
+- longtext (-blob)
+- smallint
+- mediumint
+- int
+- bigint
+- numeric(n,m) / decimal(n,m)
+- double(n,m) / real(n,m)
+- float(n,m)
+- bool (1=true; 2=false; -> tinyint)
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTI3ODgzNjIsMjA2MDI5MTgzOSwtMT
-E0NDI1MjU1NCw2ODgyMzk1MzgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE2OTM5NjczMDQsMTg3NTk0MDY2NCwtMj
+ExMjc4ODM2MiwyMDYwMjkxODM5LC0xMTQ0MjUyNTU0LDY4ODIz
+OTUzOCw3MzA5OTgxMTZdfQ==
 -->
