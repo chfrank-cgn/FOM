@@ -156,7 +156,7 @@ Namenskonventionen:
 Tabellen und Variable immer im Singular!
 
 Primary Key: id
-Foreign Key: "tabelle"\_id
+Foreign Key: \<tabelle\>\_id
 
 Datentypen:
 - char
@@ -176,10 +176,22 @@ Datentypen:
 - float(n,m)
 - bool (1=true; 2=false; -> tinyint)
 
+## Eingebaute Funktionen (4/15/19)
+
+Eingebaute Funktionen (pg. 224):
+- Textfunktionen
+- Aggregatfunktionen
+- Mathematische Funktionen
+- Datumsfunktionen
+
+[MySQL Version der Northwind-Datenbank](https://github.com/dalers/mywind)
+
+[MySQL World Demo-Datenbank](https://dev.mysql.com/doc/world-setup/en/)
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTM5NjczMDQsMTg3NTk0MDY2NCwtMj
-ExMjc4ODM2MiwyMDYwMjkxODM5LC0xMTQ0MjUyNTU0LDY4ODIz
-OTUzOCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTkwNjE0OTUzMCwxODc1OTQwNjY0LC0yMT
+EyNzg4MzYyLDIwNjAyOTE4MzksLTExNDQyNTI1NTQsNjg4MjM5
+NTM4LDczMDk5ODExNl19
 -->

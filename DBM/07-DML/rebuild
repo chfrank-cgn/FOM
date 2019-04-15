@@ -1,0 +1,13 @@
+#!/bin/sh
+
+# create database
+mysql --user=dbm --password=fom --verbose < shopdb.sql
+
+# fill tables
+mysql --user=dbm --password=fom --verbose < product.sql
+mysql --user=dbm --password=fom --verbose < customer.sql
+mysql --user=dbm --password=fom --verbose < sales.sql
+
+# update tables
+mysql --user=dbm --password=fom --verbose < update.sql
+

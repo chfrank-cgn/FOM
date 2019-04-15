@@ -14,7 +14,7 @@ create table abteilung (
 	id int not null auto_increment primary key,
 	kuerzel char(7) not null unique,
 	beschreibung varchar(60) not null,
-	letzte_aenderung timestamp
+	letzte_aenderung timestamp current_timestamp on update current_timestamp
 );
 drop table if exists mitarbeiter;
 create table mitarbeiter (
@@ -26,7 +26,7 @@ create table mitarbeiter (
 	geb_datum date default '1970-01-01',
 	geschlecht enum('M', 'W', 'D') default 'D',
 	titel set('Dr.', 'Prof.','Mag.'),
-	letzte_aenderung timestamp,
+	letzte_aenderung timestamp current_timestamp on update current_timestamp,
 	foreign key (abteilung_id) references abteilung(id)
 );
 drop table if exists adresse;
@@ -35,14 +35,14 @@ create table adresse (
 	strasse varchar(60) not null,
 	plz smallint unsigned not null,
 	ort varchar(30) not null,
-	letzte_aenderung timestamp
+	letzte_aenderung timestamp current_timestamp on update current_timestamp
 );
 drop table if exists mitarbeiter_adresse;
 create table mitarbeiter_adresse (
 	mitarbeiter_id int,
 	adresse_id int,
 	type enum('Hauptwohnsitz', 'Zweitwohnsitz') not null,
-	letzte_aenderung timestamp,
+	letzte_aenderung timestamp current_timestamp on update current_timestamp,
 	foreign key (mitarbeiter_id) references mitarbeiter(id),
 	foreign key (adresse_id) references adresse(id)
 );
