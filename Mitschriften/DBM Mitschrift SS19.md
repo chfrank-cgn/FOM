@@ -188,10 +188,18 @@ Eingebaute Funktionen (pg. 224):
 
 [MySQL World Demo-Datenbank](https://dev.mysql.com/doc/world-setup/en/)
 
+## SQL Trigger and Functions (4/29/19)
+
+*Neue Skripte re: DML*
+
+CREATE TRIGGER \<name\> \<time\> \<event\> ON \<table\> FOR EACH ROW \<statement\>
+
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjE0OTUzMCwxODc1OTQwNjY0LC0yMT
-EyNzg4MzYyLDIwNjAyOTE4MzksLTExNDQyNTI1NTQsNjg4MjM5
-NTM4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMzgzNDczNjUzLDE5MDYxNDk1MzAsMTg3NT
+k0MDY2NCwtMjExMjc4ODM2MiwyMDYwMjkxODM5LC0xMTQ0MjUy
+NTU0LDY4ODIzOTUzOCw3MzA5OTgxMTZdfQ==
 -->

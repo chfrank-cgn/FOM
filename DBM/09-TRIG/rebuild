@@ -1,0 +1,10 @@
+#!/bin/sh
+
+# create database
+mysql --user=dbm --password=fom --verbose < mydb-intro.sql
+
+# create trigger
+mysql --user=dbm --password=fom --verbose < trigger.sql
+
+# execute functions
+mysql --user=dbm --password=fom  < function.sql 

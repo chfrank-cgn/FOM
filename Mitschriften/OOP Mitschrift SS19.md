@@ -58,9 +58,45 @@ Java API: Oracle docs
 
 Hausaufgabe: 03-03, 03-04
 
+## Kontrollstrukturen (4/29/19)
+
+String: fest
+StringBuffer: veränderlich
+Array of String: String[] enea = new String[];
+
+for-each construct, execute once for each element of the array:
+
+for (\<type\> \<variable\> :  \<array\>) {
+    ...
+}
+
+*this: Pointer to self (instance variable)*
+
+Function calls:
+- Simple data types: call-by-value
+- Classes: call-by-reference
+
+Overload of functions:
+- `String.substring(int beginIndex)`
+- `String.substring(int beginIndex, int endIndex)`
+(distinction through signature: method+parameter list)
+
+Information Hiding
+- set class variable `private`
+- introduce get/set methods
+
+Class variables defined as `public static` are valid in all instances!
+
+Convention: Set instance variables `private`
+
+A constructor has always the same name as the class, it's purpose is initialization
+
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQwMDM0MjksNjU3NTMxNjQ1LDE3ND
-Q3MjE4MjYsLTk2MTc5MDk1MSwtMjM5MDU5NzQxLDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbLTg5NTMxNzExMiwtMTI0NDAwMzQyOSw2NT
+c1MzE2NDUsMTc0NDcyMTgyNiwtOTYxNzkwOTUxLC0yMzkwNTk3
+NDEsNzMwOTk4MTE2XX0=
 -->
