@@ -3,6 +3,7 @@
 Peter Hecker
 
 [MySQL Handbuch](https://dev.mysql.com/doc/refman/8.0/en/)
+[MariaDB Handbuch](https://mariadb.com/kb/en/library/documentation/)
 
 **Klausur** (6/11):
 - Theorie
@@ -194,12 +195,20 @@ Eingebaute Funktionen (pg. 224):
 
 CREATE TRIGGER \<name\> \<time\> \<event\> ON \<table\> FOR EACH ROW \<statement\>
 
+## SQL Security (4/30/19)
+
+DCL - Data Control Language 
+
+CIA - Confidentiality, Integrity, Availability - 3 zentrale Schutzziele
+
+Elemente von RBAC: Authentifizierung, Authorisierung
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzNDczNjUzLDE5MDYxNDk1MzAsMTg3NT
-k0MDY2NCwtMjExMjc4ODM2MiwyMDYwMjkxODM5LC0xMTQ0MjUy
-NTU0LDY4ODIzOTUzOCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTU3MDk3OTExOSwtMjEzMDg3MjgyNywzOD
+M0NzM2NTMsMTkwNjE0OTUzMCwxODc1OTQwNjY0LC0yMTEyNzg4
+MzYyLDIwNjAyOTE4MzksLTExNDQyNTI1NTQsNjg4MjM5NTM4LD
+czMDk5ODExNl19
 -->

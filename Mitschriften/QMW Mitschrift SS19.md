@@ -3,6 +3,8 @@
 [Liste der mathematischen Symbole](https://de.wikipedia.org/wiki/Liste_mathematischer_Symbole)
 [Liste der griechischen Buchstaben](http://www.millin.de/downloads/3-935922-52-3/src/sonderzeichgriech.htm)
 
+## Kapitel 1
+
 Statistik
 - Deskriptive Statistik
 - Induktive Statistik
@@ -26,6 +28,8 @@ Klassifizierung von Daten
 
 *Regel: Zuordnung der Daten linkbündig, d.h. am Anfang*
 
+## Kapitel 2
+
 Masszahlen für die zentrale Lage
 - Arithmetischer Mittelwert
 - Geometrischer Mittelwert
@@ -40,6 +44,9 @@ Modus: Der Wert mit der grössten Häufigkeit
 - Immer Einheiten aufschreiben!
 - Immer Formel aufschreiben und Lösungsweg herleiten!
 
+## Kapitel 3
+
+fehlt
 
 ## Kapitel 4 (3/12/19)
 
@@ -171,7 +178,7 @@ A: Sei X die normalverteilte Zufallsvariable, gesucht ist
 
 P(X < 78) = P(Z < (78-&mu;)&divide;&sigma;) = P(Z < 78-70&divide;5) = P(Z < 1.6) = 0.9452 **(aus Z-Tabelle)**
 
-## Kapitel 6 - nicht klausurrelevant
+## Kapitel 6 - nicht Klausurrelevant
 
 ## Kapitel 7 (4/8/19)
 
@@ -212,9 +219,47 @@ P(Z < Z&alpha) = 1 - &alpha;
 
 x - t(&alpha;/2,n-1) &times; S &div; &radic; n < &mu; < x + t(&alpha;/2,n-1) &times; S &div; &radic; n
 
-## Kapitel 8 (4/16/19)
+## Kapitel 8 (4/15/19)
 
 Hypothesentest: H0 - Nullhypothese, H1 - Alternativhypothese
+Signifikanzniveau &alpha;
+
+Testgrösse TS = ($\bar x$ - &mu;) &div; &sigma; &div; &radic;n
+
+Verwerfungsbereich W &isin; [-&infin;, -\<Z&alpha;/2\>] &cup; [\<Z&alpha;/2\>, &infin;]
+
+Liegt die Testgrösse im Verwerfungsbereich, so wird H0 verworfen
+
+**8.3 Hypothesentest mit &mu;0 und &sigma; unbekannt**
+
+Normalverteilung  X ~ N(&mu0;,&sigma;^2^)
+
+H0: &mu; = &mu;0
+H1: &mu; &ne; &mu;0
+
+Testgrösse TS = = ($\bar x$ - &mu;0) &div; S &div; &radic;n
+(S : Schätzwert für die unbekannte Standardabweichung, siehe oben)
+
+Kritischer Wert für die Verwerfung von &mu;0 : t&alpha;/2,n-1 (aus t-Tabelle)
+
+Verwerfungsbereich W &isin; [-&infin;, -\<t&alpha;/2,n-1\>] &cup; [\<t&alpha;/2,n-1\>, &infin;]
+
+## Kapitel 9 - nicht Klausurrelevant
+
+## Kapitel 10
+
+10.1 Lineare Korrelation
+
+x und y sind unabhängige Variablen, die in einer Stichprobe als Wertepaare (Tupel) mit der Anzahl n vorliegen
+
+Der Korrelationskoeffizient r nimmt Werte von -1 &le; r &le; 1 an
+Ist r = 0, so liegt keine Korrelation vor
+Ist $\vert r \vert$ = 1, soliegt eine vollständige Korrelation vor
+
+r = (&sum;(xi &times; yi) - n &times; $\bar x$ &times; $\bar y$) &div; ((&radic; &sum;(xi^2^) -n &times; $\bar x$^2^) &times; (&radic; &sum;(yi^2^) -n &times; $\bar y$^2^))
+
+10.2 Lineare Regression
+
 
 
 
@@ -223,9 +268,10 @@ Hypothesentest: H0 - Nullhypothese, H1 - Alternativhypothese
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA3MzAwNjQsMTIxOTkxNTg2OSwyMT
-g5ODM3NzEsMTc1ODc3MzQzMywxOTkxODI5ODYwLDgzNzA0OTgw
-MCwtMjE0NjMyODA1NywtMTA2MjczMDIwLC03NjY2OTIxMTMsLT
-g4OTUxNzgyOSwtNTMwOTEwOTY1LC0zMDgzMjEwMDQsMTkzOTAw
-NTc1Myw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbODEwMjgwMTY3LDE2MDU1MDgxMjIsNTg5Mz
+k0MjM2LC0xNzE0ODc1OTcsLTE4NzA3MzAwNjQsMTIxOTkxNTg2
+OSwyMTg5ODM3NzEsMTc1ODc3MzQzMywxOTkxODI5ODYwLDgzNz
+A0OTgwMCwtMjE0NjMyODA1NywtMTA2MjczMDIwLC03NjY2OTIx
+MTMsLTg4OTUxNzgyOSwtNTMwOTEwOTY1LC0zMDgzMjEwMDQsMT
+kzOTAwNTc1Myw3MzA5OTgxMTZdfQ==
 -->
