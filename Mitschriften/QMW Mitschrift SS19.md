@@ -3,7 +3,9 @@
 [Liste der mathematischen Symbole](https://de.wikipedia.org/wiki/Liste_mathematischer_Symbole)
 [Liste der griechischen Buchstaben](http://www.millin.de/downloads/3-935922-52-3/src/sonderzeichgriech.htm)
 
-## Kapitel 1
+## Statistik
+
+### Kapitel 1
 
 Statistik
 - Deskriptive Statistik
@@ -28,7 +30,7 @@ Klassifizierung von Daten
 
 *Regel: Zuordnung der Daten linkbündig, d.h. am Anfang*
 
-## Kapitel 2
+### Kapitel 2
 
 Masszahlen für die zentrale Lage
 - Arithmetischer Mittelwert
@@ -44,11 +46,11 @@ Modus: Der Wert mit der grössten Häufigkeit
 - Immer Einheiten aufschreiben!
 - Immer Formel aufschreiben und Lösungsweg herleiten!
 
-## Kapitel 3
+### Kapitel 3
 
 fehlt
 
-## Kapitel 4 (3/12/19)
+### Kapitel 4 (3/12/19)
 
 4.1 fehlt
 
@@ -89,7 +91,7 @@ P(E1|A) = P(E1) &times; P(A|E1) &divide; P(A)
 
 **Klausur:** Aufgabe Seite 12 zu 4.3, Aufgabe Seite 13 zu 4.5
 
-## Kapitel 5 (3/19/19)
+### Kapitel 5 (3/19/19)
 
 Zufallsvariable
 Beispiel: Münzen werfen (Head/Tails)
@@ -178,9 +180,9 @@ A: Sei X die normalverteilte Zufallsvariable, gesucht ist
 
 P(X < 78) = P(Z < (78-&mu;)&divide;&sigma;) = P(Z < 78-70&divide;5) = P(Z < 1.6) = 0.9452 **(aus Z-Tabelle)**
 
-## Kapitel 6 - nicht Klausurrelevant
+### Kapitel 6 - nicht Klausurrelevant
 
-## Kapitel 7 (4/8/19)
+### Kapitel 7 (4/8/19)
 
 Parameterschätzung
 
@@ -195,7 +197,7 @@ Zufällige Stichprobe x1, x2, ... , xn
 
 7.1.2 Schätzwert für unbekannte Standardabweichung
 
-S = &radic; &sum;(xi-x)^2^ &div; (n-1) = &radic; (&sum;xi^2^ - n &times; x^2^) &div; (n-1)
+S = &radic; &sum;(xi-$\bar x$)^2^ &div; (n-1) = &radic; (&sum;xi^2^ - n &times; $\bar x$^2^) &div; (n-1)
 
 7.2 Intervallschätzung
 
@@ -219,7 +221,7 @@ P(Z < Z&alpha) = 1 - &alpha;
 
 x - t(&alpha;/2,n-1) &times; S &div; &radic; n < &mu; < x + t(&alpha;/2,n-1) &times; S &div; &radic; n
 
-## Kapitel 8 (4/15/19)
+### Kapitel 8 (4/15/19)
 
 Hypothesentest: H0 - Nullhypothese, H1 - Alternativhypothese
 Signifikanzniveau &alpha;
@@ -244,9 +246,9 @@ Kritischer Wert für die Verwerfung von &mu;0 : t&alpha;/2,n-1 (aus t-Tabelle)
 
 Verwerfungsbereich W &isin; [-&infin;, -\<t&alpha;/2,n-1\>] &cup; [\<t&alpha;/2,n-1\>, &infin;]
 
-## Kapitel 9 - nicht Klausurrelevant
+### Kapitel 9 - nicht Klausurrelevant (4/23/19)
 
-## Kapitel 10
+### Kapitel 10
 
 10.1 Lineare Korrelation
 
@@ -258,20 +260,118 @@ Ist $\vert r \vert$ = 1, soliegt eine vollständige Korrelation vor
 
 r = (&sum;(xi &times; yi) - n &times; $\bar x$ &times; $\bar y$) &div; ((&radic; &sum;(xi^2^) -n &times; $\bar x$^2^) &times; (&radic; &sum;(yi^2^) -n &times; $\bar y$^2^))
 
-10.2 Lineare Regression
+*"aufsummierte quadrierte Differenz"*
 
+10.2 [Lineare Regression](https://www.uni-due.de/imperia/md/content/soziologie/13_lineare_regression2.pdf)
 
+Wertepaare wie oben, Fragestellung ist ob sich eine Gerade finden lässt, die diese Werte repräsentiert.
 
+Gesucht ist die Gerade: ŷ = &alpha; + &beta; &times; x (mit &alpha;: Anfangsordinate, &beta;: Steigung)
 
+Methode der kleinsten Quadrate:
 
+&beta; = (&sum;(xi &times; yi) - (n &times; $\bar x$ &times; $\bar y$)) &div; ((&sum;(xi^2^) - (n &times; $\bar x$^2^))
 
+&alpha; = $\bar y$ - (&beta; &times; $\bar x$)
 
+10.3 Signfikanztest einer linearen Korrelation
+
+Wertepaare liegen wir oben vor, der lineare Korrelationskoeffizient r ist bekannt
+Es ist sinnvoll, ein lineares Regressionsmodel mit folgenden Hypothesen auf einem &alpha; Signifikanzniveau zu testen:
+
+H0 : &beta; = 0 (Die Steigung der Regressionsgerade ist gleich Null, d.h. das Regressionsmodell ist nicht signifikant)
+H1 : &beta; &ne; 0 (Die Steigung der Regressionsgerade ist nicht gleich Null)
+
+Testgrösse TS: (r &times; &radic; (n - 2)) &div; (&radic;(1 - r^2^))
+
+Kritischer Wert: t&alpha;/2,n-2 *(aus t-Tabelle)*
+
+Verwerfungsbereich W &isin; [-&infin;, -\<t&alpha;/2,n-2\>] &cup; [\<t&alpha;/2,n-2\>, &infin;]
+
+Ist das Ergebnis im Verwerfungsbereich, so ist das Regressionsmodell für ŷ anwendbar
+
+## Numerik
+
+### Kapitel 3 (4/30/19)
+
+Numerische Lösung nichtlinearer Gleichungen
+y = f(x) sei eine nichtlineare Funktion; sie sei monoton im Definitionsbereich [a, b]. 
+Wenn die Bedingung f(a) &times; f(b) = 0 erfüllt wird, existiert eine Nullstelle im Bereich [a, b].
+
+3.1 Fixpunktverfahren
+- wir wandeln die Funktionsgleichung f(x) in eine Iterationsvorschrift &phi;(x) um (durch Ausklammern von x),
+- wir wählen einen Anfangswert x0 aus [a,b] und
+- bestimmen eine kleine Zahl &epsilon; als Abbruchwert für $\vert$ xk+i - xk $\vert$ &lt; &epsilon;
+
+Beispiel:
+
+f(x) = x^2^ - 2 &times; x - 0.15 ; Nullstelle zwischen [-1,0], &epsilon; = 10^-5^, Anfangswert x0 = 0.00000
+Iterationsvorschrift: xk+i = (xk^2^ - 0.15) &div; 2 (= &phi(x))
+
+    float x0, x1, epsilon, residual;
+    x0 = 0.0; x1 = 0.0; epsilon = 0.000005; residual = 0.0;
+    int k = 0;
+
+Und berechnen die Nullstelle mit
+
+    do {
+    	x0 = x1;
+    	x1 = ((x0 * x0) -  0.15) /  2;
+    	residual =  fabs(x0 - x1);
+    	k++;
+    	printf("%i\t%.5f\t%.5f\t%.5f\n",k,x0,x1,residual);
+    } while (fabs(residual) > epsilon);
+
+Ergebnis:
+
+    k	X0			X1			Residuum
+    1	0.00000		-0.07500	0.07500
+    2	-0.07500	-0.07219	0.00281
+    3	-0.07219	-0.07239	0.00021
+    4	-0.07239	-0.07238	0.00001
+    5	-0.07238	-0.07238	0.00000
+
+3.2 Newton-Verfahren
+
+Beispiel wie oben, schneller konvergierende Iterationsvorschrift nach Isaac Newton:
+
+xk+1 = xk - (f(xk) &div; f^'^(xk))
+
+Berechnung der Nullstelle:
+
+    do {
+    	x0 = x1;
+    	x1 = x0 - (((x0 * x0) - (2  * x0) -  0.15) / ((2  * x0) -  2));
+    	residual =  fabs(x0 - x1);
+    	k++;
+    	printf("%i\t%.5f\t%.5f\t%.5f\n",k,x0,x1,residual);
+    } while (fabs(residual) > epsilon);
+
+Ergebnis:
+
+    k	X0			X1			Residuum
+    1	0.00000		-0.07500	0.07500
+    2	-0.07500	-0.07238	0.00262
+    3	-0.07238	-0.07238	0.00000
+
+### Kapitel 4 (5/13/19)
+
+4.1 [Polynominalinterpolation](https://www.youtube.com/watch?v=BJc0bQNRSo4)
+
+4.2 [Newton Interpolation](https://www.youtube.com/watch?v=hcsBjizQ9X8)
+
+Deutsch: [https://www.youtube.com/watch?v=p0W0JB6NXm8](https://www.youtube.com/watch?v=p0W0JB6NXm8)
+
+### Kapitel 5 (5/13/19)
+
+5.1 [Ausgleichrechnung](https://www.youtube.com/watch?v=21axnsC_2ZE)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwMjgwMTY3LDE2MDU1MDgxMjIsNTg5Mz
-k0MjM2LC0xNzE0ODc1OTcsLTE4NzA3MzAwNjQsMTIxOTkxNTg2
-OSwyMTg5ODM3NzEsMTc1ODc3MzQzMywxOTkxODI5ODYwLDgzNz
-A0OTgwMCwtMjE0NjMyODA1NywtMTA2MjczMDIwLC03NjY2OTIx
-MTMsLTg4OTUxNzgyOSwtNTMwOTEwOTY1LC0zMDgzMjEwMDQsMT
-kzOTAwNTc1Myw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTUzNjc2OTM0Nyw0ODU3NDUzNDksMjk5Mj
+MxOTI2LC02ODEzMzg4MTQsMTQ4MTEwMTk5NSw4MTAyODAxNjcs
+MTYwNTUwODEyMiw1ODkzOTQyMzYsLTE3MTQ4NzU5NywtMTg3MD
+czMDA2NCwxMjE5OTE1ODY5LDIxODk4Mzc3MSwxNzU4NzczNDMz
+LDE5OTE4Mjk4NjAsODM3MDQ5ODAwLC0yMTQ2MzI4MDU3LC0xMD
+YyNzMwMjAsLTc2NjY5MjExMywtODg5NTE3ODI5LC01MzA5MTA5
+NjVdfQ==
 -->
