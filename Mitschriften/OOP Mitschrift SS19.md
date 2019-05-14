@@ -1,7 +1,7 @@
 
 # Objektorientierte Programmierung SS 19 (3/5/19)
 
-Salah Zayak, B.Sc.
+Salah Zayak
 
 UML Diagramme
  - Use-Case Diagramme
@@ -42,6 +42,7 @@ Komposition - Abhängig (Ast - Baum)
 Java API: Oracle docs
 
     javadoc -author -version
+    
 
 ## microXchg (4/1/19)
 
@@ -66,9 +67,7 @@ Array of String: String[] enea = new String[];
 
 for-each construct, execute once for each element of the array:
 
-for (\<type\> \<variable\> :  \<array\>) {
-    ...
-}
+    for (\<type\> \<variable\> :  \<array\>) { ... }
 
 *this: Pointer to self (instance variable)*
 
@@ -91,12 +90,33 @@ Convention: Set instance variables `private`
 
 A constructor has always the same name as the class, it's purpose is initialization
 
+Homework: 04-04, 06-05, 06-06
 
+## Inheritance (5/14/19)
 
+[UML Class diagrams](https://www.codingame.com/playgrounds/503/design-patterns/uml-basics) - [arrow types](https://en.wikipedia.org/wiki/Class_diagram#/media/File:Uml_class_relation_arrows_en.svg.png):
+- Association
+- Inheritance
+- Aggregation
+- Composition
+- (Realization / Implementation)
+- (Dependency)
+
+Constructor:
+- in class: this() ; this.\<var\>
+- extends: super() ; super.\<var\>
+
+Klausur:
+- UML zu Code
+- Code zu UML
+- Code vervollständigen
+- Java Konzepte erklären (Freitext)
+
+Homework: 08-04, 08-05
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NTMxNzExMiwtMTI0NDAwMzQyOSw2NT
-c1MzE2NDUsMTc0NDcyMTgyNiwtOTYxNzkwOTUxLC0yMzkwNTk3
-NDEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEwNDE1MTc2NTEsMTAwNjkyMDY3NCwtMT
+I0NDAwMzQyOSw2NTc1MzE2NDUsMTc0NDcyMTgyNiwtOTYxNzkw
+OTUxLC0yMzkwNTk3NDEsNzMwOTk4MTE2XX0=
 -->
