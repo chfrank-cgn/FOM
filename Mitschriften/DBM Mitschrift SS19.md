@@ -203,12 +203,33 @@ CIA - Confidentiality, Integrity, Availability - 3 zentrale Schutzziele
 
 Elemente von RBAC: Authentifizierung, Authorisierung
 
+## Transaktionen (5/20/19)
 
+Klausur: select, insert, update, delete, **JOIN** 
 
+Security: CIA (Confidentiality, Integrity, Availability) - "primäre Schutzziele"
+
+Authentisierung, Authorisierun, Datenschutz, Datensicherheit
+
+Notation: snake_case, Singular
+
+**ACID:** Atomicity, Cinsostency, Isolation, Durability
+
+**BASE:** Basically Available, Soft state, Eventual consistency
+
+**RI:** Referentielle Integrität
+
+Locking:
+- Was - Item, Row, Table, Database
+- Wie - Read, Write, Exclusive, Shared (Optimistic, Pessimistic)
+
+## MongoDB (5/27/19)
+
+[Dokumentation](https://www.mongodb.com/), [Vergleich](https://www.simform.com/mongodb-vs-mysql-databases/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MDk3OTExOSwtMjEzMDg3MjgyNywzOD
-M0NzM2NTMsMTkwNjE0OTUzMCwxODc1OTQwNjY0LC0yMTEyNzg4
-MzYyLDIwNjAyOTE4MzksLTExNDQyNTI1NTQsNjg4MjM5NTM4LD
-czMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTkxMTA0NTI5OSwtMjA2MzE5ODYwMSwtNT
+cwOTc5MTE5LC0yMTMwODcyODI3LDM4MzQ3MzY1MywxOTA2MTQ5
+NTMwLDE4NzU5NDA2NjQsLTIxMTI3ODgzNjIsMjA2MDI5MTgzOS
+wtMTE0NDI1MjU1NCw2ODgyMzk1MzgsNzMwOTk4MTE2XX0=
 -->

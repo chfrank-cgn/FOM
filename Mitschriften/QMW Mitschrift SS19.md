@@ -44,7 +44,7 @@ Modus: Der Wert mit der grössten Häufigkeit
 
 **Klausurhinweis:** 
 - Immer Einheiten aufschreiben!
-- Immer Formel aufschreiben und Lösungsweg herleiten!
+- I mmer Formel aufschreiben und ösungsweg herleiten!
 
 ### Kapitel 3
 
@@ -366,12 +366,61 @@ Deutsch: [https://www.youtube.com/watch?v=p0W0JB6NXm8](https://www.youtube.com/w
 
 5.1 [Ausgleichrechnung](https://www.youtube.com/watch?v=21axnsC_2ZE)
 
+## Klausurabgrenzung (5/20/19)
+
+### Statistik
+
+- Datenerhebung / Klassendaten / Datenpräsentation / Häufigkeitstabellen / Histogram
+- Klassendaten: Anzahl von Klassen, Klassenbreite
+
+Masszahlen:
+- Zentrale Lage: $\bar x$, xg, xm, Me, M0
+- Datenstreuung: &sigma;^2^, &sigma;
+
+Wahrscheinlichkeitsrechnung:
+- Additionsregel: P(A&cup;B) = P(A) + P(B)
+- Multiplikationsregele: P(A&cap;B) = P(A) &times; P(B)
+- Bedingte Wahrscheinlichkeit
+- Totale Wahrscheinlichkeit (Bayes Theorem)
+
+Zufallsvariable:
+- diskret:
+	- Binomial (3 Parameter) "mit Zurücklegen"
+	- Hypergeometrisch (4 Parameter) "ohne Zurücklegen"
+- stetig:
+	- Normale Zufallsvariable
+		- Eigenschaften
+		- Standardisierung
+		- Benutzung der Z-Tabelle
+
+Hypothesentest:
+- Test auf &mu; (&sigma; bekannt)
+- Test auf &mu; (&sigma; unbekannt)
+
+Lineare Korrelation / Lineare Regression
+- Lineare Korrelationskoeffizienten
+- Parameter für Regressionsgerade
+- Signifikanztest
+- Testgrösse t = (r &times; &radic;(n - 2)) &div; &radic;(1 - r^2^)
+
+### Numerik
+
+Lösung nicht-linearer Gleichungen:
+- Fixpunktverfahren
+- Newtonverfahren
+
+Interpolation:
+- Polynominterpolation
+- Newtoninterpolation
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjc2OTM0Nyw0ODU3NDUzNDksMjk5Mj
-MxOTI2LC02ODEzMzg4MTQsMTQ4MTEwMTk5NSw4MTAyODAxNjcs
-MTYwNTUwODEyMiw1ODkzOTQyMzYsLTE3MTQ4NzU5NywtMTg3MD
-czMDA2NCwxMjE5OTE1ODY5LDIxODk4Mzc3MSwxNzU4NzczNDMz
-LDE5OTE4Mjk4NjAsODM3MDQ5ODAwLC0yMTQ2MzI4MDU3LC0xMD
-YyNzMwMjAsLTc2NjY5MjExMywtODg5NTE3ODI5LC01MzA5MTA5
-NjVdfQ==
+eyJoaXN0b3J5IjpbMzcxMzg5MTM5LDE1MzY3NjkzNDcsNDg1Nz
+Q1MzQ5LDI5OTIzMTkyNiwtNjgxMzM4ODE0LDE0ODExMDE5OTUs
+ODEwMjgwMTY3LDE2MDU1MDgxMjIsNTg5Mzk0MjM2LC0xNzE0OD
+c1OTcsLTE4NzA3MzAwNjQsMTIxOTkxNTg2OSwyMTg5ODM3NzEs
+MTc1ODc3MzQzMywxOTkxODI5ODYwLDgzNzA0OTgwMCwtMjE0Nj
+MyODA1NywtMTA2MjczMDIwLC03NjY2OTIxMTMsLTg4OTUxNzgy
+OV19
 -->
