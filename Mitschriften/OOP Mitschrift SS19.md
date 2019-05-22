@@ -114,9 +114,16 @@ Klausur:
 
 Homework: 08-04, 08-05
 
+## Exception Handling (5/21/19)
+
+Homework: 10-02, 10-03
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDE1MTc2NTEsMTAwNjkyMDY3NCwtMT
-I0NDAwMzQyOSw2NTc1MzE2NDUsMTc0NDcyMTgyNiwtOTYxNzkw
-OTUxLC0yMzkwNTk3NDEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTExNjM1NDMxODUsLTEwNDE1MTc2NTEsMT
+AwNjkyMDY3NCwtMTI0NDAwMzQyOSw2NTc1MzE2NDUsMTc0NDcy
+MTgyNiwtOTYxNzkwOTUxLC0yMzkwNTk3NDEsNzMwOTk4MTE2XX
+0=
 -->

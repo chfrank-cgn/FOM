@@ -30,7 +30,24 @@ Struktur der Hausarbeit:
 
 Zitieren: Kurz, mit Quellenverzeichnis, Fußnote - direkt bzw. "vgl" indirekt
 
+## Abgabe (5/21/19)
+
+Draft: 4. Juni 2019
+Abgabe: 11. Juni 2019
+Mündliche Prüfung: 18. Juni 2019
+
+**Wichtig:** Anmeldung im Campus!
+
+Hinweis: Jeder lädt die gesamte Arbeit im Campus hoch; in der Gliederung wird kenntlich gemacht, wer an welchem Kapitel gearbeitet hat.
+
+PDF Dateien gelten in dieser Arbeit nicht als Internetquellen, sondern werden wie jede andere Literatur auch im Quellenverzeichnis mit Herausgeber etc. genannt.
+
+Links werden mit Aufrufdatum als Quelle genannt und Screenshots (.zip File) zusammen mit der Arbeit hochgeladen
+
+Veröffentlichung in Medium ok, Arthur Dill als Co-Autor nennen
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTc1OTMzOCwyMDc0ODE4ODczLDEwNj
-ExNjE2MjddfQ==
+eyJoaXN0b3J5IjpbLTE1ODcwMzYyNjQsMTYyOTc1OTMzOCwyMD
+c0ODE4ODczLDEwNjExNjE2MjddfQ==
 -->
