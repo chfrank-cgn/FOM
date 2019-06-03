@@ -118,12 +118,31 @@ Homework: 08-04, 08-05
 
 Homework: 10-02, 10-03
 
+## ORM / JAR / GUI (6/3/19)
 
+Extrasession: Dienstag, 18. Juni, 15:00 Telekom Sternengasse
+
+**Klausurrelevant:** Bis Kapitel 12 "Code", Kapitel 13 "Konzepte", Kapitel 14 nicht, Kapitel 15 "Konzepte"
+
+Homework: Kapitel 12, 13-01, 13-02
+
+Object Relational Mapping (ORM): Persistenz von Klassen in Datenbanken
+Framework: [Hibernate](https://hibernate.org/orm/what-is-an-orm/) - Mapping zwischen Klassen und Tabellen mit Hilfe von XML Dateien
+
+GUI Programmierung in Java mit [Swing](https://www.javatpoint.com/java-swing) und [AWT](https://www.javatpoint.com/java-awt) ([Athena Widgets](https://www.x.org/releases/X11R7.7/doc/libXaw/libXaw.html))
+
+[Running JAR-Packaged Software](https://docs.oracle.com/javase/tutorial/deployment/jar/run.html)
+
+GUI Elements, Frames, Flow, Layoutmanager
+
+Event Handling, Event-Driven Architecture
+
+Homework: 15-01, Seite 305 .jar Files
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjM1NDMxODUsLTEwNDE1MTc2NTEsMT
-AwNjkyMDY3NCwtMTI0NDAwMzQyOSw2NTc1MzE2NDUsMTc0NDcy
-MTgyNiwtOTYxNzkwOTUxLC0yMzkwNTk3NDEsNzMwOTk4MTE2XX
-0=
+eyJoaXN0b3J5IjpbNzM1NzA4Mjc0LC05MTAzOTM5MDMsLTE3NT
+Y0MDMxOTIsLTExNjM1NDMxODUsLTEwNDE1MTc2NTEsMTAwNjky
+MDY3NCwtMTI0NDAwMzQyOSw2NTc1MzE2NDUsMTc0NDcyMTgyNi
+wtOTYxNzkwOTUxLC0yMzkwNTk3NDEsNzMwOTk4MTE2XX0=
 -->

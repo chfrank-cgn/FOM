@@ -46,8 +46,57 @@ Links werden mit Aufrufdatum als Quelle genannt und Screenshots (.zip File) zusa
 
 Veröffentlichung in Medium ok, Arthur Dill als Co-Autor nennen
 
+## Präsentation (6/3/19)
+
+Abgabe: 18. Juni 2019
+Mündliche Prüfung: 25. Juni 2019 - etwa 3 bis 5 Minuten pro Person
+
+Titelblatt:
+- FOM Logo
+- "FOM Hochschule für Oekonomie und Management"
+- "Hochschulzentrum Köln"
+- "Wirtschaftsinformatik"
+- Thema (genau wie im Online-Campus hinterlegt)
+- "Betreuer: Dr. A. Dill"
+- Matrikel#
+- Datum der Arbeit
+
+Inhaltsverzeichnis:
+- Alle Verzeichnisse (Tabellen, Abbildungen) - römisch
+- Abkürzungsverzeichnis - römisch
+- Inhaltsverzeichnis - arabisch
+	- eingerückt
+- Literaturverzeichnis - arabisch
+- Internetquellenverzeichnis - arabisch
+
+Kurze Zitatform, als Fussnote:
+- Schulte, W (2019), S. 16.
+- Ausführlicher Verweis im Literatur- / Internetquellenverzeichnis
+
+Indirektes Zitat: "vgl." 
+Abgewandelte Graphik: "Quelle: In Anlehnung an"
+Eigene Darstellung: "Quelle: Eigene Darstellung"
+
+*PDF Dateien sind normale Quellen und kommen ins Literaturverzeichnis*
+
+Internetzitat, als Fussnote:
+- Herausgeber (Jahr), Überschrift
+
+Quellenverzeichnis:
+Herausgeber (Titel), Überschrift, Link, Abrufdatum (->Screenshot in den Upload)
+
+*DTAG Sperrvermerk vor dem ersten Kapitel*
+
+Grosse Tabellen gehören in den Anhang, mit möglichst einheitlichem Layout
+
+**Hinweis:** Jede\(r\) lädt die gesamte Arbeit mit Anhängen im Campus hoch!
+
+Die Präsentation ist eine Gruppenarbeit, am Anfang wird das Thema vorgestellt und dann stellt sich die Gruppe gegenseitig vor. Kein Kaugummi!
+
+Aktuelle Entwicklungen seit der Abgabe der Arbeit sollten im Vortrag berücksichtigt werden
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODcwMzYyNjQsMTYyOTc1OTMzOCwyMD
-c0ODE4ODczLDEwNjExNjE2MjddfQ==
+eyJoaXN0b3J5IjpbLTM2Mzc1ODk2LC0xNTg3MDM2MjY0LDE2Mj
+k3NTkzMzgsMjA3NDgxODg3MywxMDYxMTYxNjI3XX0=
 -->
