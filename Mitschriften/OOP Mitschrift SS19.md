@@ -126,6 +126,12 @@ Extrasession: Dienstag, 18. Juni, 15:00 Telekom Sternengasse
 
 Homework: Kapitel 12, 13-01, 13-02
 
+Java Applet: A Java applet was a small application written in the Java programming language, or another programming language that compiles to Java bytecode, and delivered to users in the form of Java bytecode. The user launched the Java applet from a web page, and the applet was then executed within a Java virtual machine (JVM) in a process separate from the web browser itself. A Java applet could appear in a frame of the web page, a new application window, Sun's AppletViewer, or a stand-alone tool for testing applets ([Wikipedia](https://en.wikipedia.org/wiki/Java_applet))
+
+Configuration persistence: [Properties()](https://www.geeksforgeeks.org/java-util-properties-class-java/) class in `java.util.*`
+
+FileStreams: [FileInputStream()](https://www.geeksforgeeks.org/java-io-fileinputstream-class-java/), [FileOutputStream()](https://www.geeksforgeeks.org/creating-a-file-using-fileoutputstream/) in `java.io.*`
+
 Object Relational Mapping (ORM): Persistenz von Klassen in Datenbanken
 Framework: [Hibernate](https://hibernate.org/orm/what-is-an-orm/) - Mapping zwischen Klassen und Tabellen mit Hilfe von XML Dateien
 
@@ -139,10 +145,25 @@ Event Handling, Event-Driven Architecture
 
 Homework: 15-01, Seite 305 .jar Files
 
+## Design-Patterns (6/4/19)
+
+MVC: [Model View Controller](https://www.tutorialspoint.com/design_pattern/mvc_pattern.htm) 
+
+[Singleton Pattern](https://www.geeksforgeeks.org/singleton-class-java/):
+- eine Klasse soll nur ein Objekt haben (z.B. für Logging oder Warteschlangen)
+- `private` Konstruktor, der nicht aufgerufen werden kann
+- `private static` class variables
+
+Aufgabe 16-01: Implementieren Sie eine Druckerwarteschlange
+
+Java Literatur: [Wikibooks](https://en.wikibooks.org/wiki/Subject:Java_programming_language)
+
+UML Modeling: [GenMyModel](https://www.genmymodel.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM1NzA4Mjc0LC05MTAzOTM5MDMsLTE3NT
-Y0MDMxOTIsLTExNjM1NDMxODUsLTEwNDE1MTc2NTEsMTAwNjky
-MDY3NCwtMTI0NDAwMzQyOSw2NTc1MzE2NDUsMTc0NDcyMTgyNi
-wtOTYxNzkwOTUxLC0yMzkwNTk3NDEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTYxNTg0ODA5NSwtMjA0OTQ0NTIxOCwyMD
+YwMzg0MjE1LDczNTcwODI3NCwtOTEwMzkzOTAzLC0xNzU2NDAz
+MTkyLC0xMTYzNTQzMTg1LC0xMDQxNTE3NjUxLDEwMDY5MjA2Nz
+QsLTEyNDQwMDM0MjksNjU3NTMxNjQ1LDE3NDQ3MjE4MjYsLTk2
+MTc5MDk1MSwtMjM5MDU5NzQxLDczMDk5ODExNl19
 -->
