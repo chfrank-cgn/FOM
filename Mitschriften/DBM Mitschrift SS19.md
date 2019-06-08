@@ -227,9 +227,125 @@ Locking:
 
 [Dokumentation](https://www.mongodb.com/), [Vergleich](https://www.simform.com/mongodb-vs-mysql-databases/)
 
+## Wiederholung (6/4/19)
+
+DBS = DB + DBM
+
+Modelle:
+- Hierarchisch
+- Netzwerk
+- Relational
+- Objektorientiert
+
+NoSQL:
+- Key-Value Store (Redis)
+- Document (MongoDB)
+- Column (Cassandra)
+- Graph (Neo4j)
+
+ACID / BASE
+
+SPARK - 3-Ebenen Modell (Extern / Konzept / Intern)
+
+OLTP, OLAP
+
+Modellierung:
+- Reale Welt
+- Betriebswirtschaftliche Sicht (ARIS)
+- Semantisch (ERM)
+- Logisch (Normalisierung)
+- Physisch (Schema)
+
+[12 Regeln von Codd](https://www.studytonight.com/dbms/codd-rule.php)
+
+[ERM](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model) / ERD: [CHEN Notation](https://de.wikipedia.org/wiki/Chen-Notation) mit [Kardinalitäten](https://www.tinohempel.de/info/info/datenbank/kardinalitaet_mc.htm) 
+
+Normalformen:
+- 1NF: Jedes Attribut ist atomar (d.h. keine zusammengesetzten Werte mehr)
+- 2NF: Jedes nicht-Schlüsselattribut ist funktional voll abhängig vom Primärschlüssel. Liegt kein zusammengesetzter Schlüssel vor, so ist die Tabelle auch in der 2. Normalform, sobald sie in der 1. Normalform ist
+- 3NF: Kein nicht-Schlüsselattribut hängt transitiv (d.h. indirekt) vom Primärschlüssel ab.
+
+Relationale Integrität:
+- Entity Integrität: Jede Tabelle besitzt einen Primärschlüssel
+- Referentielle Integrität: Jeder Fremdschlüssel einer Tabelle ist gleichzeitig auch ein Primärschlüssel einer anderen Tabelle
+
+Relationale Algebra:
+- Produkt
+- Vereinigung
+- Schnittmege
+- Differenz
+
+Operator:
+- Selection (Zellenselektion)
+- Projection (Projektion)
+- Join (Verknüpfung)
+- Division
+
+Beispiel: `SELECT (projection) FROM (join/division) WHERE (selection)`
+
+DDL - Data Definition Language
+DML - Data Manipulation Language
+DCL - Data Control Language
+
+DDL: CREATE / ALTER / RENAME / DROP
+
+Tabelle: Spalte: Name, Typ, Constraints (z.B. NULL, SET, ENUM)
+
+Select & Join - *Pages 222, 224, 307*
+
+DCL:
+- CREATE USER
+- GRANT \<permission\> ON \<table\> TO \<user\>
+- REVOKE \<permission\> ON \<table\> FROM \<user\>
+- SHOW PRIVILEGES
+
+Primäre Schutzziele:
+- Confidentiality
+- Integrity
+- Availability
+
+Authentifizierung / Authorisierung
+
+Datenschutz / Datensicherheit
+
+Locks: Read / Write / Shared / Exclusive:
+- optimistic / pessimistic (isolation level: serializable / repeatable read / read committed / read uncommitted)
+
+[MongoDB](https://www.mongodb.com/)
+
+MongoDB verwendet [MapReduce](https://mapr.com/blog/spark-101-what-it-what-it-does-and-why-it-matters/)
+
+[CAP Theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/): MongoDB ist C-P, d.h. Consistent and Partition-Tolerant, aber nicht unbedingt Available
+
+Analogien:
+ - Collection = Tabelle
+ - Document = Row
+ - Field = Column
+ 
+ Terminologie:
+ - Collections = Sammlung von Documents 
+ - Document = Geordneten Menge von Key–Value–Paaren 
+ - Key = UTF8-String Value = einfacher nativer Datentyp oder Array oder Document 
+ - Datentyp = String, Integer, Double, Timestamp etc.
+
+CRUD Operationen:
+- Insert:
+	- db.collection.insertOne()
+	- db.collection.insertMany()
+- Read:
+	- db.collection.find()
+- Update:
+	- db.collection.updateOne()
+	- db.collection.updateMany()
+	- db.collection.replaceOne()
+- Delete:
+	- db.collection.deleteOne()
+	- db.collection.deleteMany()
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMTA0NTI5OSwtMjA2MzE5ODYwMSwtNT
-cwOTc5MTE5LC0yMTMwODcyODI3LDM4MzQ3MzY1MywxOTA2MTQ5
-NTMwLDE4NzU5NDA2NjQsLTIxMTI3ODgzNjIsMjA2MDI5MTgzOS
-wtMTE0NDI1MjU1NCw2ODgyMzk1MzgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNTM1OTQxMDk3LC0xODY1MjIzMDE3LDUyNT
+AxMjU0NywtMTE4MzY5NTUxLC0yMDYzMTk4NjAxLC01NzA5Nzkx
+MTksLTIxMzA4NzI4MjcsMzgzNDczNjUzLDE5MDYxNDk1MzAsMT
+g3NTk0MDY2NCwtMjExMjc4ODM2MiwyMDYwMjkxODM5LC0xMTQ0
+MjUyNTU0LDY4ODIzOTUzOCw3MzA5OTgxMTZdfQ==
 -->
