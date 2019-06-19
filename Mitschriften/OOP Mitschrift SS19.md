@@ -160,10 +160,40 @@ Java Literatur: [Wikibooks](https://en.wikibooks.org/wiki/Subject:Java_programmi
 
 UML Modeling: [GenMyModel](https://www.genmymodel.com/)
 
+## Wiederholung (6/11/19, 6/18/19)
+
+Vererbung: Sichtbarkeit: Seite 93
+
+Syntax Singleton: Private Constructor
+
+Ein Interface ist ein Vertrag (Beispiel Thermometer), Methoden müssen implementiert werden - *"implements"*
+Eine abstrakte Klasse kann Methoden haben, die überschrieben werden können - *"extends"*
+
+Clone: `class xxx implements Cloneable { public xxx Clone; }`
+
+try / catch / finally
+
+HashMap: Key-Value list, z.B. als Cache
+
+Hinweis: In ganzen Sätzen antworten!
+
+Frage: "Wo ist das GUI in der 3-Schichten Architektur verortet?"
+Frage: "Was ist eine Klasse?"
+
+Hinweis: Keine leeren Antworten!
+
+Multiple Choice (Yes/No): Ein Gegenbeispiel reicht
+
+**UML - Use Case Diagram**
+**UML - Class Diagram**
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTg0ODA5NSwtMjA0OTQ0NTIxOCwyMD
-YwMzg0MjE1LDczNTcwODI3NCwtOTEwMzkzOTAzLC0xNzU2NDAz
-MTkyLC0xMTYzNTQzMTg1LC0xMDQxNTE3NjUxLDEwMDY5MjA2Nz
-QsLTEyNDQwMDM0MjksNjU3NTMxNjQ1LDE3NDQ3MjE4MjYsLTk2
-MTc5MDk1MSwtMjM5MDU5NzQxLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTUwNjAwNDQ5NywtNjE1ODQ4MDk1LC0yMD
+Q5NDQ1MjE4LDIwNjAzODQyMTUsNzM1NzA4Mjc0LC05MTAzOTM5
+MDMsLTE3NTY0MDMxOTIsLTExNjM1NDMxODUsLTEwNDE1MTc2NT
+EsMTAwNjkyMDY3NCwtMTI0NDAwMzQyOSw2NTc1MzE2NDUsMTc0
+NDcyMTgyNiwtOTYxNzkwOTUxLC0yMzkwNTk3NDEsNzMwOTk4MT
+E2XX0=
 -->
