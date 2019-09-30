@@ -62,10 +62,10 @@ Netzwerke: BAN, PAN, LAN, MAN, WLAN, GAN (alt)
 
 ## Netzwerke (9/16/19)
 
-Vortrag    `fom/it/vortrag 2019-09-16`
+Vortrag    `projekte/fom/it/vortrag 2019-09-16`
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NTAzMDA2NCwtODkwMTk5ODgxLDczMD
+eyJoaXN0b3J5IjpbMTA4OTU3NjkyNSwtODkwMTk5ODgxLDczMD
 k5ODExNl19
 -->

@@ -128,10 +128,31 @@ Final formula: y = a + bx (a is the value of y when x=0; b is the gradient)
 - Planned order release: Time when we will place order for new items
 - Lot size: Number of items that need to be bought together
 
+## Economic Order Quantity (9/20/19)
 
+*"The amount a company should order to minimize cost"*
+
+Costs to be avoided:
+- Holding costs
+- Order costs
+- Shortage costs
+
+EOQ model assumptions:
+- Fixed quantity ordered
+- Consistent demand
+- Inventory depleted at a constant rate
+- Instant replenishment
+
+Total cost = (P &times; D) + (Q/2 &times; H) + (D/Q &times; S)
+
+P: Price; D: Demand; Q: Units ordered; H: Holding costs *per item*; S: Ordering costs *per order*
+
+Tradeoff between Inventory and ordering costs - ideal order quantity is reached when the cost of inventory is equal to the cost of ordering.
+
+**EOQ Formula** Q: &radic;(2DS &divide; H)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwNjc2NzY3LDE1MjU3NTU3MzYsLTEzOD
-I0ODYzMjIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTczNTA4MTc4Niw1MDA2NzY3NjcsMTUyNT
+c1NTczNiwtMTM4MjQ4NjMyMiw3MzA5OTgxMTZdfQ==
 -->

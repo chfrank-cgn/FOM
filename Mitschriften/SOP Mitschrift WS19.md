@@ -14,8 +14,21 @@ Prof. Dr. Marcel B. Endejan
 
 Klausur: [Merkmale eine Skriptsprache](https://www.seo-analyse.com/seo-lexikon/s/scriptsprache/)
 
+## Kontrollstrukturen (9/30/19)
+
+`range(10)` = 0..9
+`range(1,11)` = 1..10
+`range(1,11,2)` = 1,3,5,7,9
+
+`pass` = empty operation
+
+`try:` (Fehlerbehandlung)
+`except:` (im Fehlerfall)
+`else:` (ohne Fehler)
+`finally:` (immer)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODkwMDc3OSw3MDg5MDE2MDYsLTY2OD
-Y2MjQ1OSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE1ODU2NzkzMSwtNjY4OTAwNzc5LDcwOD
+kwMTYwNiwtNjY4NjYyNDU5LDczMDk5ODExNl19
 -->
