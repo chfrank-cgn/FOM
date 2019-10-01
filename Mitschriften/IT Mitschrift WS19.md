@@ -64,8 +64,69 @@ Netzwerke: BAN, PAN, LAN, MAN, WLAN, GAN (alt)
 
 Vortrag    `projekte/fom/it/vortrag 2019-09-16`
 
+## Seminararbeit (10/1/19)
+
+Seminararbeit: [Deskriptive Studie](https://de.wikipedia.org/wiki/Deskriptive_Studie)
+
+Anforderung an die Hypothese:
+- Empirisch überprübar
+- Falsifizierbar
+- Hinreichend informativ
+- Logischer Aufbau
+- Präzise
+- Eindeutig
+
+**Gliederung:**
+- Einleitung
+	- Problemstellung
+		- Allgemein -> Speziell (*Hypothese*)
+	- Zielsetzung
+		- Oberziele
+		- Unterziele
+		- Methodik
+		- Umfang der Arbeit / Abgrenzung
+	- Begrifflichkeiten
+		- Definition
+		- Verständnis
+	- Theorie
+		- Modell beschreiben
+		- Modell vergleichen
+		- Festlegung auf ein Modell / Methode, Begründung
+	- Transfer (Praxisbezug)
+		- Ist-Zustand im Anwendungsfall
+		- Soll-Ist Vergleich
+		- Handlungsempfehlung
+			- Massnahmen (Ist): Umsetzung
+	- Fazit
+		- (Top 5) Erkenntnisse
+		- Kritik am eigenen Vorgehen
+		- Ggf. Fragen oder Ausblicl
+
+Umfang 4000 Worte
+- 2500 Einleitung - Theorie
+- 1000 Transfer
+- 500 Fazit
+
+**Klausur:** Cluster-Modelle (A/A, A/P), Vorteile, Nachteile, Konzepte
+
+Verfügbarkeit:    A<sub>gesamt</sub> = 1 - W<sub>ausfall</sub> = 1 - Ausfallzeit &divide; Gesamtlaufzeit
+
+Verteilte Systeme: A<sub>gesamt</sub> = A<sub>1</sub> &times; A<sub>2</sub> ... &times; A<sub>n</sub> = &prod; A<sub>i</sub>
+
+Redundante Systeme: A<sub>gesamt</sub> = 1 - &prod; (1 - A<sub>i</sub>)
+
+MTBF: Mean Time Between Failure
+MTTR: Mean Time to Repair / Recover
+
+A = MTBF &divide; (MTBF + MTTR)
+
+BCM: Business Continuity Management
+BIA: Business Impact Analysis
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTU3NjkyNSwtODkwMTk5ODgxLDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTYxNTg0NjMzNCwxMDg5NTc2OTI1LC04OT
+AxOTk4ODEsNzMwOTk4MTE2XX0=
 -->

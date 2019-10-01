@@ -196,7 +196,7 @@ Recruiting: Actual hiring
 
 ## Internal / External Recruiting (9/23/19)
 
-Revision `projekte/fom/hr/mindmap 2019-9-13`
+Revision `projekte/fom/hr/mindmap 2019-9-23`
 
 Classic talent management: Focus on the top 10% to 15%
 Integrative talent management: Find and develop all talents
@@ -271,13 +271,52 @@ Structured interview:
 	- Other applications
 	- Next steps
 
+## Selection (10/1/19)
 
+Revision `projekte/fom/hr/mindmap 2019-10-01`
 
+Steps:
+- Compare person specs to candidates
+- Rate them
+- Decide
+
+**Exam:** Determine/describe the process of recruiting and selection (Slide #130)
+
+- Personell Marketing
+	- Internal
+	- External
+- Recruiting
+	- Job ads
+	- Other recruiting tools
+- Selection
+	- Choose the instruments
+	- Check applications / interviews
+- Decision
+	- On-boarding
+	- Contract
+
+Adjustments
+- Anthropometric
+- Physiological
+- Psychological
+- Information-flow
+- Security
+
+Induction
+
+Flexible working hours
+
+Instruments of flexibility (internal)
+- Overtime
+- Part-time extension
+- Flexitime
+- Time accounts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3Mzk5NDE3LDI4OTk4NTQwNCwtMjEyMz
-A5MDA3MywtMTg0ODgyNTQyNSw3MjQ1NzM4NTgsNDkzOTY1Nzcw
-LDc1NjYwMzIyNiwxNzEzNzkyMjAwLC0xMjM2ODA4NjQ3LC0yMD
-AzNjUzNDg3LC0xOTE0NzYwMzg5LC02NzY4MTU1NjYsMTMxNzI5
-OTMzMyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTI2OTUwMTQ5LC01OTMwNDY2MTgsLTc3Mz
+k5NDE3LDI4OTk4NTQwNCwtMjEyMzA5MDA3MywtMTg0ODgyNTQy
+NSw3MjQ1NzM4NTgsNDkzOTY1NzcwLDc1NjYwMzIyNiwxNzEzNz
+kyMjAwLC0xMjM2ODA4NjQ3LC0yMDAzNjUzNDg3LC0xOTE0NzYw
+Mzg5LC02NzY4MTU1NjYsMTMxNzI5OTMzMyw3MzA5OTgxMTZdfQ
+==
 -->
