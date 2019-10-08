@@ -312,11 +312,56 @@ Instruments of flexibility (internal)
 - Flexitime
 - Time accounts
 
+## Expatriation (10/8/19)
+
+Revision `projekte/fom/hr/mindmap 2019-10-08`
+
+Perlmutter: [EPRG-Model](https://www.marketing91.com/what-is-the-eprg-framework/)
+- Ethnocentrism ("Home country")
+- Polycentrism ("Host country")
+- Regiocentrism ("Region")
+- Geocentrism ("Global")
+
+[Culture categories](https://www.businessinsider.com/the-lewis-model-2013-9) (according to Lewis): 
+- Linear-active
+- Multiactive
+- Reactive
+
+Expatriation tranfer phases:
+- Honeymoon
+- Culture shock
+- Identification crisis
+- Adaption
+
+*"Kontrakulturschock"*
+
+Renumeration:
+- External
+	- Regulations (e.g. Tarif)
+	- Economic influences
+- Internal
+	- Regulations (e.g. Betriebsvereinbarungen)
+	- Economic influences
+
+*Crowding Out: Verdrängung der intrinsischen Motivation durch extrinsische* 
+
+Job evaluation:
+- Katalogverfahren
+- Rangfolgeverfahren
+- Analytical Job Evaluation ("[Geneva Scheme](https://www.askingbox.com/info/what-is-the-geneva-scheme)")
+	- Intellectual requiremements
+	- Physical requirements
+	- Responsibility
+	- Working conditions
+
+*Cafeteria System: Menü von Gehaltsbestandteilen*
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2OTUwMTQ5LC01OTMwNDY2MTgsLTc3Mz
-k5NDE3LDI4OTk4NTQwNCwtMjEyMzA5MDA3MywtMTg0ODgyNTQy
-NSw3MjQ1NzM4NTgsNDkzOTY1NzcwLDc1NjYwMzIyNiwxNzEzNz
-kyMjAwLC0xMjM2ODA4NjQ3LC0yMDAzNjUzNDg3LC0xOTE0NzYw
-Mzg5LC02NzY4MTU1NjYsMTMxNzI5OTMzMyw3MzA5OTgxMTZdfQ
-==
+eyJoaXN0b3J5IjpbLTgwOTk3Njg0NCwxMjQ5MjEzNzE3LC02ND
+MyNzQwMjQsMTI2OTUwMTQ5LC01OTMwNDY2MTgsLTc3Mzk5NDE3
+LDI4OTk4NTQwNCwtMjEyMzA5MDA3MywtMTg0ODgyNTQyNSw3Mj
+Q1NzM4NTgsNDkzOTY1NzcwLDc1NjYwMzIyNiwxNzEzNzkyMjAw
+LC0xMjM2ODA4NjQ3LC0yMDAzNjUzNDg3LC0xOTE0NzYwMzg5LC
+02NzY4MTU1NjYsMTMxNzI5OTMzMyw3MzA5OTgxMTZdfQ==
 -->

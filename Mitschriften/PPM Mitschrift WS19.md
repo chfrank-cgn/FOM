@@ -151,8 +151,38 @@ Tradeoff between Inventory and ordering costs - ideal order quantity is reached 
 
 **EOQ Formula** Q: &radic;(2DS &divide; H)
 
+## Reorder Point (10/8/18)
+
+Lead time: The time period from placing the order to receiving the goods
+
+Safety Stock: (MaxDailyUse &times; MaxLeadTime) - (AvgDailyUse &times; AvgLeadTime)
+
+Reorder Point: (AvgLeadTime &times; AvgDailyUsage) + SafetyStock
+
+**Exam:** Explain EOQ, Safety Stock and Reorder Point
+
+Make or Buy quantity break even analysis:
+
+Q = FixCosts &divide; ( buyingPrice - makingPrice)
+
+**Exam:** [Bullwhip effect](https://blog.arkieva.com/what-is-bullwhip-effect/)
+
+Lean: Develop efficient processes with zero waste
+
+TIM WOOD:
+- Transportation
+- Inventory
+- Motion
+- Waiting
+- Overprocessing
+- Overproduction
+- Defects
+
+*"Fashion is just a way to sell more clothes that you don't need"*
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNTA4MTc4Niw1MDA2NzY3NjcsMTUyNT
-c1NTczNiwtMTM4MjQ4NjMyMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE4OTIwMjY3MjksMTczNTA4MTc4Niw1MD
+A2NzY3NjcsMTUyNTc1NTczNiwtMTM4MjQ4NjMyMiw3MzA5OTgx
+MTZdfQ==
 -->
