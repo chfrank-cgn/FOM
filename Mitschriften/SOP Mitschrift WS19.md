@@ -27,8 +27,34 @@ Klausur: [Merkmale eine Skriptsprache](https://www.seo-analyse.com/seo-lexikon/s
 `else:` (ohne Fehler)
 `finally:` (immer)
 
+## Datentypen (10/14/19)
 
+int(), float(), bool(), complex()
+
+"+=" bzw. "-=" funktioniert nur bei bereits initialisierten Variablen!
+
+int 28: 0x1c (Hex) oder 0b11100 (Binary) 
+
+`~x` : bitweises Komplement
+`\>>` : shift right (&divide; 2)
+`\<<` : shift left (&times; 2)
+
+Bool: True(1), False(0) - 0, None, leer : False - alles andere : True
+
+Sei a = [1,2,3], b = [], c = [4,5,6]
+a or b or c = [1,2,3] (erstes Element das wahr ist, d.h. nicht leer - auch (a or b or c)[0] = 1)
+not[1,2,3] = False (nicht leer)
+
+Float: `inf` / `-inf` (Infinite), `nan` (Not a Number, d.h. undefiniert)
+
+Float kann man nicht mit "==" vergleichen (Ungenauigkeit in der internen Darstellung)
+
+complex = real + imag &times; j - wobei j^2^=-1
+
+immutable = Jede Zuweisung / Operation erzeugt ein neues Objekt
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODU2NzkzMSwtNjY4OTAwNzc5LDcwOD
-kwMTYwNiwtNjY4NjYyNDU5LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTQ1NjMzNzcyNSw0OTUzMTE4NTUsLTE1OD
+U2NzkzMSwtNjY4OTAwNzc5LDcwODkwMTYwNiwtNjY4NjYyNDU5
+LDczMDk5ODExNl19
 -->
