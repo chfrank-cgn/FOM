@@ -52,9 +52,11 @@ Float kann man nicht mit "==" vergleichen (Ungenauigkeit in der internen Darstel
 complex = real + imag &times; j - wobei j^2^=-1
 
 immutable = Jede Zuweisung / Operation erzeugt ein neues Objekt
- 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NjMzNzcyNSw0OTUzMTE4NTUsLTE1OD
-U2NzkzMSwtNjY4OTAwNzc5LDcwODkwMTYwNiwtNjY4NjYyNDU5
-LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTk0NzU5NjM1Nyw3ODU2NTU4MzEsMzMyMj
+IwNjUwLDE0NTYzMzc3MjUsNDk1MzExODU1LC0xNTg1Njc5MzEs
+LTY2ODkwMDc3OSw3MDg5MDE2MDYsLTY2ODY2MjQ1OSw3MzA5OT
+gxMTZdfQ==
 -->

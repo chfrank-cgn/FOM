@@ -123,10 +123,18 @@ A = MTBF &divide; (MTBF + MTTR)
 BCM: Business Continuity Management
 BIA: Business Impact Analysis
 
+## Datentypen (10/15/19)
 
+**Klausur:**
+- IT Szenarien
+	- HPC (High-Performance Computing)
+	- Verfügbarkeit
+- Formel Verfügbarkeit verteilter Systems
+- PUE (Power Usage Efficiency)
+- Dunkelgrün / Fett gedruckt
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTg0NjMzNCwxMDg5NTc2OTI1LC04OT
-AxOTk4ODEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE0MjI5NTM4OTgsLTYxNTg0NjMzNCwxMD
+g5NTc2OTI1LC04OTAxOTk4ODEsNzMwOTk4MTE2XX0=
 -->

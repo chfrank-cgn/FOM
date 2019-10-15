@@ -180,9 +180,23 @@ TIM WOOD:
 
 *"Fashion is just a way to sell more clothes that you don't need"*
 
+## SCOR (10/15/19)
+
+Slides:
+- Procurement 6 (from page 15)
+- Procurement 7
+
+Topics:
+- Pull / Push
+- Kanban
+- SCOR 
+- Just in Time
+- Inventory planning
+
+**Exam:** Why do we need SCOR? Explain!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTIwMjY3MjksMTczNTA4MTc4Niw1MD
-A2NzY3NjcsMTUyNTc1NTczNiwtMTM4MjQ4NjMyMiw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTY4Nzg5MDgxNywtMTg5MjAyNjcyOSwxNz
+M1MDgxNzg2LDUwMDY3Njc2NywxNTI1NzU1NzM2LC0xMzgyNDg2
+MzIyLDczMDk5ODExNl19
 -->
