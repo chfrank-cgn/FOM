@@ -292,7 +292,7 @@ Steps:
 	- Choose the instruments
 	- Check applications / interviews
 - Decision
-	- On-boarding
+	- [Onboarding](https://jobs.derstandard.at/lebenslauf-und-bewerben/onboarding-neue-mitarbeiter-ins-team-integrieren/)
 	- Contract
 
 Adjustments
@@ -358,10 +358,11 @@ Job evaluation:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTk3Njg0NCwxMjQ5MjEzNzE3LC02ND
-MyNzQwMjQsMTI2OTUwMTQ5LC01OTMwNDY2MTgsLTc3Mzk5NDE3
-LDI4OTk4NTQwNCwtMjEyMzA5MDA3MywtMTg0ODgyNTQyNSw3Mj
-Q1NzM4NTgsNDkzOTY1NzcwLDc1NjYwMzIyNiwxNzEzNzkyMjAw
-LC0xMjM2ODA4NjQ3LC0yMDAzNjUzNDg3LC0xOTE0NzYwMzg5LC
-02NzY4MTU1NjYsMTMxNzI5OTMzMyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE2OTQ4NzAzMDUsLTgwOTk3Njg0NCwxMj
+Q5MjEzNzE3LC02NDMyNzQwMjQsMTI2OTUwMTQ5LC01OTMwNDY2
+MTgsLTc3Mzk5NDE3LDI4OTk4NTQwNCwtMjEyMzA5MDA3MywtMT
+g0ODgyNTQyNSw3MjQ1NzM4NTgsNDkzOTY1NzcwLDc1NjYwMzIy
+NiwxNzEzNzkyMjAwLC0xMjM2ODA4NjQ3LC0yMDAzNjUzNDg3LC
+0xOTE0NzYwMzg5LC02NzY4MTU1NjYsMTMxNzI5OTMzMyw3MzA5
+OTgxMTZdfQ==
 -->
