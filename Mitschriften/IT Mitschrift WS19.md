@@ -133,8 +133,53 @@ BIA: Business Impact Analysis
 - PUE (Power Usage Efficiency)
 - Dunkelgrün / Fett gedruckt
 
+## Klausurvorbereitung (10/21/19)
+
+- DIN EN 50600
+- ISO 27001 auf der Basis von IT Grundschutz
+- Hardware / Software, Beispiele
+- **Kabelführungen, Kabellängen,  Absicherung, Anzahl Adern**
+- USV: Shutdown, Überbrückung bis Notstrom (Netzersatzstrom) einsetzt; USV vs Notstrom
+- PUE = Total Facility &divide; IT Equipment
+- RZ: Einhausung, Kaltgang / Warmgang
+- Brandschutz
+	- Prävention
+	- Entdeckung
+	- Bekämpfung
+- Brand: Brennstoff - Sauerstoff - Hitze
+- Zugangsschutz
+	- Unberechtigten Zutritt verhindern
+	- Im Notfall Flucht ermöglichen
+	- Zutritt für Rettungskräfte
+- ITU, IEEE, IETF, W3C
+- **Klassifikationskriterien**
+- Öffentliche Netze vs private Netze
+- LAN / WAN, MAN
+- Netztopologien: Stern, Baum, Bus, Zellen, Maschen
+- OSI Model (Layer 1 - 7)
+- Kabel: BNC, Twisted Pair, Fiber
+- Komponenten: Repeater, Bridge, Hub, Switch, Router, Firewall
+- Ethernet: **Diffusions Netz**, CSMA/CD
+- Scale-Out (Horizontal), Scale-Up (Vertical)
+- Cluster, **HA** (ab 99.99%), Load balancing, **HPC**
+	- Besonderheiten Stromversorgung, Netzwerke, Rechnertypen
+- Formeln für mehrere Systeme bzw. redundante Systeme
+- MTBF, MTTR
+- Betrieb: Eigenbetrieb "on-premise", Cloud, Hosting
+- Virtualisierung
+- IaaS, PaaS, SaaS, FaaS ("self-service")
+- RAID: Redundant Array of Independent Disks
+	- Striping, mirroring, error correction code
+	- Hot swap / Hot spare
+	- RAID Level 0, 1, 5, 1-0, 0-1
+- Backup / Restore / Archivierung
+	- Komplettsicherung / Differenzsicherung / Inkrementelle Sicherung
+	- Generationen
+- Thin client / Fat client / Terminal Server / Windows Virtual Desktop
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjI5NTM4OTgsLTYxNTg0NjMzNCwxMD
-g5NTc2OTI1LC04OTAxOTk4ODEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEzNTUwMTM0MTcsLTE0MjI5NTM4OTgsLT
+YxNTg0NjMzNCwxMDg5NTc2OTI1LC04OTAxOTk4ODEsNzMwOTk4
+MTE2XX0=
 -->

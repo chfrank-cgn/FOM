@@ -356,13 +356,84 @@ Job evaluation:
 
 *Cafeteria System: Menü von Gehaltsbestandteilen*
 
+## Change Management (10/22/19)
+
+Revision `projekte/fom/hr/mindmap 2019-10-22`
+
+Personnel development:
+- Company interests
+- Employee interests
+Risk: 
+- Qualified employees have the ability to leave
+- Conflicts / internal competition
+- Salary increase necessary
+
+Development process:
+- Prepare
+- Action
+- Implementation
+
+Learning needs:
+- Branch relevant
+- Develop management skills
+- Other (e.g. soft skills, time management)
+
+Revision `projekte/fom/hr/whiteboard 2019-10-22`
+
+Planning process:
+- Targets
+- Target groups
+- Content / methods
+	- On the job (can be influenced)
+	- Off the job (no influence)
+- Trainer
+- Finance
+- Schedule
+
+Implementation (i.e. after the training):
+- Use the skills
+- Communication with line manager
+- What did you learn?
+- Knowledge transfer (to team)
+- Possibly stay in contact (ongoing mentoring)
+
+Yield of training = ((Value of training - Cost of training) &divide; Cost of training) &times; 100
+
+**Exam:** Skip ethical dimensions, Laws 1-3
+
+Change models:
+- Restructure (Structure, Process)
+- Reorientation (Strategy)
+- Revitalize (Behavior)
+- Remodel (Values)
+
+Change Management types of people:
+- Visionary / missionary
+- Believer
+- Opportunist
+- Indifferent / waiting
+- Fighting (hidden)
+- Fighting (open)
+- Emigrant
+
+Resistance : Mental barriers, active or passive refusal of change
+
+**Read:** The Iceberg is melting, John Kotter
+8 Steps for successful change management *(Slide 188/189)*
+Kotter's change curve (grief / loss)
+
+Change model (K. Lewin, 1958)
+- Unfreeze
+- Change
+- Refreeze
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTQ4NzAzMDUsLTgwOTk3Njg0NCwxMj
-Q5MjEzNzE3LC02NDMyNzQwMjQsMTI2OTUwMTQ5LC01OTMwNDY2
-MTgsLTc3Mzk5NDE3LDI4OTk4NTQwNCwtMjEyMzA5MDA3MywtMT
-g0ODgyNTQyNSw3MjQ1NzM4NTgsNDkzOTY1NzcwLDc1NjYwMzIy
-NiwxNzEzNzkyMjAwLC0xMjM2ODA4NjQ3LC0yMDAzNjUzNDg3LC
-0xOTE0NzYwMzg5LC02NzY4MTU1NjYsMTMxNzI5OTMzMyw3MzA5
-OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTYyNzEyMzQ4NCwtMTY5NDg3MDMwNSwtOD
+A5OTc2ODQ0LDEyNDkyMTM3MTcsLTY0MzI3NDAyNCwxMjY5NTAx
+NDksLTU5MzA0NjYxOCwtNzczOTk0MTcsMjg5OTg1NDA0LC0yMT
+IzMDkwMDczLC0xODQ4ODI1NDI1LDcyNDU3Mzg1OCw0OTM5NjU3
+NzAsNzU2NjAzMjI2LDE3MTM3OTIyMDAsLTEyMzY4MDg2NDcsLT
+IwMDM2NTM0ODcsLTE5MTQ3NjAzODksLTY3NjgxNTU2NiwxMzE3
+Mjk5MzMzXX0=
 -->

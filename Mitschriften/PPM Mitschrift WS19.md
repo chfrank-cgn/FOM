@@ -195,8 +195,49 @@ Topics:
 
 **Exam:** Why do we need SCOR? Explain!
 
+## Production 1 (10/21/19)
+
+Types of production
+Throughput time
+[CONWIP](https://www.allaboutlean.com/conwip-comparison/) System - Constant Work In Progress
+
+DIO : Days Inventory Outstanding
+DSO : Days Sales Outstanding
+DPO : Days Payables Outstanding
+
+Cash Conversion : DIO + DSO - DPO
+
+**Production 2**
+
+Poka Yoke (Toyota) : "Mistake proofing"
+
+5S - Efficient workspace organization
+- Sort
+- Set in Order
+- Shine
+- Standardize
+- Sustain
+
+## Production 3 (10/22/19)
+
+Lead time : Order to Delivery
+Throughput time : Pass-thru time in manufactoring, raw to finish
+Takt time : The rate at which you need to finish a product to meet customer demand
+
+Takt = Total available productive time &divide; Average customer demand
+
+Line balancing : Matching production time with takt time
+In case they don't match - remove bottlenecks or excess capacity
+
+MBWA : Management by walking around (HP)
+
+SMED : Single-Minute Exchange of Dies (-> Quick Changeover, *"Rüstzeit"*)
+
+SMED : External - process is running, Internal - process stopped - `projekte/fom/ppm/smed.pptx`
+To optimize, make as many activities external as possible; shorten the internal elements; shorten the external elements 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4Nzg5MDgxNywtMTg5MjAyNjcyOSwxNz
-M1MDgxNzg2LDUwMDY3Njc2NywxNTI1NzU1NzM2LC0xMzgyNDg2
-MzIyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTM3NzQ4ODgxOCwxMjAwMTM2NiwxMjM3Mj
+IxMzMyLC02ODc4OTA4MTcsLTE4OTIwMjY3MjksMTczNTA4MTc4
+Niw1MDA2NzY3NjcsMTUyNTc1NTczNiwtMTM4MjQ4NjMyMiw3Mz
+A5OTgxMTZdfQ==
 -->
