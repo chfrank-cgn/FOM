@@ -53,10 +53,18 @@ complex = real + imag &times; j - wobei j^2^=-1
 
 immutable = Jede Zuweisung / Operation erzeugt ein neues Objekt
 
+## Sequenzielle Datentypen (10/29/19)
+
+**Klausur:** [List comprehensions](https://docs.python.org/3/tutorial/datastructures.html)
+
+    s[i] - Element an Stelle i von s (Start bei 0)
+    s[i:j] - Slicing: Ausschnitt (slice) von s von i bis j
+    s[i:j:k] - Slicing: Ausschnitt von s von i bis j mit Schrittweite k
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NzU5NjM1Nyw3ODU2NTU4MzEsMzMyMj
-IwNjUwLDE0NTYzMzc3MjUsNDk1MzExODU1LC0xNTg1Njc5MzEs
-LTY2ODkwMDc3OSw3MDg5MDE2MDYsLTY2ODY2MjQ1OSw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbLTQ2Njc5NTY4NywtMjIwNzAyNDAzLDc4NT
+Y1NTgzMSwzMzIyMjA2NTAsMTQ1NjMzNzcyNSw0OTUzMTE4NTUs
+LTE1ODU2NzkzMSwtNjY4OTAwNzc5LDcwODkwMTYwNiwtNjY4Nj
+YyNDU5LDczMDk5ODExNl19
 -->
