@@ -235,8 +235,45 @@ SMED : Single-Minute Exchange of Dies (-> Quick Changeover, *"Rüstzeit"*)
 
 SMED : External - process is running, Internal - process stopped - `projekte/fom/ppm/smed.pptx`
 To optimize, make as many activities external as possible; shorten the internal elements; shorten the external elements 
+
+## Standard Operating Procedure (11/4/19)
+
+SOP:
+- Set of written instructions
+- For repetitive action
+- Across place (e.g. branches) and time (e.g. today, tomorrow)
+- Should have a clear goal
+- Cater to the intended audience
+- Be clear and unambiguous
+
+**Profit maximization**
+
+Fixed costs vs. variable costs
+
+Long-term: All costs are variable.
+
+*The law of diminishing marginal return*
+
+Marginal cost (MC): The cost of making one more unit
+- MC = Change in total cost &divide; Change in quantity
+
+Marginal revenue (MR): The revenue of selling on more unit
+
+[Profit maximization Rule](https://www.intelligenteconomist.com/profit-maximization-rule/): MC == MR
+- If MR > MC, increase output
+- If MR < MC, decrease output
+
+**Activity based costing**
+
+Direct costs: Easily attributed to a service / product
+Indirect costs: Can't easily be attributed to a service / project. "Overhead"
+
+Traditionally, indirect costs would be allocated using labor or machine hours
+
+Activity based costing is now used to allocate the actual overhead costs per unit
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NzQ4ODgxOCwxMjAwMTM2NiwxMjM3Mj
+eyJoaXN0b3J5IjpbMTYxNDY2MDkwOCwxMjAwMTM2NiwxMjM3Mj
 IxMzMyLC02ODc4OTA4MTcsLTE4OTIwMjY3MjksMTczNTA4MTc4
 Niw1MDA2NzY3NjcsMTUyNTc1NTczNiwtMTM4MjQ4NjMyMiw3Mz
 A5OTgxMTZdfQ==

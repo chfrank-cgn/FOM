@@ -141,7 +141,7 @@ GUI Programmierung in Java mit [Swing](https://www.javatpoint.com/java-swing) un
 
 GUI Elements, Frames, Flow, Layoutmanager
 
-Event Handling, Event-Driven Architecture
+Callback(), Event Handling, Event-Driven Architecture
 
 Homework: 15-01, Seite 305 .jar Files
 
@@ -190,10 +190,10 @@ Multiple Choice (Yes/No): Ein Gegenbeispiel reicht
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjAwNDQ5NywtNjE1ODQ4MDk1LC0yMD
-Q5NDQ1MjE4LDIwNjAzODQyMTUsNzM1NzA4Mjc0LC05MTAzOTM5
-MDMsLTE3NTY0MDMxOTIsLTExNjM1NDMxODUsLTEwNDE1MTc2NT
-EsMTAwNjkyMDY3NCwtMTI0NDAwMzQyOSw2NTc1MzE2NDUsMTc0
-NDcyMTgyNiwtOTYxNzkwOTUxLC0yMzkwNTk3NDEsNzMwOTk4MT
-E2XX0=
+eyJoaXN0b3J5IjpbMTc0Mzk2NzExMywtNTA2MDA0NDk3LC02MT
+U4NDgwOTUsLTIwNDk0NDUyMTgsMjA2MDM4NDIxNSw3MzU3MDgy
+NzQsLTkxMDM5MzkwMywtMTc1NjQwMzE5MiwtMTE2MzU0MzE4NS
+wtMTA0MTUxNzY1MSwxMDA2OTIwNjc0LC0xMjQ0MDAzNDI5LDY1
+NzUzMTY0NSwxNzQ0NzIxODI2LC05NjE3OTA5NTEsLTIzOTA1OT
+c0MSw3MzA5OTgxMTZdfQ==
 -->
