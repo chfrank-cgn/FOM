@@ -427,13 +427,141 @@ Change model (K. Lewin, 1958)
 - Change
 - Refreeze
 
+## Leadership (10/28/19)
+
+Tasks:
+- Communicate
+- Motivate
+- Agree upon objectives (Management by Objectives)
+- Demand and promote (Management by Delegation/by Exception)
+- Judge
+- Plan
+- Cooperate
+
+## Motivation (11/5/19)
+
+Revision `projekte/fom/hr/mindmap 2019-11-05`
+
+Motivation : movere (lat.) : to move
+
+What are the components of motivation?
+- [Maslow's hierarchy of needs](https://www.simplypsychology.org/maslow.html)
+- [ERG Theory](https://www.yourcoach.be/en/employee-motivation-theories/erg-motivation-theory-alderfer.php) (by Alderfer)
+- Two-factor model (by Herzberg)
+
+How does motivation work?
+- [Motivation theories](http://www.yourarticlelibrary.com/entrepreneurship/motivation-entrepreneurship/porter-and-lawler-model-of-motivation-with-diagram/53299) (by Porter / Lawler)
+- [Equity Theory](https://www.toolshero.com/psychology/adams-equity-theory/) (by Adams)
+
+**ERG: Existence - Relatedness - Growth**
+**Exam:** Difference to Maslow: 3 vs 5, no hierarchy
+
+Porter / Lawler: Motivation model : "Weg-Ziel Modell", "Rückkopplungsmodell"
+Effort - Performance - Reward
+
+Intrinsic motivation (e.g. fun at work) : long-term
+Extrinsic motivation (e.g. salary) : short-term
+
+*"There must be a link between effort and reward"*
+
+**Equity Theory**
+Balance between effort and reward
+Tension arises if an imbalance exists
+
+*"Need to have equitable rewards"* 
+*"People are better motivated if treated equitably (fairly)"*
+
+Incentives:
+- Immaterial incentives
+- Indirect material incentives
+- Material incentives
+
+Mitarbeiter Motivationstypen:
+- Macht- und einflussorientierte MA
+- Leistungsorientierte MA
+- Freundschaftsorientierte MA
+
+SMART Goals:
+- Specific
+- Measurable
+- Achievable
+- Realistic
+- Timely
+
+Management by Delegation (see *"Organisatorisches Kongruenzprinzip"*)
+- Tasks
+- Authorization
+- Responsibilities
+Options:
+- Mission
+- Instruction
+- Order ("Befehl")
+
+Management by Exception
+- Employees can decide on their own, within a certain framework
+- Balance abilities and challenges, keep employees in flow
+
+**Indirect leadership**
+
+Social process:
+- Power
+- Politics
+- Informal groups
+-> influence through organizational culture
+
+Type of culture:
+- Tough guy, Macho culture
+- Word hard / play hard
+- Bet your company
+- Process culture
+
+Organizational culture:
+- Implicit: Common convictions
+- Collective: Common values
+- Conceptional: Specification of attitudes
+- Emotional: Feelings, attitudes, and moods of those who work there
+- History: Development of the company
+- Interaction: Communication of values
+
+[Organization culture](https://www.managementstudyhq.com/edgar-schein-model-theory.html) visibility (by Schein)
+- Artifacts, symbols and signs
+- Values, norms and standards
+- Basic assumptions (e.g. about the right way for people to relate with each other)
+-> Visibility decreases top-down
+
+Vision:
+- Corporate philosophy (*"Leitbild : Give a frame to the strategy"*)
+	- "Don't be evil"
+	- "Ich bin T und auf mich ist Verlass"
+- Norms
+- Symbols
+- Heroes
+- Rituals
+
+**Layoff:**
+- Internal (Redeployment)
+- External (Dismissal, Severance package, Hiring freeze)
+
+Ordentliche Kündigung (§620ff BGB)
+Außerordentliche Kündigung (§626 BGB)
+
+Kündigung:
+- Personenbedingte Kündigung
+- Verhaltensbedingte Kündigung
+	- 2 - 3 Abmahnungen aus dem gleichen Grund
+- Betriebsbedingte Kündigung
+
+Outplacement
+Transfergesellschaft
+
+**Exam:** When Leadership fails
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzEyMzQ4NCwtMTY5NDg3MDMwNSwtOD
-A5OTc2ODQ0LDEyNDkyMTM3MTcsLTY0MzI3NDAyNCwxMjY5NTAx
-NDksLTU5MzA0NjYxOCwtNzczOTk0MTcsMjg5OTg1NDA0LC0yMT
-IzMDkwMDczLC0xODQ4ODI1NDI1LDcyNDU3Mzg1OCw0OTM5NjU3
-NzAsNzU2NjAzMjI2LDE3MTM3OTIyMDAsLTEyMzY4MDg2NDcsLT
-IwMDM2NTM0ODcsLTE5MTQ3NjAzODksLTY3NjgxNTU2NiwxMzE3
-Mjk5MzMzXX0=
+eyJoaXN0b3J5IjpbLTE5NzkxOTU1MTEsMTExNjIyNTkzMCwtMT
+c2MDI4Mjg0MiwtNDY0MDIwNDM5LDQyNDA2MDAxMSwxNjI3MTIz
+NDg0LC0xNjk0ODcwMzA1LC04MDk5NzY4NDQsMTI0OTIxMzcxNy
+wtNjQzMjc0MDI0LDEyNjk1MDE0OSwtNTkzMDQ2NjE4LC03NzM5
+OTQxNywyODk5ODU0MDQsLTIxMjMwOTAwNzMsLTE4NDg4MjU0Mj
+UsNzI0NTczODU4LDQ5Mzk2NTc3MCw3NTY2MDMyMjYsMTcxMzc5
+MjIwMF19
 -->

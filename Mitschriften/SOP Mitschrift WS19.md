@@ -61,10 +61,41 @@ immutable = Jede Zuweisung / Operation erzeugt ein neues Objekt
     s[i:j] - Slicing: Ausschnitt (slice) von s von i bis j
     s[i:j:k] - Slicing: Ausschnitt von s von i bis j mit Schrittweite k
 
+## String Operations (11/5/19)
+
+    string.center(50,'-')
+ 
+ Lists
+ 
+    liste = ['a', 'b', 'c'] : *liste -> a , b , c  -  liste.join() -> abc
+
+Page numbers
+
+    'Page {} of {}'.format(1,3) -> Page 1 of 3
+
+List extraction
+
+    prim = [2,3,5,7,11,13] ; i = 3
+    'First {} prime numbers are {}'.format(i,prim[:i])
+
+Tuple unpacking
+
+    tab = '| {:15} | {:4} |'
+    liste = (('Deutschland', 'de'),('Austria', 'at'), ('France', 'fr'))
+    for country, tld in liste:
+         tab.format(country, tld)
+
+UTF-8 Encoding
+
+    logfile = open("node_13.81.173.84_09.log", "r", encoding="utf-8")
+
+*Das Komma macht den Tupel!*
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2Njc5NTY4NywtMjIwNzAyNDAzLDc4NT
-Y1NTgzMSwzMzIyMjA2NTAsMTQ1NjMzNzcyNSw0OTUzMTE4NTUs
-LTE1ODU2NzkzMSwtNjY4OTAwNzc5LDcwODkwMTYwNiwtNjY4Nj
-YyNDU5LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNDE5NjMwNDY5LDM1MDE5NTI4OSwtMTI2MT
+QyNzkzOSwtNDY2Nzk1Njg3LC0yMjA3MDI0MDMsNzg1NjU1ODMx
+LDMzMjIyMDY1MCwxNDU2MzM3NzI1LDQ5NTMxMTg1NSwtMTU4NT
+Y3OTMxLC02Njg5MDA3NzksNzA4OTAxNjA2LC02Njg2NjI0NTks
+NzMwOTk4MTE2XX0=
 -->
