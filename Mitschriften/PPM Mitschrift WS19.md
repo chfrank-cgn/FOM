@@ -234,7 +234,12 @@ MBWA : Management by walking around (HP)
 SMED : Single-Minute Exchange of Dies (-> Quick Changeover, *"Rüstzeit"*)
 
 SMED : External - process is running, Internal - process stopped - `projekte/fom/ppm/smed.pptx`
+
 To optimize, make as many activities external as possible; shorten the internal elements; shorten the external elements 
+
+Kai Zen : "Change Good" : Continuous Improvement
+
+Visual Management : Visualize information
 
 ## Standard Operating Procedure (11/4/19)
 
@@ -272,9 +277,11 @@ Traditionally, indirect costs would be allocated using labor or machine hours
 
 Activity based costing is now used to allocate the actual overhead costs per unit
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDY2MDkwOCwxMjAwMTM2NiwxMjM3Mj
-IxMzMyLC02ODc4OTA4MTcsLTE4OTIwMjY3MjksMTczNTA4MTc4
-Niw1MDA2NzY3NjcsMTUyNTc1NTczNiwtMTM4MjQ4NjMyMiw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEwNTgxMTE3OSwtMTI2NTA1MjE1LC0xND
+c0OTg3MDczLC0zNjMxNTA0OTksMTYxNDY2MDkwOCwxMjM3MjIx
+MzMyLC02ODc4OTA4MTcsLTE4OTIwMjY3MjksMTczNTA4MTc4Ni
+w1MDA2NzY3NjcsMTUyNTc1NTczNiwtMTM4MjQ4NjMyMiw3MzA5
+OTgxMTZdfQ==
 -->
