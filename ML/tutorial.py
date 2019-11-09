@@ -19,13 +19,15 @@ import joblib
 
 data = pd.read_csv('winequality-red.csv', sep=';')
 
-print(data.describe())
+# print(data.describe())
 
 # Split data into training and test
 
 y = data.quality
 X = data.drop('quality', axis=1)
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=123, stratify=y)
+# X_train.to_csv('winequality-red.train.csv', sep=';')
+# X_test.to_csv('winequality-red.test.csv', sep=';')
 
 # Scaling data sets
 
@@ -45,13 +47,12 @@ clf.fit(X_train, y_train)
 # Predict new data set
 
 y_pred = clf.predict(X_test)
-print(y_pred)
-print(X_test)
+print("\n", y_pred)
 
 # Evaluate model performance
 
-print(r2_score(y_test, y_pred))
-print(mean_squared_error(y_test, y_pred))
+print("\nR2 Score", r2_score(y_test, y_pred))
+print("\nMean error squared", mean_squared_error(y_test, y_pred), "\n")
 
 # Save model for future use
 
