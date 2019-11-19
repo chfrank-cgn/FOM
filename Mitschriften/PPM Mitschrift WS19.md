@@ -277,11 +277,41 @@ Traditionally, indirect costs would be allocated using labor or machine hours
 
 Activity based costing is now used to allocate the actual overhead costs per unit
 
+## Segmentation (11/12/19)
+
+Missing - "psychographic segmentation"
+
+## Targeting (11/18/19)
+
+STP Model:
+- Segmentation
+- Targeting
+- Positioning
+
+**Exam:** Pick one of the theories of the marketing course and compare how the theory applies to your employer (approx. 100 words) - *Transferaufgabe*
+
+Operational marketing: Short-term, generating sales
+Strategic marketing: Long-term, performed by senior management
+
+4P Marketing Mix:
+- Product : Define your product and USP
+- Price : Linked to perceived value
+- Place : Where to buy? (Direct / Indirect), distribution
+- Promotion : Communication, advertising, PR
+
+Brand extension: Connection between different product families (e.g. Apple: Smartphones -> Wearables)
+
+Diffusion of innovation:
+- Innovators, early adopters, early majority, late majority, laggards
+
+Product lifecycle:
+- Introduction (launch) - growth - maturity - decline (saturation)
+- Audience: Early adopters - broader audience - emphasis on product differentiation - harvest
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTgxMTE3OSwtMTI2NTA1MjE1LC0xND
-c0OTg3MDczLC0zNjMxNTA0OTksMTYxNDY2MDkwOCwxMjM3MjIx
-MzMyLC02ODc4OTA4MTcsLTE4OTIwMjY3MjksMTczNTA4MTc4Ni
-w1MDA2NzY3NjcsMTUyNTc1NTczNiwtMTM4MjQ4NjMyMiw3MzA5
-OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTA1MTI4MDM5MywxOTExNzM2NzA5LC0xMD
+U4MTExNzksLTEyNjUwNTIxNSwtMTQ3NDk4NzA3MywtMzYzMTUw
+NDk5LDE2MTQ2NjA5MDgsMTIzNzIyMTMzMiwtNjg3ODkwODE3LC
+0xODkyMDI2NzI5LDE3MzUwODE3ODYsNTAwNjc2NzY3LDE1MjU3
+NTU3MzYsLTEzODI0ODYzMjIsNzMwOTk4MTE2XX0=
 -->
