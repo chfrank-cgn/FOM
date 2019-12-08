@@ -241,6 +241,8 @@ Kai Zen : "Change Good" : Continuous Improvement
 
 Visual Management : Visualize information
 
+*"Lot size 1 production"*
+
 ## Standard Operating Procedure (11/4/19)
 
 SOP:
@@ -308,10 +310,103 @@ Product lifecycle:
 - Introduction (launch) - growth - maturity - decline (saturation)
 - Audience: Early adopters - broader audience - emphasis on product differentiation - harvest
 
+## Pricing (11/26/19)
+
+Pricing strategies:
+- Stamps
+- McDonald's menu (meal deal)
+- Louis Vuitton
+- 1-Euro shops
+- Aldi
+
+Pricing policies:
+- Cost-based pricing
+- Value-based pricing
+	- Based on perceived value
+	- Market research / strong advertising
+- Premium pricing
+- Uniform pricing
+	- Average price / simple
+- Single-price policy
+- Price discrimination
+- Psychological pricing
+	- ".99" is less than "1" 
+	- Also called "charm pricing"
+- Pricing for market penetration
+- Economic pricing
+	- Needs volume
+- Anchored pricing
+	- Establish a higher price, than discount for volume
+- Price skimming
+- Bundle pricing
+- "Buy one, get one free" (Bogof)
+	- Greed is a major motivator
+
+**Exam:** Name a number of pricing policies
+
+**Exam:** [Purchase Funnel:](https://www.business-to-you.com/marketing-funnel/)
+- Awareness
+- Interest
+- Purchase
+- ...
+- Loyalty
+- Advocacy
+
+Advertising / Public Relations
+- Paid / not paid
+- Full message control / free
+- Easy to target / more credible, more believable
+
+*"Purchase does not always follow decision"*
+
+After-Sales services:
+- Warranty
+- Customer support
+- Exchange
+- Listening to customer complaints
+- Ask for feedback
+- Advice on using the product
+
+Innovative Loyalty programs:
+- [Sephora Beauty Insider](https://www.sephora.com/profile/beautyInsider/)
+	- "Welcome to the club! Beauty Insider is your fast track to a never-ending supply of beauty rewards. It's free to join, and every dollar spent earns a point that gets you closer to your next beauty fix."
+
+## Marketing (12/2/19)
+
+(4P) Place:
+- Direct ("Full control over user experience")
+- Indirect
+	- Wholesale / Retail
+
+Intermediaries:
+- Agents
+- Wholesale
+- Distributor
+- Retail
+- Internet / e-Commerce
+
+Intensive distribution:
+- Multiple outlets
+- Products for everyday use
+
+Selective distribution:
+- Few, selected outlets
+
+Exclusive distribution:
+- Complete control, 1:1 relationship
+
+Example distribution models: Avon, Tesla, Apple, Dell (old)
+
+**Exam:** [BGC Growth-Share Matrix](https://strategicmanagementinsight.com/tools/bcg-matrix-growth-share.html)
+
+**Exam:** Ansoff Model - Using the [Ansoff Markets-Products Matrix](https://www.smartinsights.com/marketing-planning/create-a-marketing-plan/ansoff-model/) to identify growth opportunities
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTI4MDM5MywxOTExNzM2NzA5LC0xMD
-U4MTExNzksLTEyNjUwNTIxNSwtMTQ3NDk4NzA3MywtMzYzMTUw
-NDk5LDE2MTQ2NjA5MDgsMTIzNzIyMTMzMiwtNjg3ODkwODE3LC
-0xODkyMDI2NzI5LDE3MzUwODE3ODYsNTAwNjc2NzY3LDE1MjU3
-NTU3MzYsLTEzODI0ODYzMjIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTg2MzM1NTcwNywxMDUxMjgwMzkzLDE5MT
+E3MzY3MDksLTEwNTgxMTE3OSwtMTI2NTA1MjE1LC0xNDc0OTg3
+MDczLC0zNjMxNTA0OTksMTYxNDY2MDkwOCwxMjM3MjIxMzMyLC
+02ODc4OTA4MTcsLTE4OTIwMjY3MjksMTczNTA4MTc4Niw1MDA2
+NzY3NjcsMTUyNTc1NTczNiwtMTM4MjQ4NjMyMiw3MzA5OTgxMT
+ZdfQ==
 -->
