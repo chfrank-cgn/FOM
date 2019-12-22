@@ -85,22 +85,22 @@ Anforderung an die Hypothese:
 		- Unterziele
 		- Methodik
 		- Umfang der Arbeit / Abgrenzung
-	- Begrifflichkeiten
-		- Definition
-		- Verständnis
-	- Theorie
-		- Modell beschreiben
-		- Modell vergleichen
-		- Festlegung auf ein Modell / Methode, Begründung
-	- Transfer (Praxisbezug)
-		- Ist-Zustand im Anwendungsfall
-		- Soll-Ist Vergleich
-		- Handlungsempfehlung
-			- Massnahmen (Ist): Umsetzung
-	- Fazit
-		- (Top 5) Erkenntnisse
-		- Kritik am eigenen Vorgehen
-		- Ggf. Fragen oder Ausblicl
+- Begrifflichkeiten
+	- Definition
+	- Verständnis
+- Theorie
+	- Modell beschreiben
+	- Modell vergleichen
+	- Festlegung auf ein Modell / Methode, Begründung
+- Transfer (Praxisbezug)
+	- Ist-Zustand im Anwendungsfall
+	- Soll-Ist Vergleich
+	- Handlungsempfehlung
+		- Massnahmen (Ist): Umsetzung
+- Fazit
+	- (Top 5) Erkenntnisse
+	- Kritik am eigenen Vorgehen
+	- Ggf. Fragen oder Ausblicl
 
 Umfang 4000 Worte
 - 2500 Einleitung - Theorie
@@ -179,7 +179,7 @@ BIA: Business Impact Analysis
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTUwMTM0MTcsLTE0MjI5NTM4OTgsLT
-YxNTg0NjMzNCwxMDg5NTc2OTI1LC04OTAxOTk4ODEsNzMwOTk4
-MTE2XX0=
+eyJoaXN0b3J5IjpbLTQwNTUzNDE4NSwtMTM1NTAxMzQxNywtMT
+QyMjk1Mzg5OCwtNjE1ODQ2MzM0LDEwODk1NzY5MjUsLTg5MDE5
+OTg4MSw3MzA5OTgxMTZdfQ==
 -->
