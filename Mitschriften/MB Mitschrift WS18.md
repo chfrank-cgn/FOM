@@ -949,7 +949,7 @@ Deck #3: See notes from the last two days
 
 [PS Populismus by Christian Lindner](https://www.handelsblatt.com/meinung/kolumnen/expertenrat/wenzel/expertenrat-eike-wenzel-ps-populismus-blockiert-die-zukunft-ein-offener-brief-an-christian-lindner/23960940.html?share=twitter&ticket=ST-877634-UekJkVnzbvCIa1lnr0yZ-ap6)
 
-Break-Event:
+Break-Even:
 - Cost = Revenue
 - x &times; Price - x &times; varCosts - fixCosts = 0 *(x: number of units)*
 
@@ -1010,11 +1010,11 @@ Profit margin = NetProfit/Revenue = Revenue-Cost/Revenue
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODc2NjM4MiwxMTY2ODEyMjUzLC00Nz
-EyMjIwNzAsLTQ1MTM0NjAyNiw4Mzc2MjM4OTgsLTE2OTY4NTU5
-OTEsMTk3MTE4MzQyMSw0OTE1MzY2NjcsMTY0OTA4NzgxNywtMj
-E0MzkxOTE4NiwxOTc3MzczNzM2LC0xOTQwMTYzNjMyLDEwNzc0
-OTM1NzYsMTIxNTQ0MjQ2MiwxMTUzNzMyNzkyLDIxMjUxNTY4Nj
-csMTUxNjUwMTI4OSw2NDc3NjUwNzUsMjAwMTQ5NzkyMiwyMTAx
-NDEyMDE0XX0=
+eyJoaXN0b3J5IjpbNzc0MTQ1MDcwLDE0MTg3NjYzODIsMTE2Nj
+gxMjI1MywtNDcxMjIyMDcwLC00NTEzNDYwMjYsODM3NjIzODk4
+LC0xNjk2ODU1OTkxLDE5NzExODM0MjEsNDkxNTM2NjY3LDE2ND
+kwODc4MTcsLTIxNDM5MTkxODYsMTk3NzM3MzczNiwtMTk0MDE2
+MzYzMiwxMDc3NDkzNTc2LDEyMTU0NDI0NjIsMTE1MzczMjc5Mi
+wyMTI1MTU2ODY3LDE1MTY1MDEyODksNjQ3NzY1MDc1LDIwMDE0
+OTc5MjJdfQ==
 -->
