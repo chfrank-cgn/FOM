@@ -15,7 +15,20 @@ Term paper: ~ 4,000 words
 
 [COBIT5](https://www.isaca.org/resources/cobit)
 
+## Term Paper (3/17/20)
+
+Introduction to all term paper topics
+
+Quoting own papers: As if it was from someone else
+Screenshots: Open question, how to quote?
+Include "Ehrenwörtliche Erklärung"
+
+Next session: Present layout
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MzkxMTkxNSwtMTA0OTU2NTYwLC01Mz
-IzOTI4OTBdfQ==
+eyJoaXN0b3J5IjpbMTgwNDM3NjQ1MCwtMzMxNjIxNDg0LC0yOD
+Y1NDg2MjgsLTE1NzA0MDQyMDUsLTEwNDk1NjU2MCwtNTMyMzky
+ODkwXX0=
 -->

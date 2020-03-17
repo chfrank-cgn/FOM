@@ -41,12 +41,54 @@ Pascal'sches Dreieck - Binominal Koeffizient
 
 **Exam:** Lazar'sches Quadrat
 
+## Datenstrukturen (3/16/20)
 
+Lineare Datenstruktur: 1 Vorgänger, 1 Nachfolger
 
+Array: Statische Datenstruktur
+Zugriff auf ein Element bei bekanntem Index in konstanter Zeit
 
+Liste: Dynamische Datenstruktur
+Zugriff auf ein Element über eine schrittweise Suche
+
+    class Element {
+    	char val;
+    	Element next:
+    }
+    first = new(Element);
+
+**Code:** `fom/ad/skript/code-vorlagen/einfacheliste.java`
+
+Stack: LIFO - push() / pop()
+Queue: FIFO enqueue() / dequeue()
+
+**Code:** `fom/ad/skript/code-vorlagen/queuetest.java`
+
+Nicht-lineare Datenstrukturen: Bäume, Graphen
+
+Wurzel - Vater - Sohn - Blatt
+
+Binärbaum: Jeder Vater hat höchstens zwei Söhne (vollständig: genau zwei Söhne)
+
+Baum: Rekursive Datenstruktur
+
+    class Node {
+    	int val;
+    	Node left;
+    	Node right;
+    }
+
+Geordnete Bäume: Suchbäume 
+links < wurzel < rechts
+
+Traversal (Ausgabe bei W): `fom/ad/traversal.jpg`
+- In-order: unten, LWR (in sortierter Reihenfolge)
+- Pre-order: links, WLR (Suchbaum)
+- Post-order: rechts, LRW (compiler)
+- Level-order: Zeilenweise von oben nach unten (Heap Sort)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDYzOTk2MjQsLTE1OTkyMjgxNzUsMT
-E1ODk0MzUxMV19
+eyJoaXN0b3J5IjpbMTExNjExMTAyOSwxMDg1NzkwMDAzLC0xMD
+Q2Mzk5NjI0LC0xNTk5MjI4MTc1LDExNTg5NDM1MTFdfQ==
 -->
