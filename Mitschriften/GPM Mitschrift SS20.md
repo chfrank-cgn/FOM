@@ -75,14 +75,33 @@ Organisatorischen Gestaltung:
 Selbststudium: Bis Slide 46
 Übungsaufgabe: Slide 43
 
+Unternehmensmodellierung:
+- Strategie
+- Prozesse
+- Ressourcen
+
+Prozess:
+- Eingabe (Input) 
+- Aktivitäten
+- Ergebnis (Output)
+
+Geschäftsprozess:
+- Anforderungen von Kunden 
+- Wertschöpfende Aktivitäten 
+- Leistungen für Kunden
+
+Primäre Geschäftsprozesse erzeugen Leistungen (Produkte und / oder Dienstleistungen) für externe Kunden, um deren Bedarf zu befriedigen; sie stiften unmittelbaren Kundennutzen. Sekundären Geschäftsprozesse unterstützen diese.
+
+Geschäftsprozesse:
+- Managementprozesse
+- Kernprozesse
+- Unterstützende Prozesse
+
 **Exam:** Vergleich verschiedener Organisationsformen und kritischer Vergleich 
 
-
-
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODY1NTY1OSwtNDkzNTE1MTQ2LDU0OT
-kyODY3Nyw2Njc4OTc0NzgsMTY2MDk2MDQxOCwtMzk5MjI4MjAz
-LC03NjM3OTE0MzQsNDQ0MTk5NDgxLDU2MzgyNTk3OV19
+eyJoaXN0b3J5IjpbLTgxMjQ4NDA4LDE1MDgwODU4NjMsLTQxOD
+Y1NTY1OSwtNDkzNTE1MTQ2LDU0OTkyODY3Nyw2Njc4OTc0Nzgs
+MTY2MDk2MDQxOCwtMzk5MjI4MjAzLC03NjM3OTE0MzQsNDQ0MT
+k5NDgxLDU2MzgyNTk3OV19
 -->
