@@ -5,14 +5,14 @@ Prof. Dr. Oliver Lazar - oliver.lazar@fom.de - [nerdwest.de](http://www.nerdwest
 Algorithmus: Handlungsvorschrift zur Lösung einer bestimmten Art von Problemen in endlicher Zeit
 
 Verfahren
-- endliche Länge
+- Endliche Länge
 - Termination
 - Determinismus (-> Schritte)
-- Determininiertheit (-> Ergebnis)
-- Sequentalität / Parallelität
+- Determiniertheit (-> Ergebnis)
+- Sequentialität / Parallelität
 
 Rekursion:
-- Rueckführung von n auf das Problem n-1
+- Rückführung von n auf das Problem n-1
 
 Direkte Rekursion / Indirekte Rekursion
 
@@ -37,7 +37,7 @@ Backtracking: Trial & Error
 - 8-Damen Problem
 - Travelling Salesman
 
-Pascal'sches Dreieck - Binominal Koeffizient
+Pascalsches Dreieck - Binomialkoeffizient
 
 **Exam:** Lazar'sches Quadrat
 
@@ -87,8 +87,40 @@ Traversal (Ausgabe bei W): `fom/ad/traversal.jpg`
 - Post-order: rechts, LRW (compiler)
 - Level-order: Zeilenweise von oben nach unten (Heap Sort)
 
+## AVL Bäume (3/24/20)
+
+[AVL Tree](https://www.geeksforgeeks.org/avl-tree-set-1-insertion/) is a self-balancing Binary Search Tree, invented 1962 by: Georgy Adelson-Velsky and Evgenii Landis
+
+Balance: Gleiche Tiefe - [Visualization](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
+
+Jeder Knoten hat einen Balance-Wert:
+- 0 Blatt
+- Negativ: Links Übergewicht
+- Positiv: Rechts Übergewicht
+
+Bei einem Balance-Wert von +2 oder -2 wird rotiert
+Bei gleichem Vorzeichen: Einfache Links-Rotation
+Bei Vorzeichenwechsel: Doppelte Rotation, erst rechts, dann links, eventuell mit Übertrag
+
+AVL Sort hat eine linear-logarithmische Laufzeit
+
+## Zeitkomplexität / Groß-O Notation (3/24/20)
+
+n - number of elements / steps
+
+O(1) = Konstante Laufzeit
+O(n) = Lineare Laufzeit (Array-Durchlauf)
+O(n^2^) = Quadratische Laufzeit (Bubble-Sort)
+O(n^3^), O(n^4^) = Polynomielle Laufzeit
+O(n + log(n)) = Linear-logarithmische Laufzeit (Quicksort, Merge-Sort, AVL Sort)
+O(2^n^) = Exponentielle Laufzeit (Travelling Salesman)
+
+Bubble Sort: Iteratives Verfahren, quadratische Laufzeit, ok bis ca. 1000 Elemente
+
+**Code:** `fom/ad/skript/code-vorlagen/bubblesort.java`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNjExMTAyOSwxMDg1NzkwMDAzLC0xMD
-Q2Mzk5NjI0LC0xNTk5MjI4MTc1LDExNTg5NDM1MTFdfQ==
+eyJoaXN0b3J5IjpbODI1Nzk3OTc2LDExMTYxMTEwMjksMTA4NT
+c5MDAwMywtMTA0NjM5OTYyNCwtMTU5OTIyODE3NSwxMTU4OTQz
+NTExXX0=
 -->
