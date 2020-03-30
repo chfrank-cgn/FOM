@@ -27,9 +27,12 @@ WebEx + Selbststudium (Slides 60 - 152)
 
 Recherche-Auftrag: Was sind Crossover Kabel und wofür benötigt man sie?
 
+[Single-Mode vs Multi-Mode](https://community.fs.com/blog/single-mode-cabling-cost-vs-multimode-cabling-cost.html)
+
 **Exam:** Multiple Choice 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMDQ2MDY0OCw0NzEwODgwODksLTExNz
-IxNjU3OTksLTM4NDczOTE1OSwtNDI2OTU0MjUsLTUyMDU3Mzk2
-MywtODkwNjE5ODA3XX0=
+eyJoaXN0b3J5IjpbLTE2MDY0MjI3NzksMTMwMDQ2MDY0OCw0Nz
+EwODgwODksLTExNzIxNjU3OTksLTM4NDczOTE1OSwtNDI2OTU0
+MjUsLTUyMDU3Mzk2MywtODkwNjE5ODA3XX0=
 -->

@@ -205,11 +205,66 @@ Methoden:
 
 Aufgabe: `Uebung Prozessmodellierung`
 
+## Modellierung (3/30/20)
+
+**Exam:** Scientific Essay, approx. 2000 words, in English, plus short video presentation (3-5 Minutes)
+
+Zusammenfassung: Slide 47
+Tools Vergleich: Slide 40
+
+Warum Modellierung? Weil wir ein komplexes System nicht in seiner Gesamtheit erfassen können.
+
+Zentrale Fragen:
+- Welche betrieblichen Funktionen sollen modelliert werden?
+- Wie laufen die Geschäftsprozesse ab?
+- Welchen Abhängigkeiten gibt es?
+
+Grundsätze ordnungsgemäßer Modellierung:
+- Richtigkeit
+- Relevanz
+- Wirtschaftlichkeit
+- Klarheit
+- Vergleichbarkeit
+- Semantik
+
+Modellierungsansätze:
+- Funktionsorientiert
+- Objektorientiert
+- Prozessorientiert
+- Datenorientiert
+- (Wissensorientiert)
+
+ARIS: Architektur integrierter Informationssystems
+
+Ziel: Reduzierung der Komplexität
+- Abstraktion
+- Partitionierung
+
+Aufbau und Ablauf:
+- Betriebswirtschaftliche Problemstellung
+- Fachkonzept
+- DV Konzept
+- Implementation
+- Informationstechnik
+
+Sichten:
+- Leistungssicht
+- Steuerungssicht (eEPK)
+- Funktionssicht
+- Organisationssicht
+- Datensicht (Entity/Relationship Diagram)
+
+*Komplexität lässt sich nicht reduzieren, nur beherrschbar machen*
+
+"Nur Funktionen können Entscheidungen treffen" (eEPK)
+
+Aufgabe: `GPM Aufgaben neu`
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjkxOTg2MTMsLTQ3ODI3ODcyMCwtMT
-g2Mjc5MjQyMSwtNDQxMTY2ODA3LC04MTI0ODQwOCwxNTA4MDg1
-ODYzLC00MTg2NTU2NTksLTQ5MzUxNTE0Niw1NDk5Mjg2NzcsNj
-Y3ODk3NDc4LDE2NjA5NjA0MTgsLTM5OTIyODIwMywtNzYzNzkx
-NDM0LDQ0NDE5OTQ4MSw1NjM4MjU5NzldfQ==
+eyJoaXN0b3J5IjpbMTMwNDYwNjg5OCwtMTM2OTE5ODYxMywtND
+c4Mjc4NzIwLC0xODYyNzkyNDIxLC00NDExNjY4MDcsLTgxMjQ4
+NDA4LDE1MDgwODU4NjMsLTQxODY1NTY1OSwtNDkzNTE1MTQ2LD
+U0OTkyODY3Nyw2Njc4OTc0NzgsMTY2MDk2MDQxOCwtMzk5MjI4
+MjAzLC03NjM3OTE0MzQsNDQ0MTk5NDgxLDU2MzgyNTk3OV19
 -->
