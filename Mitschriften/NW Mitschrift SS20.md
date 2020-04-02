@@ -31,8 +31,16 @@ Recherche-Auftrag: Was sind Crossover Kabel und wofür benötigt man sie?
 
 **Exam:** Multiple Choice 
 
+## Subnetting (3/31/20)
+
+**Exam:** Subnet/Subnetmask, Spanning Tree Protocol
+
+**Hausaufgabe:** [IPv6](https://tools.ietf.org/html/rfc2460) (Slides 153-189)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDY0MjI3NzksMTMwMDQ2MDY0OCw0Nz
-EwODgwODksLTExNzIxNjU3OTksLTM4NDczOTE1OSwtNDI2OTU0
-MjUsLTUyMDU3Mzk2MywtODkwNjE5ODA3XX0=
+eyJoaXN0b3J5IjpbLTE4Mzc1MDcxODEsLTE2MDY0MjI3NzksMT
+MwMDQ2MDY0OCw0NzEwODgwODksLTExNzIxNjU3OTksLTM4NDcz
+OTE1OSwtNDI2OTU0MjUsLTUyMDU3Mzk2MywtODkwNjE5ODA3XX
+0=
 -->

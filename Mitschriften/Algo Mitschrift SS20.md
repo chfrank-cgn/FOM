@@ -119,8 +119,57 @@ Bubble Sort: Iteratives Verfahren, quadratische Laufzeit, ok bis ca. 1000 Elemen
 
 **Code:** `fom/ad/skript/code-vorlagen/bubblesort.java`
 
+## Rekursive Sortieralgorithmen (3/31/20)
+
+*"Divide and Conquer"*
+
+**Merge-Sort** - Sortiert beim Merge
+-	Source-Array
+-	Second-Array
+-	3 Indizes
+
+Aufwand (bei 8 Elementen): 8 Elemente pro Stufe, jede Stufe ist linear
+
+T(n) = Aufwand pro Stufe * Anzahl Stufen
+T(n) = (1 + n) &mult; (1 + log(n))
+
+Komplexität: O(n log(n))
+
+**Code:** `fom/ad/skript/code-vorlagen/heapsort.java`
+
+**Quick-Sort** - Sortiert beim Teilen
+- 2 Indizes
+- Pivot-Element (Links, Rechts, Zufallig)
+
+**Code:** `fom/ad/skript/code-vorlagen/quicksort.java`
+
+Heap:
+- Binärbaum mit der Wurzel als größtem Element
+- Linkslastig
+
+**Heap-Sort**:
+- In level-order linkslastingen Binärbaum erzeugen (zeilenweiser Aufbau)
+- Heap bilden
+- Heap-Sort (Wurzel an das Ende verschieben)
+- Das Resultat ist in level-order sortiert
+
+Versickern: Durch den Tausch kann die Heap-Eigenschaft verletzt sein und kleinere Elemente müssen nach unten wandern
+
+**Code:** `fom/ad/skript/code-vorlagen/heapsort.java`
+
+Counting-Sort:
+- Lineare(!) Laufzeit
+- Zwei Arrays, ein Index
+- Rahmenbedingungen:
+	- Integer-Array mit Werten größer gleich Null
+	- Bekanntes Maximum (für die Länge des zweiten (Counting) Arrays)
+
+Komplexität: O(n + k)
+
+**Code:** `fom/ad/skript/code-vorlagen/countingsort.java`
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI1Nzk3OTc2LDExMTYxMTEwMjksMTA4NT
-c5MDAwMywtMTA0NjM5OTYyNCwtMTU5OTIyODE3NSwxMTU4OTQz
-NTExXX0=
+eyJoaXN0b3J5IjpbNzg0NTE0MDQ1LDg0NTMzMTk3NCw4MjU3OT
+c5NzYsMTExNjExMTAyOSwxMDg1NzkwMDAzLC0xMDQ2Mzk5NjI0
+LC0xNTk5MjI4MTc1LDExNTg5NDM1MTFdfQ==
 -->

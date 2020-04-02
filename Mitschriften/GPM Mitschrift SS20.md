@@ -234,7 +234,7 @@ Modellierungsansätze:
 - Datenorientiert
 - (Wissensorientiert)
 
-ARIS: Architektur integrierter Informationssystems
+[ARIS](https://www.heflo.com/definitions/what-is-aris-architecture/): Architecture of Integrated Information Systems
 
 Ziel: Reduzierung der Komplexität
 - Abstraktion
@@ -262,9 +262,10 @@ Aufgabe: `GPM Aufgaben neu`
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDYwNjg5OCwtMTM2OTE5ODYxMywtND
-c4Mjc4NzIwLC0xODYyNzkyNDIxLC00NDExNjY4MDcsLTgxMjQ4
-NDA4LDE1MDgwODU4NjMsLTQxODY1NTY1OSwtNDkzNTE1MTQ2LD
-U0OTkyODY3Nyw2Njc4OTc0NzgsMTY2MDk2MDQxOCwtMzk5MjI4
-MjAzLC03NjM3OTE0MzQsNDQ0MTk5NDgxLDU2MzgyNTk3OV19
+eyJoaXN0b3J5IjpbLTUwMjMzNDU0NiwxMzA0NjA2ODk4LC0xMz
+Y5MTk4NjEzLC00NzgyNzg3MjAsLTE4NjI3OTI0MjEsLTQ0MTE2
+NjgwNywtODEyNDg0MDgsMTUwODA4NTg2MywtNDE4NjU1NjU5LC
+00OTM1MTUxNDYsNTQ5OTI4Njc3LDY2Nzg5NzQ3OCwxNjYwOTYw
+NDE4LC0zOTkyMjgyMDMsLTc2Mzc5MTQzNCw0NDQxOTk0ODEsNT
+YzODI1OTc5XX0=
 -->

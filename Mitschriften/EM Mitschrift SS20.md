@@ -96,13 +96,98 @@ Welche der aufgeführten Google Ads Kampagnen (1-4) würdest Du als am erfolgrei
 - BE_Generic: 137 pro Vorfall; BE_Brand: 87 pro Vorfall; BE_Geblitzt: 54 Euro
 - In der Annahme, dass jeder Abschluss gleich viel Ertrag bringt, wäre BE_Brand die erfolgreichste Kampagne
 
+## Mobile Marketing (3/31/20)
 
+Marketing mit Ausrichtung auf mobile Endgeräte - *"Mobile First"*
 
+Zalando: An manchen Tagen kommen 80% der Bestellungen von mobilen Endgeräten.
+
+Location Based Services: [Google Location Services](https://developers.google.com/android/reference/com/google/android/gms/location/LocationServices), [Mozilla Location Services](https://location.services.mozilla.com/)
+
+Multichannel Marketing:
+- Verschiedene Kommunikationskanäle zur Erreichung der Zielgruppe
+- Kommunikation: Markenpräsentation
+- Distribution: Vertrieb, nicht unbedingt über alle Kanäle gleich
+
+Beispiel: Kommunikation über Adidas Runtastic, Kauf über Adidas Online Shop
+
+Marketing Channel:
+- Single-Channel
+- Multi-Channel
+- Cross-Channel
+- Omni-Channel
+
+Mögliche Probleme:
+- Kannibalisierungseffekte
+- Kanalwettbewerb
+
+Customer Touchpoints:
+- Customer
+- Corporate
+- Brand
+
+AIDA: Attention, Interest, Desire, Action
+
+[AIDCAS](https://wirtschaftslexikon.gabler.de/definition/aidcas-formel-29395): Attention, Interest, Desire, Conviction, Action, Satisfaction
+
+Customer Journey:
+- Awareness
+- Consideration
+- Purchase
+- Service
+- Loyalty
+
+Tool: Buyer-Persona (= idealisierter Benutzertypus), dient der Optimierung der Customer Journey
+
+Content-Marketing: Produktfokus, Überzeugungsarbeit, "Storytelling"
+Outbound / Inbound Marketing
+
+CRO: Conversion Rate Optimization
+
+Konversionspfad:
+- Bekanntmachung
+- Interesse
+- Bewertung
+- Konversion
+- Kundenbindung
+
+Optimierung durch A/B oder multi-variate Tests
+
+Exam: Chancen und Risiken des Multi-Channel Marketings
+
+Erstellen einer Corporate Website
+- Grobkonzept
+- Feinkonzept
+- Designkonzept
+	- Formen, Positionierung und Farben
+	- Konsistenz und Einbindung von Bildern
+	- Text und Gestaltung
+	- Umsetzung
+- Test und Korrektur
+- Launch und Wartung
+
+Usability - The Design of Everyday Things
+Usability ist das Ausmaß, in dem ein Produkt durch bestimmte Benutzer in einem bestimmten Nutzungskontext genutzt werden kann, um bestimmte Ziele effektiv, effizient und zufriedenstellend zu erreichen.
+
+[Affordance und UI Design](http://www.medien.ifi.lmu.de/fileadmin/mimuc/mmi_ws0506/essays/uebung2-holzer.html)
+
+Web-Usability:
+- usefulness
+- effectiveness
+- learnability
+- attitude
+
+Usability Engineering: Storyboards
+
+Usability Engineering: Use-Cases
+
+**Uebung:** Slide 93
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcxNjUwMjMxLC0xMTIzNDQ4NDEyLC01Nz
-k4NDQ0MjYsNTkxMzkzMTEsODU5MjA5OTYxLDc5NDg0NTY0Nywt
-NjgwNzQyNjY5LDE1NzcyNzk2NDcsMjEzMzU4NzU5LC04NzU1Mj
-A1ODAsNjM5OTgxNTE0LDI5MjM0MjY3Miw4MjE0MDE4MDUsNDU4
-MzY4NTQyLDE5Mjc1MjIxXX0=
+eyJoaXN0b3J5IjpbLTc4NjY3NDY4NiwtMjE0MTY4MTM3MywyNz
+E2NTAyMzEsLTExMjM0NDg0MTIsLTU3OTg0NDQyNiw1OTEzOTMx
+MSw4NTkyMDk5NjEsNzk0ODQ1NjQ3LC02ODA3NDI2NjksMTU3Nz
+I3OTY0NywyMTMzNTg3NTksLTg3NTUyMDU4MCw2Mzk5ODE1MTQs
+MjkyMzQyNjcyLDgyMTQwMTgwNSw0NTgzNjg1NDIsMTkyNzUyMj
+FdfQ==
 -->
