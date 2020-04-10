@@ -168,8 +168,74 @@ Komplexität: O(n + k)
 
 **Code:** `fom/ad/skript/code-vorlagen/countingsort.java`
 
+## Hashing (Key/Value) 4/7/20
+
+Hashing: Eingabe beliebiger Länge, Ausgabe Identifikation fester Länge (Index, natürliche Zahl)
+Datenbanken, Kryptographie, Prüfsumme
+
+Ziel: Dictionary Operations (Suchen, Einfügen, Löschen) in konstanter Zeit durchführen
+
+K: Key-Menge
+A: Hash-Tabelle {0, 1, ... p-1}
+
+h(k) = k mod p 
+Falls k nicht numerisch, muss es umgewandelt werden, z.B. in den ASCII-Wert
+
+Kongruenz Methode:
+m (>IKI) als Primzahl und die Hash-Funktion als:
+**h(k) = f(k) mod m** 
+f(k) injektive Funktion für Keys &isin; K (eindeutige Zuordnung von K)
+
+Kollision: Zwei Schlüssel werden auf die gleiche Position abgebildet.
+Abschätzung: Bei einer Tabelle mit 365 Plätzen ist die Wahrscheinlichkeit einer Kollision ab 23 Elementen grösser als 50%
+
+Chaining: Alle Elemente mit dem gleichen Hashwert werden in einer verketteten Liste gehalten.
+
+Open Hashing: Suche eines alternativen Platzes
+
+Linear: Bei K=h(s) belegt, (k+1) mod m, (k+2) mod m ...
+Problem: Beim Löschen werden u.U. Suchketten unterbrochen
+
+Quadratisch: Bei K=h(s) belegt, h(s)+1, h(s)+2^2^, ..., h(s)+i^2^
+
+## Graphenalgorithmen (4/7/20)
+
+Graphen: Allgemeine Graphen besitzen Knoten mit beliebig vielen Vorgängern und Nachfolgern, Zyklen sind möglich
+
+G: (V,E) - endliche Menge aus Knoten (Vertices) und Kanten (Edges)
+
+Kante von G: (v1, v2) - Adjacent, v1 Anfang, v2 Ende
+
+Ungerichteter Graph, gerichteter Graph
+
+Kanten und Knoten können Daten beinhalten
+
+Einfacher Pfad: Pfad ohne Wiederholung
+
+Zyklus: Einfacher Pfad, allerdings sind erster und letzter Knoten identisch
+
+Graph ohne Zyklen wird Baum genannt
+Graphen können zusammenhängen oder nicht
+Eine Gruppe nicht-zusammenhängender Bäume wird Wald genannt
+
+Spannbaum (Spanning Tree): Zyklenfreier, zusammenhängender Teilgraph mit den gleichen Knoten
+
+Adjazenzmatrix: (Anzahl &mult; Anzahl) mit true: Kante existiert, false: Kante existiert nicht
+
+Ineffizient bei Graphen mit einer großen Anzahl von Knoten und wenigen Kanten
+Zugriff in konstanter Zeit: O(1)
+
+Adjazenzliste: Eindimensionales Array verketteter Listen
+Nur existierende Kanten werden abgespeichert.
+Bestimmung von k Nachfolgern: O(k)
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0NTE0MDQ1LDg0NTMzMTk3NCw4MjU3OT
-c5NzYsMTExNjExMTAyOSwxMDg1NzkwMDAzLC0xMDQ2Mzk5NjI0
-LC0xNTk5MjI4MTc1LDExNTg5NDM1MTFdfQ==
+eyJoaXN0b3J5IjpbLTE0NTc4Mzk4OTksNzg0NTE0MDQ1LDg0NT
+MzMTk3NCw4MjU3OTc5NzYsMTExNjExMTAyOSwxMDg1NzkwMDAz
+LC0xMDQ2Mzk5NjI0LC0xNTk5MjI4MTc1LDExNTg5NDM1MTFdfQ
+==
 -->

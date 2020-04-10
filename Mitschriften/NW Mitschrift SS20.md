@@ -37,10 +37,20 @@ Recherche-Auftrag: Was sind Crossover Kabel und wofür benötigt man sie?
 
 **Hausaufgabe:** [IPv6](https://tools.ietf.org/html/rfc2460) (Slides 153-189)
 
+## IPv6 (4/6/20)
+
+**Exam:** 
+- IPv6 SLAAC
+- Was ist eine korrekte Darstellung einer IPv6 Adresses? (Slide 167)
+- IPv6 Adresstypen (Slide 170-171)
+- Was ist FE80::: (ditto)
+
+**Hausaufgabe:** Layer 4, 5, 6 (Slides 190-244)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzc1MDcxODEsLTE2MDY0MjI3NzksMT
-MwMDQ2MDY0OCw0NzEwODgwODksLTExNzIxNjU3OTksLTM4NDcz
-OTE1OSwtNDI2OTU0MjUsLTUyMDU3Mzk2MywtODkwNjE5ODA3XX
-0=
+eyJoaXN0b3J5IjpbLTI1OTM0OTEwOCwtMTYwNjQyMjc3OSwxMz
+AwNDYwNjQ4LDQ3MTA4ODA4OSwtMTE3MjE2NTc5OSwtMzg0NzM5
+MTU5LC00MjY5NTQyNSwtNTIwNTczOTYzLC04OTA2MTk4MDddfQ
+==
 -->

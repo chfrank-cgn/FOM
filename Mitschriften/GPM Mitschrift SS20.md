@@ -260,12 +260,72 @@ Sichten:
 
 Aufgabe: `GPM Aufgaben neu`
 
+## BPMN (4/6/20)
+
+[BPMN](http://www.bpmn.org/): Business Process Model and Notation
+
+Einfache Prozessnotation, die dann in [BPEL](http://xml.coverpages.org/WS-BPEL-CS01.pdf) (Business Process Execution Language) ausgeführt werden kann.
+
+BPMN Elemente:
+- Kontrollfluss
+	- Aktivitaeten
+	- Gateways
+	- Ereignisse
+- Verbindungen
+	- Sequenz
+	- Nachrichtenfluss
+- Artefakte
+- Teilnehmer
+	- Pools
+	- Lanes
+- Daten
+
+Aktivität: Betriebliche Aufgabe
+- Aufgaben
+- Transaktionen
+- Aufruf-Aktivitäten
+	- Markierungen
+	- Aufgaben-Typen
+- Ereignis-Teilprozesse
+
+*BPMN spezifiziert Rollback!*
+
+Gateways:
+- Und, Oder, Xor
+- Komplex: "Beste Alternative auswählen" (wird in Anmerkungen festgelegt)
+
+Ereignisbasierte Gateways
+- eOr, eAnd, eXor
+- auch als Prozessstart: ieXort, ieOr, ieAnd
+
+Zwischenereignisse:
+- Throwing (-> naechstes)
+- Catching (-> vorheriges)
+
+Konnektoren:
+- Sequenz
+- Bedingt
+- Standard
+- Nachrichten (Messages)
+- Assoziationen
+
+Verantwortungsbereiche "Swimlanes"
+
+Pool >> Lanes:
+- Messages zwischen Lanes in einem Pool
+- Informationsfluss durch Datenobjekte innerhalb einer Lane
+
+Artefakte:
+- Gruppen
+- Kommentare
+
+Aufgabe: Urlaubsantrag Slide 66
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjMzNDU0NiwxMzA0NjA2ODk4LC0xMz
-Y5MTk4NjEzLC00NzgyNzg3MjAsLTE4NjI3OTI0MjEsLTQ0MTE2
-NjgwNywtODEyNDg0MDgsMTUwODA4NTg2MywtNDE4NjU1NjU5LC
-00OTM1MTUxNDYsNTQ5OTI4Njc3LDY2Nzg5NzQ3OCwxNjYwOTYw
-NDE4LC0zOTkyMjgyMDMsLTc2Mzc5MTQzNCw0NDQxOTk0ODEsNT
-YzODI1OTc5XX0=
+eyJoaXN0b3J5IjpbLTE3MDIzOTg3MzcsLTUwMjMzNDU0NiwxMz
+A0NjA2ODk4LC0xMzY5MTk4NjEzLC00NzgyNzg3MjAsLTE4NjI3
+OTI0MjEsLTQ0MTE2NjgwNywtODEyNDg0MDgsMTUwODA4NTg2My
+wtNDE4NjU1NjU5LC00OTM1MTUxNDYsNTQ5OTI4Njc3LDY2Nzg5
+NzQ3OCwxNjYwOTYwNDE4LC0zOTkyMjgyMDMsLTc2Mzc5MTQzNC
+w0NDQxOTk0ODEsNTYzODI1OTc5XX0=
 -->

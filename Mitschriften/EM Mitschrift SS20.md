@@ -181,13 +181,66 @@ Usability Engineering: Storyboards
 
 Usability Engineering: Use-Cases
 
-**Uebung:** Slide 93
+**Übung:** Slide 93
+
+## E-Mail Marketing (4/6/20)
+
+EU Law: Double opt-in required
+
+- E-Mail Text
+- Opt-in
+- Ansprechpartner
+- E-Newsletter
+- E-Mail Coupons
+- Bestätigungen
+
+Newsletter:
+- per E-Mail
+- Neutraler Content
+- Möglichkeit der Abmeldung 
+- Öffnungsrate
+- Click-Through Rate
+- Scrolltiefe
+- Conversion Rate
+
+*Krug'sches Design-Gesetz: "Don't make me think"*
+
+Breadcrumb-Navigation
+
+Satisficing: User benutzen nicht die beste, sondern erst-beste Option (von satisfying + suffice)
+
+Webdesign:
+- Effektivität
+- Effizienz
+- Zufriedenheit
+- Struktur
+	- "Magische 7" (+/- 2 Menuepunkte)
+- Gestaltungsraster (durch [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS))
+- [Mockup](https://moqups.com/)
+
+Bilder:
+- Inhaltselemente
+- Layoutelemente
+- Emotionale Elemente
+- Orientierungselemente
+
+Frameworks:
+- Bootstrap
+- jQuery
+
+Web-Metrics / Kennzahlen:
+- Antwortzeit
+- Durchsatz
+- Auslastung
+- Utilization
+
+*Mobile First*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NjY3NDY4NiwtMjE0MTY4MTM3MywyNz
-E2NTAyMzEsLTExMjM0NDg0MTIsLTU3OTg0NDQyNiw1OTEzOTMx
-MSw4NTkyMDk5NjEsNzk0ODQ1NjQ3LC02ODA3NDI2NjksMTU3Nz
-I3OTY0NywyMTMzNTg3NTksLTg3NTUyMDU4MCw2Mzk5ODE1MTQs
-MjkyMzQyNjcyLDgyMTQwMTgwNSw0NTgzNjg1NDIsMTkyNzUyMj
-FdfQ==
+eyJoaXN0b3J5IjpbLTEwNDYyOTg3MjMsMTY0NjU2MzE0OCwtMj
+E0MTY4MTM3MywyNzE2NTAyMzEsLTExMjM0NDg0MTIsLTU3OTg0
+NDQyNiw1OTEzOTMxMSw4NTkyMDk5NjEsNzk0ODQ1NjQ3LC02OD
+A3NDI2NjksMTU3NzI3OTY0NywyMTMzNTg3NTksLTg3NTUyMDU4
+MCw2Mzk5ODE1MTQsMjkyMzQyNjcyLDgyMTQwMTgwNSw0NTgzNj
+g1NDIsMTkyNzUyMjFdfQ==
 -->
