@@ -25,10 +25,27 @@ Include "Ehrenwörtliche Erklärung"
 
 Next session: Present layout
 
+Term paper presentation: April 21, 2020 (10' minutes, 10' Q&A)
+
+## Basic Requirements (4/14/20)
+
+IT-Management: Bundle of control tasks
+
+IS-Management: Procurement, Development and use of business information systems
+
+*To manage, lead and organize is nothing else but solving problems*
+
+Classic requirements:
+- Usability
+- Performance
+- Compliance
+- Function
+- Support
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDM3NjQ1MCwtMzMxNjIxNDg0LC0yOD
-Y1NDg2MjgsLTE1NzA0MDQyMDUsLTEwNDk1NjU2MCwtNTMyMzky
-ODkwXX0=
+eyJoaXN0b3J5IjpbLTIwMzI5NTIyMDYsLTExOTk3MTMyNzcsMT
+k0MzQ2OTIwMywtMTA4NTIwNzc3Miw2MzExNjgzMTQsMTgwNDM3
+NjQ1MCwtMzMxNjIxNDg0LC0yODY1NDg2MjgsLTE1NzA0MDQyMD
+UsLTEwNDk1NjU2MCwtNTMyMzkyODkwXX0=
 -->

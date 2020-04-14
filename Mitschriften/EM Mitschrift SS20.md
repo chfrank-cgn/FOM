@@ -236,11 +236,48 @@ Web-Metrics / Kennzahlen:
 
 *Mobile First*
 
+## Search Engine Optimization (4/14/20)
+
+Search Engine Results Page (SERP)
+
+Video: [How Google works](https://www.youtube.com/watch?time_continue=55&v=BNHR6IQJGZs&feature=emb_logo)
+- Crawling
+- Indizierung
+- Ranking
+
+`robots.txt`
+- disallow: nicht crawlen
+- noindex: nicht indizieren
+
+Bewertung:
+- Anzahl Keywords (alt)
+- Page Rank (alt)
+- Aktuell:
+	- Vertrauen
+	- Autorität
+	- Relevanz
+
+[Linkjuice](https://www.woorank.com/en/edu/seo-guides/link-juice): Vererbung durch die Link-gebende Seite
+
+SEO Tool: [Ubersuggest](https://neilpatel.com/de/ubersuggest/)
+- Flache Seitenhierarchie
+- SEF-Url: Search Engine Friendly URL
+- Keine Duplikate
+- Ladegeschwindigkeit
+
+
+
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDYyOTg3MjMsMTY0NjU2MzE0OCwtMj
-E0MTY4MTM3MywyNzE2NTAyMzEsLTExMjM0NDg0MTIsLTU3OTg0
-NDQyNiw1OTEzOTMxMSw4NTkyMDk5NjEsNzk0ODQ1NjQ3LC02OD
-A3NDI2NjksMTU3NzI3OTY0NywyMTMzNTg3NTksLTg3NTUyMDU4
-MCw2Mzk5ODE1MTQsMjkyMzQyNjcyLDgyMTQwMTgwNSw0NTgzNj
-g1NDIsMTkyNzUyMjFdfQ==
+eyJoaXN0b3J5IjpbLTY2NTQ0Mjg2NywtMTUzNjc1ODI1NiwtMj
+A4NzgzMjE0NCwtMTA0NjI5ODcyMywxNjQ2NTYzMTQ4LC0yMTQx
+NjgxMzczLDI3MTY1MDIzMSwtMTEyMzQ0ODQxMiwtNTc5ODQ0ND
+I2LDU5MTM5MzExLDg1OTIwOTk2MSw3OTQ4NDU2NDcsLTY4MDc0
+MjY2OSwxNTc3Mjc5NjQ3LDIxMzM1ODc1OSwtODc1NTIwNTgwLD
+YzOTk4MTUxNCwyOTIzNDI2NzIsODIxNDAxODA1LDQ1ODM2ODU0
+Ml19
 -->
