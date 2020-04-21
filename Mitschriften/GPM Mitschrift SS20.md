@@ -321,11 +321,25 @@ Artefakte:
 
 Aufgabe: Urlaubsantrag Slide 66
 
+## Scientific Essay (4/20/20)
+
+**Thema:** ITIL Change Management - Vergleich der Modellierung (eEPK vs. BPMN)
+
+Gliederung:
+- Intro: Was ist ITIL
+- Was ist Change Management und wofür braucht man das?
+- Wie sieht der ITIL Prozess für einen Standard Change aus?
+- Modellierung als eEPK mit LucidChart
+- Modellierung in BPMN mit bpmn.studio
+- Vergleich der Modelle und Bewertung
+- Abschluss & Ausblick
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDIzOTg3MzcsLTUwMjMzNDU0NiwxMz
-A0NjA2ODk4LC0xMzY5MTk4NjEzLC00NzgyNzg3MjAsLTE4NjI3
-OTI0MjEsLTQ0MTE2NjgwNywtODEyNDg0MDgsMTUwODA4NTg2My
-wtNDE4NjU1NjU5LC00OTM1MTUxNDYsNTQ5OTI4Njc3LDY2Nzg5
-NzQ3OCwxNjYwOTYwNDE4LC0zOTkyMjgyMDMsLTc2Mzc5MTQzNC
-w0NDQxOTk0ODEsNTYzODI1OTc5XX0=
+eyJoaXN0b3J5IjpbLTMxOTIyMzI0MywtMTcwMjM5ODczNywtNT
+AyMzM0NTQ2LDEzMDQ2MDY4OTgsLTEzNjkxOTg2MTMsLTQ3ODI3
+ODcyMCwtMTg2Mjc5MjQyMSwtNDQxMTY2ODA3LC04MTI0ODQwOC
+wxNTA4MDg1ODYzLC00MTg2NTU2NTksLTQ5MzUxNTE0Niw1NDk5
+Mjg2NzcsNjY3ODk3NDc4LDE2NjA5NjA0MTgsLTM5OTIyODIwMy
+wtNzYzNzkxNDM0LDQ0NDE5OTQ4MSw1NjM4MjU5NzldfQ==
 -->

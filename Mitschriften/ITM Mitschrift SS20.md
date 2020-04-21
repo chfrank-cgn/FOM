@@ -42,10 +42,15 @@ Classic requirements:
 - Function
 - Support
 
+## Term Paper Consulting (4/21/20)
+
+**Note:** Mention drawbacks and the process that lead to the conclusion. It's an academic paper, not a consulting pitch
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzI5NTIyMDYsLTExOTk3MTMyNzcsMT
-k0MzQ2OTIwMywtMTA4NTIwNzc3Miw2MzExNjgzMTQsMTgwNDM3
-NjQ1MCwtMzMxNjIxNDg0LC0yODY1NDg2MjgsLTE1NzA0MDQyMD
-UsLTEwNDk1NjU2MCwtNTMyMzkyODkwXX0=
+eyJoaXN0b3J5IjpbNTM0NDM2NjQwLC0xNDEwMjQ3MzkyLC0yMD
+MyOTUyMjA2LC0xMTk5NzEzMjc3LDE5NDM0NjkyMDMsLTEwODUy
+MDc3NzIsNjMxMTY4MzE0LDE4MDQzNzY0NTAsLTMzMTYyMTQ4NC
+wtMjg2NTQ4NjI4LC0xNTcwNDA0MjA1LC0xMDQ5NTY1NjAsLTUz
+MjM5Mjg5MF19
 -->

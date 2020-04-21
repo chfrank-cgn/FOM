@@ -45,12 +45,20 @@ Recherche-Auftrag: Was sind Crossover Kabel und wofür benötigt man sie?
 - IPv6 Adresstypen (Slide 170-171)
 - Was ist FE80::: (ditto)
 
-**Hausaufgabe:** Layer 4, 5, 6 (Slides 190-244)
+**Hausaufgabe:** Layer 4, 5, 6 (Slides 190-247)
+
+## Layer 4, 5, 6 (4/20/20)
+
+**Exam:** Was sind die Vorteile von VLANs?
+
+IT-Handbuch für Fachinformatiker - http://openbook.rheinwerk-verlag.de/it_handbuch/index.html
+
+**Hausaufgabe:** Internet (Slide 248-333)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTM0OTEwOCwtMTYwNjQyMjc3OSwxMz
-AwNDYwNjQ4LDQ3MTA4ODA4OSwtMTE3MjE2NTc5OSwtMzg0NzM5
-MTU5LC00MjY5NTQyNSwtNTIwNTczOTYzLC04OTA2MTk4MDddfQ
-==
+eyJoaXN0b3J5IjpbMzExNjYwNzQ1LC0xNDAwNjcyOTMzLC01MD
+gyNjkwNzksLTI1OTM0OTEwOCwtMTYwNjQyMjc3OSwxMzAwNDYw
+NjQ4LDQ3MTA4ODA4OSwtMTE3MjE2NTc5OSwtMzg0NzM5MTU5LC
+00MjY5NTQyNSwtNTIwNTczOTYzLC04OTA2MTk4MDddfQ==
 -->
