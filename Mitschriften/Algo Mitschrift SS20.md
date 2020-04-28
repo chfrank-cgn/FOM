@@ -229,13 +229,61 @@ Adjazenzliste: Eindimensionales Array verketteter Listen
 Nur existierende Kanten werden abgespeichert.
 Bestimmung von k Nachfolgern: O(k)
 
+## Planare Graphen (4/24/20)
+
+Ein Graph ist Planar, wenn er überschneidungsfrei gezeichnet werden kann
+
+K<sub>2,2</sub> - 2 Kanten zu 2 Knoten -> Planar
+K<sub>4</sub> - 4 Kanten zu 4 Knoten -> Planar
+
+Ein planarer Graph darf keinen Teilgraphen K<sub>5</sub> oder K<sub>3,3</sub> enthalten!
+
+*Farben: Jeder planarer Graph kann mit 4 Farben eingefärbt werden.*
+
+Brückenproblem: Lösbar bei einer geraden Anzahl von Kanten
+Rundreise: [Hamilton Kreis](https://mathepedia.de/Hamiltonkreisproblem.html)
+
+**Travelling Salesman Problem** 
+
+Bei 3 Stops gibt es bereits 3! Routen
+
+Ungerichteter Graph: Symmetrisches Travelling Salesman Problem
+Gerichteter Graph: Asymmetrisches Travelling Salesman Problem
+
+NP-Vollständig: Es gibt keinen Algorithmus, der dieses Problem in polynomialer Zeit lösen kann.
+
+[Simulated Annealing](https://mathworld.wolfram.com/SimulatedAnnealing.html):
+
+Es wird eine Route gebildet und die Distanz ermittelt. Dann werden zwei Knoten zufällig ausgewählt und die Reihenfolge vertauscht: Ist die Distanz größer oder kleiner? Innerhalb eines Toleranzwertes &Sigma; werden auch Verschlechterungen akzeptiert.
+
+**Graphen traversieren** (Tiefe / Breite)
+
+Breitensuche: Zunächst alle Knoten in der Nähe erfassen, dann ausdehnen (Queue)
+**Code:**  `fom/ad/skript/code-vorlagen/breitensuche.java`
+
+Tiefensuche: Jeden Pfad bis zum Ende gehen und dann bis zur nächsten Abzweigung zurückgehen (Rekursion)
+
+**Topologisches Sortieren**
+
+Endlicher gerichteter Graph, mit ord(v1) < ord(v2)
+Beispiel: Eine Vorlesung sei die Voraussetzung für eine andere. Gesucht: Zeitliche Anordnung der Vorlesungen
+Quelle (Ausgang): Knoten ohne Vorgänger
+**Code:**  `fom/ad/skript/code-vorlagen/topologischessortieren.java`
+
+
+**Transitive Huelle** (Exkurs: a<b &and; b<c -> a<c)
+
+Endlicher gerichteter Graph. Existierende Pfade durch mehrere Knoten hinweg werden um direkte Kanten ergänzt.
+Die transitive Hülle enthält alle(!) Abkürzungen
+
+[Floyd-Warshall Algorithmus](https://studyflix.de/informatik/floyd-warshall-algorithmus-1295)
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTc4Mzk4OTksNzg0NTE0MDQ1LDg0NT
-MzMTk3NCw4MjU3OTc5NzYsMTExNjExMTAyOSwxMDg1NzkwMDAz
-LC0xMDQ2Mzk5NjI0LC0xNTk5MjI4MTc1LDExNTg5NDM1MTFdfQ
-==
+eyJoaXN0b3J5IjpbNTg0MzM5MzAsMTc3OTIzMjUwNSwzMzA4Mz
+c0MzcsLTE0NTc4Mzk4OTksNzg0NTE0MDQ1LDg0NTMzMTk3NCw4
+MjU3OTc5NzYsMTExNjExMTAyOSwxMDg1NzkwMDAzLC0xMDQ2Mz
+k5NjI0LC0xNTk5MjI4MTc1LDExNTg5NDM1MTFdfQ==
 -->

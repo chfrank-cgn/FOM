@@ -265,6 +265,48 @@ SEO Tool: [Ubersuggest](https://neilpatel.com/de/ubersuggest/)
 - Keine Duplikate
 - Ladegeschwindigkeit
 
+## Search Engine Advertising - SEA (4/28/20)
+
+Google Ad Netzwerke:
+- Suchergebnisse
+- Display (z.B. YT, Blogger, etc.)
+
+[Google Ad Rank](https://support.google.com/google-ads/answer/1752122?hl=en)
+
+Strategische Neu-Ausrichtung von Google hin auf den Nutzer und das Nutzererlebnis, weg vom Unternehmens- und Gewinnfokus
+
+Tabelle: Quality + Format + Ad Rank
+
+Keyword:
+- Brand (z.B. adidas)
+- Generisch (z.B. Uhr)
+
+Kampagneneingrenzung:
+- Standort
+- Geschlecht
+- Altersgruppe
+(Google hat etwa 5% nicht identifizierte Nutzer)
+
+Ein Google Ads Konto -> mehrere Kampagnen -> mehrere Anzeigengruppen (Keywords, Eingrenzung)
+
+Metriken:
+- Impressions
+- CTR (Click-Through-Rate)
+- CPC (Cost-per-Click)
+- Absprungsrate
+- Sitzungsdauer
+
+Kampagnenausrichtung:
+- Branding (-> Hauptseite)
+- Traffic (-> Kategorieseite, z.B. "Sommer")
+- Leads (-> Produktseite)
+
+Qualität (Skala 1-10):
+- Erwartete Klickrate
+- Relevanz
+- Nutzererfahrung ([Link Juice](https://www.woorank.com/en/edu/seo-guides/link-juice))
+
+**Hausaufgabe:** Probeklausur per EMail, vor dem 11. Mai
 
 
 
@@ -273,11 +315,11 @@ SEO Tool: [Ubersuggest](https://neilpatel.com/de/ubersuggest/)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTQ0Mjg2NywtMTUzNjc1ODI1NiwtMj
-A4NzgzMjE0NCwtMTA0NjI5ODcyMywxNjQ2NTYzMTQ4LC0yMTQx
-NjgxMzczLDI3MTY1MDIzMSwtMTEyMzQ0ODQxMiwtNTc5ODQ0ND
-I2LDU5MTM5MzExLDg1OTIwOTk2MSw3OTQ4NDU2NDcsLTY4MDc0
-MjY2OSwxNTc3Mjc5NjQ3LDIxMzM1ODc1OSwtODc1NTIwNTgwLD
-YzOTk4MTUxNCwyOTIzNDI2NzIsODIxNDAxODA1LDQ1ODM2ODU0
-Ml19
+eyJoaXN0b3J5IjpbLTE3OTA2NTE2NjgsLTY2NTQ0Mjg2NywtMT
+UzNjc1ODI1NiwtMjA4NzgzMjE0NCwtMTA0NjI5ODcyMywxNjQ2
+NTYzMTQ4LC0yMTQxNjgxMzczLDI3MTY1MDIzMSwtMTEyMzQ0OD
+QxMiwtNTc5ODQ0NDI2LDU5MTM5MzExLDg1OTIwOTk2MSw3OTQ4
+NDU2NDcsLTY4MDc0MjY2OSwxNTc3Mjc5NjQ3LDIxMzM1ODc1OS
+wtODc1NTIwNTgwLDYzOTk4MTUxNCwyOTIzNDI2NzIsODIxNDAx
+ODA1XX0=
 -->

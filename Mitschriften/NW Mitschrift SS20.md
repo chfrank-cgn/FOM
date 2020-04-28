@@ -55,10 +55,23 @@ IT-Handbuch für Fachinformatiker - http://openbook.rheinwerk-verlag.de/it_handb
 
 **Hausaufgabe:** Internet (Slide 248-333)
 
+## Netzwerksicherheit (4/28/20)
+
+FTP Aktiv/Passive
+DNS / Dynamic DNS
+Datentransfer über EMail
+- MIME: Multipurpose Internet Mail Extension
+- SMTP, POP, POP3, IMAP
+
+Transferaufgabe: ABF (Ansprechen, Beurteilen, Folgern) 
+
+**Hausaufgabe:** Netzwerksicherheit (Slide 334-389)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExNjYwNzQ1LC0xNDAwNjcyOTMzLC01MD
-gyNjkwNzksLTI1OTM0OTEwOCwtMTYwNjQyMjc3OSwxMzAwNDYw
-NjQ4LDQ3MTA4ODA4OSwtMTE3MjE2NTc5OSwtMzg0NzM5MTU5LC
-00MjY5NTQyNSwtNTIwNTczOTYzLC04OTA2MTk4MDddfQ==
+eyJoaXN0b3J5IjpbLTM2OTk0NzY2OSwtMTUzMTMzMDYxMCwtNz
+Y2MjQ5OTM3LDIxMDEwMzQzMzIsLTYxNTM4NjA2NywzMTE2NjA3
+NDUsLTE0MDA2NzI5MzMsLTUwODI2OTA3OSwtMjU5MzQ5MTA4LC
+0xNjA2NDIyNzc5LDEzMDA0NjA2NDgsNDcxMDg4MDg5LC0xMTcy
+MTY1Nzk5LC0zODQ3MzkxNTksLTQyNjk1NDI1LC01MjA1NzM5Nj
+MsLTg5MDYxOTgwN119
 -->
