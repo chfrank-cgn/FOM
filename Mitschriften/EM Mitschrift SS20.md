@@ -293,7 +293,7 @@ Metriken:
 - Impressions
 - CTR (Click-Through-Rate)
 - CPC (Cost-per-Click)
-- Absprungsrate
+- Absprungrate
 - Sitzungsdauer
 
 Kampagnenausrichtung:
@@ -315,7 +315,7 @@ Qualität (Skala 1-10):
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTA2NTE2NjgsLTY2NTQ0Mjg2NywtMT
+eyJoaXN0b3J5IjpbLTE4MTE4MDQ3NDksLTY2NTQ0Mjg2NywtMT
 UzNjc1ODI1NiwtMjA4NzgzMjE0NCwtMTA0NjI5ODcyMywxNjQ2
 NTYzMTQ4LC0yMTQxNjgxMzczLDI3MTY1MDIzMSwtMTEyMzQ0OD
 QxMiwtNTc5ODQ0NDI2LDU5MTM5MzExLDg1OTIwOTk2MSw3OTQ4

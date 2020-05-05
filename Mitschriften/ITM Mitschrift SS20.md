@@ -46,11 +46,14 @@ Classic requirements:
 
 **Note:** Mention drawbacks and the process that lead to the conclusion. It's an academic paper, not a consulting pitch
 
+## Term Paper Consulting (5/5/20)
+
+IT Management Challenges
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0NDM2NjQwLC0xNDEwMjQ3MzkyLC0yMD
-MyOTUyMjA2LC0xMTk5NzEzMjc3LDE5NDM0NjkyMDMsLTEwODUy
-MDc3NzIsNjMxMTY4MzE0LDE4MDQzNzY0NTAsLTMzMTYyMTQ4NC
-wtMjg2NTQ4NjI4LC0xNTcwNDA0MjA1LC0xMDQ5NTY1NjAsLTUz
-MjM5Mjg5MF19
+eyJoaXN0b3J5IjpbMTg2OTAwNTM5Nyw1MzQ0MzY2NDAsLTE0MT
+AyNDczOTIsLTIwMzI5NTIyMDYsLTExOTk3MTMyNzcsMTk0MzQ2
+OTIwMywtMTA4NTIwNzc3Miw2MzExNjgzMTQsMTgwNDM3NjQ1MC
+wtMzMxNjIxNDg0LC0yODY1NDg2MjgsLTE1NzA0MDQyMDUsLTEw
+NDk1NjU2MCwtNTMyMzkyODkwXX0=
 -->

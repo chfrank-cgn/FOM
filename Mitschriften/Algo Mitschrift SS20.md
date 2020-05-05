@@ -278,12 +278,24 @@ Die transitive Hülle enthält alle(!) Abkürzungen
 
 [Floyd-Warshall Algorithmus](https://studyflix.de/informatik/floyd-warshall-algorithmus-1295)
 
+## Graphenalgorithen (5/4/20)
+
+Dijkstra Algorithmus - "Open shortest path first" (OSPF)
+
+Ford-Fulkerson Algorithmus - Zunahmepfad
+
+Huffmann-Codierung: 
+- Präfix-freie Sprache
+- Fano Bedingung
+- Binärbaum mit Pfaden ohne Verwechslungsgefahr
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0MzM5MzAsMTc3OTIzMjUwNSwzMzA4Mz
-c0MzcsLTE0NTc4Mzk4OTksNzg0NTE0MDQ1LDg0NTMzMTk3NCw4
-MjU3OTc5NzYsMTExNjExMTAyOSwxMDg1NzkwMDAzLC0xMDQ2Mz
-k5NjI0LC0xNTk5MjI4MTc1LDExNTg5NDM1MTFdfQ==
+eyJoaXN0b3J5IjpbLTEwODQzMjIxNCwtMTYxMjk5ODg4OCw1OD
+QzMzkzMCwxNzc5MjMyNTA1LDMzMDgzNzQzNywtMTQ1NzgzOTg5
+OSw3ODQ1MTQwNDUsODQ1MzMxOTc0LDgyNTc5Nzk3NiwxMTE2MT
+ExMDI5LDEwODU3OTAwMDMsLTEwNDYzOTk2MjQsLTE1OTkyMjgx
+NzUsMTE1ODk0MzUxMV19
 -->

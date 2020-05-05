@@ -57,7 +57,7 @@ IT-Handbuch für Fachinformatiker - http://openbook.rheinwerk-verlag.de/it_handb
 
 ## Netzwerksicherheit (4/28/20)
 
-FTP Aktiv/Passive
+FTP Aktiv/Passiv
 DNS / Dynamic DNS
 Datentransfer über EMail
 - MIME: Multipurpose Internet Mail Extension
@@ -67,11 +67,22 @@ Transferaufgabe: ABF (Ansprechen, Beurteilen, Folgern)
 
 **Hausaufgabe:** Netzwerksicherheit (Slide 334-389)
 
+## Perfect Forward Secrecy (5/5/20)
+
+DNSSEC
+DANE
+
+Sicherheitstechnische Grundlagen 
+
+**Hausaufgabe:** Netzwerksicherheit, Teil 2 (Slide 390-435)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2OTk0NzY2OSwtMTUzMTMzMDYxMCwtNz
-Y2MjQ5OTM3LDIxMDEwMzQzMzIsLTYxNTM4NjA2NywzMTE2NjA3
-NDUsLTE0MDA2NzI5MzMsLTUwODI2OTA3OSwtMjU5MzQ5MTA4LC
-0xNjA2NDIyNzc5LDEzMDA0NjA2NDgsNDcxMDg4MDg5LC0xMTcy
-MTY1Nzk5LC0zODQ3MzkxNTksLTQyNjk1NDI1LC01MjA1NzM5Nj
-MsLTg5MDYxOTgwN119
+eyJoaXN0b3J5IjpbMTgxMjY5NTc1NCwtMTM4Mzc3NzYzNywxND
+U3OTQwNzcsLTE1NDcyNTA0NzYsLTM2OTk0NzY2OSwtMTUzMTMz
+MDYxMCwtNzY2MjQ5OTM3LDIxMDEwMzQzMzIsLTYxNTM4NjA2Ny
+wzMTE2NjA3NDUsLTE0MDA2NzI5MzMsLTUwODI2OTA3OSwtMjU5
+MzQ5MTA4LC0xNjA2NDIyNzc5LDEzMDA0NjA2NDgsNDcxMDg4MD
+g5LC0xMTcyMTY1Nzk5LC0zODQ3MzkxNTksLTQyNjk1NDI1LC01
+MjA1NzM5NjNdfQ==
 -->
