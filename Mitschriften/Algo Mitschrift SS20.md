@@ -289,13 +289,33 @@ Huffmann-Codierung:
 - Fano Bedingung
 - Binärbaum mit Pfaden ohne Verwechslungsgefahr
 
+## LZW Komprimierung (5/7/20)
+
+LZW-Wörterbuch, urspruenglich 9-12 Bit, mittlerweile bis zu 16 Bit
+
+Codierung: Füllen des Wörterbuches mit den ASCII-Zeichen (8 Bit)
+Byte für Byte aufbauen, bei Match mit Nachfolger aufnehmen
+
+Decodierung: Füllen wie oben, dann schrittweise mit Vorgänger aufbauen
+
+Knuth-Morris-Pratt Algorithmus (Pattern Matching)
+
+Rand: Präfix und Suffix eine Teilworts (Beispiel: KOKOS: KOK - Rand 1; KOKO - Rand 2)
+
+Komplexität: O(n+m) - zum Vergleich, lineares (naives) Pattern Matching: O(n &times; m)
+
+i = Index Pattern; j = Index Suchwort
+Verschiebung: Delta s = j - rand 
+Neuer Index j = rand
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODQzMjIxNCwtMTYxMjk5ODg4OCw1OD
-QzMzkzMCwxNzc5MjMyNTA1LDMzMDgzNzQzNywtMTQ1NzgzOTg5
-OSw3ODQ1MTQwNDUsODQ1MzMxOTc0LDgyNTc5Nzk3NiwxMTE2MT
-ExMDI5LDEwODU3OTAwMDMsLTEwNDYzOTk2MjQsLTE1OTkyMjgx
-NzUsMTE1ODk0MzUxMV19
+eyJoaXN0b3J5IjpbMTQ1NzE4NCwtMTYxMjk5ODg4OCw1ODQzMz
+kzMCwxNzc5MjMyNTA1LDMzMDgzNzQzNywtMTQ1NzgzOTg5OSw3
+ODQ1MTQwNDUsODQ1MzMxOTc0LDgyNTc5Nzk3NiwxMTE2MTExMD
+I5LDEwODU3OTAwMDMsLTEwNDYzOTk2MjQsLTE1OTkyMjgxNzUs
+MTE1ODk0MzUxMV19
 -->
