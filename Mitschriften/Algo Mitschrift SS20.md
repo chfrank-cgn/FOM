@@ -308,14 +308,23 @@ i = Index Pattern; j = Index Suchwort
 Verschiebung: Delta s = j - rand 
 Neuer Index j = rand
 
+## Klausurvorbereitung (5/11/20)
+
+**Exam:** Fakultaet End-Rekursiv 
+
+**Exam:** Merge-Sort erklären / zeichnen
+
+**Exam:** Beweis Türme von Hanoi
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzE4NCwtMTYxMjk5ODg4OCw1ODQzMz
-kzMCwxNzc5MjMyNTA1LDMzMDgzNzQzNywtMTQ1NzgzOTg5OSw3
-ODQ1MTQwNDUsODQ1MzMxOTc0LDgyNTc5Nzk3NiwxMTE2MTExMD
-I5LDEwODU3OTAwMDMsLTEwNDYzOTk2MjQsLTE1OTkyMjgxNzUs
-MTE1ODk0MzUxMV19
+eyJoaXN0b3J5IjpbLTU5MjMxMzMxNiwtMTYxMjk5ODg4OCw1OD
+QzMzkzMCwxNzc5MjMyNTA1LDMzMDgzNzQzNywtMTQ1NzgzOTg5
+OSw3ODQ1MTQwNDUsODQ1MzMxOTc0LDgyNTc5Nzk3NiwxMTE2MT
+ExMDI5LDEwODU3OTAwMDMsLTEwNDYzOTk2MjQsLTE1OTkyMjgx
+NzUsMTE1ODk0MzUxMV19
 -->
