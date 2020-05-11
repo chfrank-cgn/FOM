@@ -306,7 +306,27 @@ Qualität (Skala 1-10):
 - Relevanz
 - Nutzererfahrung ([Link Juice](https://www.woorank.com/en/edu/seo-guides/link-juice))
 
-**Hausaufgabe:** Probeklausur per EMail, vor dem 11. Mai
+**Hausaufgabe:** Probeklausur per EMail, vor dem 15. Mai
+
+## Social Media Marketing (5/11/20)
+
+Social Media - User Generated Content (UGC)
+
+Interaktion / Kommunikation mit dem Nutzer, weniger klassische Anzeigen
+- Dialog mit der Nutzer- / Zielgruppe
+
+4P+ : Product, Price, Place, Promotion, **Participation**
+
+SMM: Sowohl Pull als auch Push
+
+3 Arten:
+- Paid Media (Push)
+- Owned Media (Pull)
+- Earned Media
+
+Influencer Marketing - umfasst alle drei Aspekte
+
+**Hausaufgabe:** SMM Presentation am Beispiel von Facebook
 
 
 
@@ -315,11 +335,11 @@ Qualität (Skala 1-10):
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTE4MDQ3NDksLTY2NTQ0Mjg2NywtMT
-UzNjc1ODI1NiwtMjA4NzgzMjE0NCwtMTA0NjI5ODcyMywxNjQ2
-NTYzMTQ4LC0yMTQxNjgxMzczLDI3MTY1MDIzMSwtMTEyMzQ0OD
-QxMiwtNTc5ODQ0NDI2LDU5MTM5MzExLDg1OTIwOTk2MSw3OTQ4
-NDU2NDcsLTY4MDc0MjY2OSwxNTc3Mjc5NjQ3LDIxMzM1ODc1OS
-wtODc1NTIwNTgwLDYzOTk4MTUxNCwyOTIzNDI2NzIsODIxNDAx
-ODA1XX0=
+eyJoaXN0b3J5IjpbLTE2MDQxNTUyNjIsLTE4MTE4MDQ3NDksLT
+Y2NTQ0Mjg2NywtMTUzNjc1ODI1NiwtMjA4NzgzMjE0NCwtMTA0
+NjI5ODcyMywxNjQ2NTYzMTQ4LC0yMTQxNjgxMzczLDI3MTY1MD
+IzMSwtMTEyMzQ0ODQxMiwtNTc5ODQ0NDI2LDU5MTM5MzExLDg1
+OTIwOTk2MSw3OTQ4NDU2NDcsLTY4MDc0MjY2OSwxNTc3Mjc5Nj
+Q3LDIxMzM1ODc1OSwtODc1NTIwNTgwLDYzOTk4MTUxNCwyOTIz
+NDI2NzJdfQ==
 -->
