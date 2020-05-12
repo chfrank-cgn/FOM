@@ -328,18 +328,36 @@ Influencer Marketing - umfasst alle drei Aspekte
 
 **Hausaufgabe:** SMM Presentation am Beispiel von Facebook
 
+## Social Media Marketing (5/12/20)
 
+Social Media Monitoring:
+- Direct accounts
+- Keywords
+	- Trends
+	- Analytics (Facebook Insight)
 
+Targeting (bei Facebook):
+- Kernzielgruppe
+- Custom Audience (re-targeting)
+- Lookalike Audience  (ähnliche Interessen)
 
+Arten von SMM:
+- Content Marketing
+- Virales Marketing
+- Influencer Marketing
+	- Homogene Ansprache (innerhalb der Zielgruppe)
+	- Cross-Funktionale Ansprache (zum Erschliessen neuer Märkte)
+- Social Media Recruitment
 
+Funktioniert SMM immer? Nein.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQxNTUyNjIsLTE4MTE4MDQ3NDksLT
-Y2NTQ0Mjg2NywtMTUzNjc1ODI1NiwtMjA4NzgzMjE0NCwtMTA0
-NjI5ODcyMywxNjQ2NTYzMTQ4LC0yMTQxNjgxMzczLDI3MTY1MD
-IzMSwtMTEyMzQ0ODQxMiwtNTc5ODQ0NDI2LDU5MTM5MzExLDg1
-OTIwOTk2MSw3OTQ4NDU2NDcsLTY4MDc0MjY2OSwxNTc3Mjc5Nj
-Q3LDIxMzM1ODc1OSwtODc1NTIwNTgwLDYzOTk4MTUxNCwyOTIz
-NDI2NzJdfQ==
+eyJoaXN0b3J5IjpbMTY2NDc2OTc5NiwtMTYwNDE1NTI2MiwtMT
+gxMTgwNDc0OSwtNjY1NDQyODY3LC0xNTM2NzU4MjU2LC0yMDg3
+ODMyMTQ0LC0xMDQ2Mjk4NzIzLDE2NDY1NjMxNDgsLTIxNDE2OD
+EzNzMsMjcxNjUwMjMxLC0xMTIzNDQ4NDEyLC01Nzk4NDQ0MjYs
+NTkxMzkzMTEsODU5MjA5OTYxLDc5NDg0NTY0NywtNjgwNzQyNj
+Y5LDE1NzcyNzk2NDcsMjEzMzU4NzU5LC04NzU1MjA1ODAsNjM5
+OTgxNTE0XX0=
 -->
