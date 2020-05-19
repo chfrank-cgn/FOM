@@ -74,15 +74,16 @@ DANE
 
 Sicherheitstechnische Grundlagen 
 
-**Hausaufgabe:** Netzwerksicherheit, Teil 2 (Slide 390-435)
+**Hausaufgabe:** Netzwerksicherheit, Teil 2 (Slide 390-436)
 
+**Transferaufgabe:** Was ist Redundanz, und wofür braucht man das? Welche Auswirkung kann fehlende Redundanz haben?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjY5NTc1NCwtMTM4Mzc3NzYzNywxND
-U3OTQwNzcsLTE1NDcyNTA0NzYsLTM2OTk0NzY2OSwtMTUzMTMz
-MDYxMCwtNzY2MjQ5OTM3LDIxMDEwMzQzMzIsLTYxNTM4NjA2Ny
-wzMTE2NjA3NDUsLTE0MDA2NzI5MzMsLTUwODI2OTA3OSwtMjU5
-MzQ5MTA4LC0xNjA2NDIyNzc5LDEzMDA0NjA2NDgsNDcxMDg4MD
-g5LC0xMTcyMTY1Nzk5LC0zODQ3MzkxNTksLTQyNjk1NDI1LC01
-MjA1NzM5NjNdfQ==
+eyJoaXN0b3J5IjpbLTczNzQ0MjYyOSwxODEyNjk1NzU0LC0xMz
+gzNzc3NjM3LDE0NTc5NDA3NywtMTU0NzI1MDQ3NiwtMzY5OTQ3
+NjY5LC0xNTMxMzMwNjEwLC03NjYyNDk5MzcsMjEwMTAzNDMzMi
+wtNjE1Mzg2MDY3LDMxMTY2MDc0NSwtMTQwMDY3MjkzMywtNTA4
+MjY5MDc5LC0yNTkzNDkxMDgsLTE2MDY0MjI3NzksMTMwMDQ2MD
+Y0OCw0NzEwODgwODksLTExNzIxNjU3OTksLTM4NDczOTE1OSwt
+NDI2OTU0MjVdfQ==
 -->

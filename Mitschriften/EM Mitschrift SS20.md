@@ -351,13 +351,36 @@ Arten von SMM:
 
 Funktioniert SMM immer? Nein.
 
+**Exam:** SEA - Zweitpreismechanik
+"Der Gewinner in der Platzierung bezahlt den Preis des zweithöchsten Gebots"
+
+**Exam:** Google Analytics
+"Welche platzierte Kampagne ist erfolgreich und warum"
+
+**Exam:** SMM
+"Welche Kampagne eignet sich für welches Produkt auf welchem Kanal"
+
+## Internet Recht: Datenschutz & Datensicherheit (5/18/20)
+
+Impressum: Pflichtangabe bei allen kommerziellen Angeboten.
+Hinweis: Die Umsatzsteuer-ID gehört ins Impressum!
+
+Unzulässig (in Deutschland bzw. bei Google):
+- Doorway Pages
+- Cloaking (based on IP and/or User Agent)
+- Hidden Content
+- Keyword Stuffing
+- Linkfarming (creating websites just for the purpose of linking)
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDc2OTc5NiwtMTYwNDE1NTI2MiwtMT
-gxMTgwNDc0OSwtNjY1NDQyODY3LC0xNTM2NzU4MjU2LC0yMDg3
-ODMyMTQ0LC0xMDQ2Mjk4NzIzLDE2NDY1NjMxNDgsLTIxNDE2OD
-EzNzMsMjcxNjUwMjMxLC0xMTIzNDQ4NDEyLC01Nzk4NDQ0MjYs
-NTkxMzkzMTEsODU5MjA5OTYxLDc5NDg0NTY0NywtNjgwNzQyNj
-Y5LDE1NzcyNzk2NDcsMjEzMzU4NzU5LC04NzU1MjA1ODAsNjM5
-OTgxNTE0XX0=
+eyJoaXN0b3J5IjpbODA0MjMzNDA3LC00ODQ2NjAxNjIsMTY2ND
+c2OTc5NiwtMTYwNDE1NTI2MiwtMTgxMTgwNDc0OSwtNjY1NDQy
+ODY3LC0xNTM2NzU4MjU2LC0yMDg3ODMyMTQ0LC0xMDQ2Mjk4Nz
+IzLDE2NDY1NjMxNDgsLTIxNDE2ODEzNzMsMjcxNjUwMjMxLC0x
+MTIzNDQ4NDEyLC01Nzk4NDQ0MjYsNTkxMzkzMTEsODU5MjA5OT
+YxLDc5NDg0NTY0NywtNjgwNzQyNjY5LDE1NzcyNzk2NDcsMjEz
+MzU4NzU5XX0=
 -->

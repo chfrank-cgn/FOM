@@ -50,10 +50,46 @@ Classic requirements:
 
 IT Management Challenges
 
+## IT Strategy (5/18/20
+
+- Five Forces (Potter)
+- SWOT Analysis
+- Balanced Scorecard
+- Target Costing
+- Business Process Reengineering
+- Knowledge Management
+- Risk Management
+- Six Sigma
+
+[Five Forces:](https://www.smartinsights.com/online-brand-strategy/brand-development/how-to-use-porters-5-forces-model/)
+- Supplier power
+- Threat of new entry
+- Threat of substitution
+- Buyer power
+- Competitive rivalry
+
+Steps: Monitoring - Control - Optimization - Automation
+
+[SWOT:](https://www.investopedia.com/terms/s/swot.asp)
+- Internal
+	- Strength
+	- Weakness
+- External
+	- Opportunities
+	- Threats
+
+[How to do a SWOT Analysis](https://www.shopify.com/blog/74665093-want-to-future-proof-your-business-try-a-swot-analysis)
+
+[Balanced Scorecard](https://www.investopedia.com/terms/b/balancedscorecard.asp)
+
+[Target Costing](https://corporatefinanceinstitute.com/resources/knowledge/accounting/target-costing/)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTAwNTM5Nyw1MzQ0MzY2NDAsLTE0MT
-AyNDczOTIsLTIwMzI5NTIyMDYsLTExOTk3MTMyNzcsMTk0MzQ2
-OTIwMywtMTA4NTIwNzc3Miw2MzExNjgzMTQsMTgwNDM3NjQ1MC
-wtMzMxNjIxNDg0LC0yODY1NDg2MjgsLTE1NzA0MDQyMDUsLTEw
-NDk1NjU2MCwtNTMyMzkyODkwXX0=
+eyJoaXN0b3J5IjpbMTE1OTI3NTkxNywxNDU1MjQ2MzYxLDE4Nj
+kwMDUzOTcsNTM0NDM2NjQwLC0xNDEwMjQ3MzkyLC0yMDMyOTUy
+MjA2LC0xMTk5NzEzMjc3LDE5NDM0NjkyMDMsLTEwODUyMDc3Nz
+IsNjMxMTY4MzE0LDE4MDQzNzY0NTAsLTMzMTYyMTQ4NCwtMjg2
+NTQ4NjI4LC0xNTcwNDA0MjA1LC0xMDQ5NTY1NjAsLTUzMjM5Mj
+g5MF19
 -->
