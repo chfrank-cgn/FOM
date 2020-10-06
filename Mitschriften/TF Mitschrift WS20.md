@@ -127,7 +127,17 @@ Trendforschung:
 - Trichterprinzip - induktiv
 - Pipelineprinzip - deduktiv
 
+## Innovationsanalyse (10/5/20)
+
+**Exam:** [Tesla](https://hbr.org/2020/02/lessons-from-teslas-approach-to-innovation)
+
+## Innovationsanalyse (10/6/20)
+
+**Exam:** [Marvel](https://hbr.org/2019/07/marvels-blockbuster-machine)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODU0NDY4MjksLTE1NjQ4MDcxMjAsNz
-Y5Mjc0MjQ2LC0xODc3OTUyMjA4LC0xODczMjgxNjU0XX0=
+eyJoaXN0b3J5IjpbLTUwNzAxNDUyLC0xMzczODAxMTEwLC0xOT
+g1NDQ2ODI5LC0xNTY0ODA3MTIwLDc2OTI3NDI0NiwtMTg3Nzk1
+MjIwOCwtMTg3MzI4MTY1NF19
 -->
