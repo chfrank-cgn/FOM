@@ -69,9 +69,40 @@ Scrum Roles:
 
 [Forming, Storming, Norming and Performing](https://hr.mit.edu/learning-topics/teams/articles/stages-development)
 
+## Scrum (10/12/20)
+
+User Story:
+- Who
+- What
+- Why
+
+Sprint-Retrospektive: 60 - 90 Minuten
+- Keep
+- Drop
+- Try
+
+Meeting-Diamant:
+- Einleitung (Exploration)
+- Hauptteil (Themenauswahl, Qualifizierung, Besprechung, Bearbeitung)
+- Schluss (Synthese, Konvergenz)
+
+[Scrum of Scrums](https://www.atlassian.com/agile/scrum/scrum-of-scrums)
+
+[Planning Poker](https://www.planningpoker.com/)
+
+[Requirements Engineering](https://t2informatik.de/wissen-kompakt/requirements-engineering/): Verstehen, was der Kunde braucht 
+
+Requirements:
+- Elicitation
+- Analysis
+- Validation
+- Managment
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzYwMjEyMywxODY3OTMyODkzLC03NT
-AxNDIzNzYsLTE5NjY1MjAyNTcsMjkzOTA5NTkyLC0xNTk4NzU3
-ODE5LC03NDE3NjYwMzldfQ==
+eyJoaXN0b3J5IjpbLTExNDYxMzc4MDYsMTgyODk3OTQ4MSwtNz
+A5OTU0MDU2LDEwOTkzOTM5MDksNjMyMjM3ODIwLDYyMDI5Njc3
+OCwtMTE4NDEyMzYxNCwxMjc3NjAyMTIzLDE4Njc5MzI4OTMsLT
+c1MDE0MjM3NiwtMTk2NjUyMDI1NywyOTM5MDk1OTIsLTE1OTg3
+NTc4MTksLTc0MTc2NjAzOV19
 -->
