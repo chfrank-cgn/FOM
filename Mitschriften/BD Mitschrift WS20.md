@@ -108,8 +108,33 @@ HMM:
 
 Homework: Slide 30, classification with ANN; due by 10/13
 
+## Hadoop (10/13/20)
+
+Struktur der Hausarbeit:
+- Titel
+- Einleitung
+- Leitfragen oder Hypothesen
+- Stand der Forschung
+- Theoretische Grundlagen und Methodik
+- Untersuchungsgegenstand (Daten bzw. Informationsbasis)
+- Ergebnisse
+- Fazit, Ausblick
+- Literaturverzeichnis, Anhang
+
+**Presentation:** 11/17
+
+Hadoop: "Schema on Read" vs "Schema on Write"  (ETL)
+
+HDFS: Name Nodes and Data Nodes
+
+MapReduce
+Input - map() - reduce() - output
+map(): split
+reduce(): sort - merge
+
+Homework: Slide 51 (MpeReduce in Python)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg0MjI0NjUyLC0yMDM5NDg3MDU0LC0yNT
-E3OTc3MywtODY2MzIwODZdfQ==
+eyJoaXN0b3J5IjpbMTMyNTgzOTg5Nyw2ODQyMjQ2NTIsLTIwMz
+k0ODcwNTQsLTI1MTc5NzczLC04NjYzMjA4Nl19
 -->
