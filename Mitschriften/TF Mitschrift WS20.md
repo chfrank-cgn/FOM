@@ -135,9 +135,15 @@ Trendforschung:
 
 **Exam:** [Marvel](https://hbr.org/2019/07/marvels-blockbuster-machine)
 
+**Exam:** Fragenkatalog Slideset 6 Seite 16; Tools Seite 22 und 23
+
+**Exam:** [Repetitorium](https://www.repetico.de/cardset-cards-1097290)
+
+**Exam:** [Cafe to go](https://www.innofo3d.de/de/tools/ideenfindung/ideen_cafetogo.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNzAxNDUyLC0xMzczODAxMTEwLC0xOT
-g1NDQ2ODI5LC0xNTY0ODA3MTIwLDc2OTI3NDI0NiwtMTg3Nzk1
-MjIwOCwtMTg3MzI4MTY1NF19
+eyJoaXN0b3J5IjpbNTM2MDk4MzEwLC04MTY3ODc0MDIsMTUyMz
+A0MDU5MSwtNDgwODUxODQyLC01MDcwMTQ1MiwtMTM3MzgwMTEx
+MCwtMTk4NTQ0NjgyOSwtMTU2NDgwNzEyMCw3NjkyNzQyNDYsLT
+E4Nzc5NTIyMDgsLTE4NzMyODE2NTRdfQ==
 -->

@@ -63,8 +63,10 @@ Parallele Prozesse: Konkurrenz / Kooperation
 
 Exam: Threads, interrupt() vs stop()
 
+## Prozessverwaltung (10/20/20)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3NTEzODM4LC0xOTQ3MjQzMzk1LDI5NT
-c0MDY1MCwtMjA4MTU4NjU3N119
+eyJoaXN0b3J5IjpbMTkwODM4MDkxMywtMTk0NzI0MzM5NSwyOT
+U3NDA2NTAsLTIwODE1ODY1NzddfQ==
 -->
