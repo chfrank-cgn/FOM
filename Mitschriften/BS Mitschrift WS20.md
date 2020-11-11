@@ -65,8 +65,18 @@ Exam: Threads, interrupt() vs stop()
 
 ## Prozessverwaltung (10/20/20)
 
+(siehe Übungsaufgaben)
+
+## Speicherverwaltung (11/9/20)
+
+(siehe Übungsaufgaben)
+
+## Ein-/Ausgabe (11/10/20)
+
+(siehe Übungsaufgaben)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODM4MDkxMywtMTk0NzI0MzM5NSwyOT
-U3NDA2NTAsLTIwODE1ODY1NzddfQ==
+eyJoaXN0b3J5IjpbLTE5MjUxNzI3NjAsLTE5NDcyNDMzOTUsMj
+k1NzQwNjUwLC0yMDgxNTg2NTc3XX0=
 -->

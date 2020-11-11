@@ -42,8 +42,20 @@ Methode: Nutzwertanalyse
 
 EVA - Eingabe, Verarbeitung, Ausgabe
 
+## Inhaltlicher Aufbau (11/11/20)
+
+Forschungsfrage: Welche Startegien kann ich entwickeln, um Cookie-loses Online Marketing und Advertising GDPR-Konform einzusetzen?
+
+Inhaltlicher Aufbau (Pg 62) - die Arbeit sollte alle diese Punkte beinhalten
+
+In der Präsentation "... (vgl. Meier, 2019)" zitieren und am Ende ein Slide mit Quellenverzeichnis
+
+Hausaufgaben: Forschungsartikel herunterladen und lesen
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NzI4NTc5Nyw4MDM1NDg4MDYsLTEyMT
-EyMzQ0NjNdfQ==
+eyJoaXN0b3J5IjpbMTgwMjkxMjYxLDM5NzAxOTc3NiwtMTI0NT
+cyMzEwMiwtNjk2NjY1MzkzLDgxMDI5Njg4MiwtNTc3Mjg1Nzk3
+LDgwMzU0ODgwNiwtMTIxMTIzNDQ2M119
 -->
