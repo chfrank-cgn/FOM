@@ -44,7 +44,7 @@ EVA - Eingabe, Verarbeitung, Ausgabe
 
 ## Inhaltlicher Aufbau (11/11/20)
 
-Forschungsfrage: Welche Startegien kann ich entwickeln, um Cookie-loses Online Marketing und Advertising GDPR-Konform einzusetzen?
+Forschungsfrage: Welche Strategien kann ich entwickeln, um Cookie-loses Online Marketing und Advertising GDPR-Konform einzusetzen?
 
 Inhaltlicher Aufbau (Pg 62) - die Arbeit sollte alle diese Punkte beinhalten
 
@@ -55,7 +55,7 @@ Hausaufgaben: Forschungsartikel herunterladen und lesen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjkxMjYxLDM5NzAxOTc3NiwtMTI0NT
-cyMzEwMiwtNjk2NjY1MzkzLDgxMDI5Njg4MiwtNTc3Mjg1Nzk3
-LDgwMzU0ODgwNiwtMTIxMTIzNDQ2M119
+eyJoaXN0b3J5IjpbMTIyMjI0Mzc3MSwxODAyOTEyNjEsMzk3MD
+E5Nzc2LC0xMjQ1NzIzMTAyLC02OTY2NjUzOTMsODEwMjk2ODgy
+LC01NzcyODU3OTcsODAzNTQ4ODA2LC0xMjExMjM0NDYzXX0=
 -->
