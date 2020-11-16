@@ -132,9 +132,18 @@ Input - map() - reduce() - output
 map(): split
 reduce(): sort - merge
 
-Homework: Slide 51 (MpeReduce in Python)
+Homework: Slide 51 (MapReduce in Python)
+
+## Text Mining (11/2/20)
+
+See previous homework
+
+## Text Mining (11/16/20)
+
+[TFIDF](http://www.tfidf.com/) - Term frequency–inverse document frequency
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTgzOTg5Nyw2ODQyMjQ2NTIsLTIwMz
-k0ODcwNTQsLTI1MTc5NzczLC04NjYzMjA4Nl19
+eyJoaXN0b3J5IjpbMTU3NTIzNDMwNywxMzI1ODM5ODk3LDY4ND
+IyNDY1MiwtMjAzOTQ4NzA1NCwtMjUxNzk3NzMsLTg2NjMyMDg2
+XX0=
 -->
