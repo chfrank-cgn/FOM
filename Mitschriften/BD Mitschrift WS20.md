@@ -1,5 +1,5 @@
 # Big Data and Data Science (9/1/20)
-Dr. Marcel Graus, Cambio Analytics GmbH
+Dr. Marcel Graus, Cambio Analytics GmbH (marcel.graus@fom-net.de)
 
 Big Data:
 - Volume (size)
@@ -136,14 +136,174 @@ Homework: Slide 51 (MapReduce in Python)
 
 ## Text Mining (11/2/20)
 
-See previous homework
+Supervised / Unsupervised variables (data)
+Labeled / Unlabeled (data)
+Abhängige / Unabhängige Variablen
 
 ## Text Mining (11/16/20)
 
 [TFIDF](http://www.tfidf.com/) - Term frequency–inverse document frequency
 
+## Revision (11/23/20)
+
+Data is driving change
+
+4V: Volume, Velocity, Validity, Veracity
+
+Data science:
+- Domain experts / Subject Matter experts
+- Mathematicians
+- Computer science engineers / developers
+
+Question: What is a data scientist?
+
+2<sup>nd</sup> platform: Data Warehouse
+3<sup>rd</sup> platform: Big Data
+
+Top-Down:
+- Theory
+- Hypothesis
+- Observation
+- Confirmation
+
+Bottom-up:
+- Observation
+- Pattern
+- Hypothesis
+- Theory
+
+Analysis:
+- Descriptive
+- Diagnostic
+- Predictive
+- Prescriptive
+
+Implementation in waves: Diagnostic - Proactive - Prescriptive
+
+Data access, data integration
+Move data processing to storage (data lake)
+
+**Exam:** SQL vs NoSQL, comparison: "Unstructured data", "Easy scaling"
+
+Sentiment analysis
+
+Data mining: Tableau, PowerBI, Count
+
+**Exam:** Rossmann data set, churn modelling data set
+
+Preprocessing: Null value, refactor data, combine data
+
+Prediction: Requires preparation!
+
+*"Data wrangling"*
+
+Terminology: Artificial Intelligence - Machine Learning - Deep Learning
+
+Machine Learning: *(pg100)*
+- Unsupervised learning
+	- Dimensionality
+	- Clustering
+- Supervised learning
+	- Classification
+	- Regression
+- Reinforcement learning
+
+ML Pipeline:
+- Get data
+- Clean, prepare, manipulate
+- Train model
+- Test data
+- Improve
+
+**Read:** Algorithms grouped by learning / by simlarity
+
+ML: Preprocessing to enable prediction: How to hande missing data?
+
+*Be aware of overfitting!*
+
+Labeled data: Supervised learning
+Unlabeled data: Unsupervised learning
+
+Regression:
+- Simple linear regression
+- Decision tree
+- (k-fold) cross validation
+- Hidden Markov-Models
+
+**Exam:** Problems with HMM *(pg 152)*
+
+Hidden Markov Models:
+- Computation performance / computational efficiency
+- Clustering problems
+- Learning step: Getting &lambda; to maximize P(O|&lambda;)
+
+Advanced Neural Networks:
+- Limits of two layer approach
+- Hidden layer
+
+Hadoop: 
+- **Exam:** File system (HDFS) *(pg 178)*
+	- Distributed
+		- Read process
+		- Write process
+- MapReduce
+
+MapReduce: Split - sort - merge
+**Exam:** Explain examples *(pg 188-190)*
+
+MapReduce -> Spark (on top of HDFS) "in-memory data" *(pg 197)*
+
+Text mining - subset of data mining - structured / semi-structured data
+- Unsupervised learning
+- Can potentially lead to interesting supervised learning
+
+### Document clustering
+Challenges: Multi-dimensionality - IDF - TF-IDF
+
+Exam: How to determine if documents are similar? 
+- Distance of Vectors -> Calculate the angle *(pg238)*
+
+Hierarchical clustering algorithms -> Analysis
+
+### Document classification
+
+Labeled data? *(pg 244)*
+Collection:
+- Preprocessing, remove stop words
+- Indexing (TF-IDF / feature generation)
+- **Exam:** Feature selection
+- Classification
+- Performance evaluation
+
+Tools: [KNIME](https://www.knime.com/), [Rapid Miner](https://rapidminer.com/)
+
+Web mining:
+- Ethical questions
+- Legal questions (e.g. GDPR, CCPA)
+
+Web scraping: Selector gadget
+
+### Natural language processing
+
+- Preference graph
+- Phrase-based translation
+
+### Concept extraction
+
+Text mining into a concept map 
+(ACE: Automatic Concept Extraction / KEA: Automatic Keyphrase Extraction)
+
+### HMM
+
+**Exam:** Time-series data: O<sub>t</sub> - observation at a given time 
+Hidden state / hidden structure: Markov chain *(pg 150 ff)*
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTIzNDMwNywxMzI1ODM5ODk3LDY4ND
-IyNDY1MiwtMjAzOTQ4NzA1NCwtMjUxNzk3NzMsLTg2NjMyMDg2
-XX0=
+eyJoaXN0b3J5IjpbNTg5OTkxNDU1LDE1NTc5NjkwMDksLTM1Mz
+kyNTQ3Myw1NjU3MzM3NjgsLTE0OTU0MzAxNzYsMTY2NDg4Njk1
+NSwtOTU1NDU2MzA3LDk1MDE3MDMwMSwxNTA4MzcyMDk5LC0yOD
+EzNjIyMjcsMTk1MDcxNzU0OCwxNTc1MjM0MzA3LDEzMjU4Mzk4
+OTcsNjg0MjI0NjUyLC0yMDM5NDg3MDU0LC0yNTE3OTc3MywtOD
+Y2MzIwODZdfQ==
 -->

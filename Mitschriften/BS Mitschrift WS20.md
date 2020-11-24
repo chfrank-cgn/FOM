@@ -75,8 +75,19 @@ Exam: Threads, interrupt() vs stop()
 
 (siehe Übungsaufgaben)
 
+## Klausurvorbereitung (11/23/20)
+
+(siehe Übungsaufgaben)
+
+## Threads (11/24/20)
+
+Scheduling-Strategien:
+- Priorität
+- Round Robin
+- Shortest Job First / Shortest Processing Time
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjUxNzI3NjAsLTE5NDcyNDMzOTUsMj
+eyJoaXN0b3J5IjpbLTE4MzIzNjY3MjksLTE5NDcyNDMzOTUsMj
 k1NzQwNjUwLC0yMDgxNTg2NTc3XX0=
 -->
