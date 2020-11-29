@@ -49,7 +49,7 @@ Maturity Model:
 Daten (Bitcom):
 - Speichern
 - Zugriff
-- Inetrpretation
+- Interpretation
 - Verarbeitung
 - Visualisierung
 - Sicherheit
@@ -235,7 +235,7 @@ Regression:
 Hidden Markov Models:
 - Computation performance / computational efficiency
 - Clustering problems
-- Learning step: Getting &lambda; to maximize P(O|&lambda;)
+- Learning step: Getting &pi; to maximize P(O|&pi;)
 
 Advanced Neural Networks:
 - Limits of two layer approach
@@ -300,10 +300,10 @@ Hidden state / hidden structure: Markov chain *(pg 150 ff)*
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5OTkxNDU1LDE1NTc5NjkwMDksLTM1Mz
-kyNTQ3Myw1NjU3MzM3NjgsLTE0OTU0MzAxNzYsMTY2NDg4Njk1
-NSwtOTU1NDU2MzA3LDk1MDE3MDMwMSwxNTA4MzcyMDk5LC0yOD
-EzNjIyMjcsMTk1MDcxNzU0OCwxNTc1MjM0MzA3LDEzMjU4Mzk4
-OTcsNjg0MjI0NjUyLC0yMDM5NDg3MDU0LC0yNTE3OTc3MywtOD
-Y2MzIwODZdfQ==
+eyJoaXN0b3J5IjpbMTU3MDQyMjQzMywyMjgwNjQ5OTMsNTg5OT
+kxNDU1LDE1NTc5NjkwMDksLTM1MzkyNTQ3Myw1NjU3MzM3Njgs
+LTE0OTU0MzAxNzYsMTY2NDg4Njk1NSwtOTU1NDU2MzA3LDk1MD
+E3MDMwMSwxNTA4MzcyMDk5LC0yODEzNjIyMjcsMTk1MDcxNzU0
+OCwxNTc1MjM0MzA3LDEzMjU4Mzk4OTcsNjg0MjI0NjUyLC0yMD
+M5NDg3MDU0LC0yNTE3OTc3MywtODY2MzIwODZdfQ==
 -->
