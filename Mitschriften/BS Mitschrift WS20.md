@@ -86,8 +86,14 @@ Scheduling-Strategien:
 - Round Robin
 - Shortest Job First / Shortest Processing Time
 
+## Shell (12/1/20)
+
+**Exam:** Swap, Paging, Memory - access, address translation *(Session 1, pg. 41 ff)*
+
+**Exam:** Process VSS, RSS, wechselseitiger Ausschluss bzw. Kooperation *(Session 2, pg 10)*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzIzNjY3MjksLTE5NDcyNDMzOTUsMj
-k1NzQwNjUwLC0yMDgxNTg2NTc3XX0=
+eyJoaXN0b3J5IjpbMTI1MTM0MzExNywtNjIzMzY2NTM2LC0xNT
+IyNTQ1MjE5LC0xODMyMzY2NzI5LC0xOTQ3MjQzMzk1LDI5NTc0
+MDY1MCwtMjA4MTU4NjU3N119
 -->
