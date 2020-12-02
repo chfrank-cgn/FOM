@@ -52,10 +52,38 @@ In der Präsentation "... (vgl. Meier, 2019)" zitieren und am Ende ein Slide mit
 
 Hausaufgaben: Forschungsartikel herunterladen und lesen
 
+## Forschungsmethoden und -ansätze (12/2/20)
 
+[Problemzentriertes Interview](http://www.qualitative-research.net/index.php/fqs/article/view/1132/2519) nach Andreas Witzel
+Interviewleitfaden
+*"Transkribieren, Auswerten"*
 
+[Qualitative Auswertung](https://www.scribbr.de/methodik/qualitative-inhaltsanalyse/) nach Philipp Mayring
+
+Explorative Forschung *(pg. 108)*
+- Primärforschung
+- Experteninterviews
+- Gruppendiskussionen
+- Beobachtungen
+
+Deskriptive Forschung
+- Neue Zusammenhänge
+- Korrelationen
+- Häufigkeiten
+
+Forschungsdesign:
+- Datenerhebung
+- Datenbasis
+- Deduktives Vorgehen
+
+Quantitative Forschung -> Deskriptive Forschung
+Qualitative Forschung *(pg. 112)* -> Explorative Forschung
+
+Festlegung der Forschungsart: Zusammenfassung *(pg 150)*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMjI0Mzc3MSwxODAyOTEyNjEsMzk3MD
-E5Nzc2LC0xMjQ1NzIzMTAyLC02OTY2NjUzOTMsODEwMjk2ODgy
-LC01NzcyODU3OTcsODAzNTQ4ODA2LC0xMjExMjM0NDYzXX0=
+eyJoaXN0b3J5IjpbLTE1NzU4MTQ2MjUsMTk0MDk1Mjc0MiwtNz
+g1NTAyMjY1LDE3MjcxNzM2MjcsMTc0NTc4NTc3NywxMjIyMjQz
+NzcxLDE4MDI5MTI2MSwzOTcwMTk3NzYsLTEyNDU3MjMxMDIsLT
+Y5NjY2NTM5Myw4MTAyOTY4ODIsLTU3NzI4NTc5Nyw4MDM1NDg4
+MDYsLTEyMTEyMzQ0NjNdfQ==
 -->
