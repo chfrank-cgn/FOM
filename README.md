@@ -11,7 +11,7 @@ My personal artefacts from my studies in Witschaftsinformatik - Busines Informat
 - in "ML" you'll find some Machine Learning snippets for a class at Largy College, also loving handcrafted in vi and python
 - in "AD" you'll find sample Java code for the Algorithmen & Datenstrukuren class, lovingly handcrafted in vi and javac
 - in "VS" you'll find a presentation for the Vorbereitungsseminar class, lovingly handcrafted in VS Code and markdown
-
+- in "SE" you'll find a presentation for the Seminar zur Bachelor-Arbeit class, lovingly handcrafted in VS Code and markdown
 
 Enjoy!
 
