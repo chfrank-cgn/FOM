@@ -3,9 +3,9 @@ Dr.-Ing. George Hallak ([georgehllk@hotmail.com](mailto:georgehllk@hotmail.com))
 
 ## Zusammenfassung
 
-PDCA: Plan - Do - Check - Act
+**PDCA**: Plan - Do - Check - Act
 
-ROSI: Return on Security Invest
+**ROSI**: Return on Security Invest
 
 Security Event: Ereignis - Auswirkungen
 Security Incident: Vorfall - hohe Wahrscheinlichkeit
@@ -13,10 +13,12 @@ Security Incident: Vorfall - hohe Wahrscheinlichkeit
 Schutzziel: Intergrität, Verfügbarkeit, Vertraulichkeit
 Datenschutz: Dazu Transparenz, Intervenierbarkeit, Nicht-Verkettbarkeit
 
-ISMS: Assets
-DSMS: Personenbezogene Daten
+Was wollen wir schützen? Wie schlimm ist ein Breach / Ausfall?
 
-ALE: Annual Loss Expenditure = Recovery Costs - Savings + Total Costs
+**ISMS**: Assets
+**DSMS**: Personenbezogene Daten
+
+**ALE**: Annual Loss Expenditure = Recovery Costs - Savings + Total Costs
 ROSI: Recovery Costs - ALE
 ROSI: Savings - Total Costs
 (See: https://svs.informatik.uni-hamburg.de/publications/2014/2014-02-20-Federrath-Berlin.pdf)
@@ -37,31 +39,61 @@ Security by Obscurity: Nicht effektiv!
 
 [Kerkhoff Prinzip](https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle): "A cryptosystem should be secure even if everything about the system, except the key , is public knowledge."
 
-Privacy by Design
+[Privacy by Design](https://deviq.io/resources/articles/privacy-by-design/):
+- Proactive not Reactive
+- Privacy as the Default
+- Full Functionality
+- End-to-End Security
+- Visibility and Transparency
+- Privacy Embedded into Design
+- Respect for User Privacy
 
 Abgrenzung: IT-Sicherheitsbeauftragter / Datenschutzbeauftragter
 
-Vertraulichkeit - Integrität - Verfügbarkeit
+Vertraulichkeit (SSL) - Integrität (Auth) - Verfügbarkeit (Sign) / Verbindlichkeit
 Transparenz - Konsistenz
 
 Anonymität - Pseudonymität
+
+Authentizität: Something you
+- know: Password
+- have: Token
+- are: Biometric properties
 
 Integrität:
 - Need to know
 - Separation of duties / concerns
 - Rotation of duties
 
+Hash, MAC, Signature
+
+Semiotik:
+- Pragmatik
+- Semamtik
+- Sigmatik
+- Syntaktik
+
 [Caesar-Chiffre](https://en.wikipedia.org/wiki/Caesar_cipher) (Alphabetverschiebung)
+
+Keyword: "WOW, SUCH SECRET VERY HIDDEN" -> WOSUCHERTVYIDN
+
+    A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+    W O S U C H E R T V Y I D N A B J G J K L M P Q X Z
 
 Monoalphabeitsche Chiffren (Schlüsselraum zu klein)
 
 [Vigenère-Verschlüsselung](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher) (grosses Schlüsselwort)
+Vignère Square: Alphabet-Verschlüsselung mit zusätzlichem Keyword
 
-[Vernam Verschüsselung](https://www.hypr.com/vernam-cipher/) (Stromverschlüsselung)
+[Vernam Verschüsselung](https://www.hypr.com/vernam-cipher/) (XOR Stromverschlüsselung)
 
 [One-Time-Pad](https://en.wikipedia.org/wiki/One-time_pad) - ziemlich sicher gegen Brute-Force Attacken
 
 [Perfect Secrecy](https://crypto.stackexchange.com/questions/3896/simply-put-what-does-perfect-secrecy-mean): Perfect secrecy is the notion that, given an encrypted message (or ciphertext) from a perfectly secure encryption system (or cipher), absolutely nothing will be revealed about the unencrypted message (or plaintext) by the ciphertext.
+
+=> A-Priori Wahrscheinlichkeit == A-Posteriori Wahrscheinlichkeit
+
+Secrecy &ne; security!
 
 Symmetrische Verschlüsselung: Es wird der gleiche Schlüssel zum Ver- und Entschlüsseln verwendet.
 (AES, DES, Triple-DES, HCBI, SSL, TLS)
@@ -74,7 +106,13 @@ Note: DES kann in etwa 10 Stunden überwunden werden, 3DES ist ok
 
 [RSA](https://en.wikipedia.org/wiki/RSA_%28cryptosystem%29) Algorithmus (ab 1024bit) - [asymmetrisch](https://www.exabeam.com/information-security/rsa-algorithm/)
 
-Hash-Funktionem: Normal / Kryptographisch
+Hash-Funktionen: Normal / Kryptographisch
+- [pre-Image Resistenz](https://en.wikipedia.org/wiki/Preimage_attack)
+- 2nd pre-Image Resistenz (schwache Kollisionsresistenz)
+- [Kollisionsresistenz](https://en.wikipedia.org/wiki/Collision_resistance)
+
+[Merkle–Damgård construction](https://en.wikipedia.org/wiki/Merkle%E2%80%93Damg%C3%A5rd_construction)
+2<sup>128</sup> gilt als sicher
 
 [Geburtstagsproblem](https://betterexplained.com/articles/understanding-the-birthday-paradox/) 
 
@@ -82,16 +120,68 @@ Hash-Funktionem: Normal / Kryptographisch
 
 [X.509](https://searchsecurity.techtarget.com/definition/X509-certificate) Certificate Authority
 
+Integrität &ne; Verschlüsselung
+
+**PKI**: Public Key Infrastructure
+
 Datenverarbeitung: Technische und organisatorische Massnahmen
-- [DSGVO](https://dsgvo-vorlagen.de/tom-nach-dsgvo-richtig-dokumentieren) Artikel 5 und 32
+- [DS-GVO](https://dsgvo-vorlagen.de/tom-nach-dsgvo-richtig-dokumentieren) Artikel 5 und 32
 - ISO 27001
+
+Daten: Erheben - Verarbeiten - Nutzen 
+
+Ursachen & Massnahmen
+
+**PPP**: Passörter, Patching, Prävention
+
+Technische & organisatorische Massnahmen:
+- Zutrittskontrolle 
+- Zugangskontrolle
+- Zugriffskontrolle
+- Datenträgerkontrolle
+- Weitergabe-, Übertragungs- und Transportkontrolle
+- Eingabekontrolle
+- Auftragskontrolle
+- Verfügbakeitskontrolle
+- Trennungskontrolle
+- Wiederherstellbarkeit
+
+Risiko: Gefahr trifft auf Schwachstelle
+
+Schutzbedarfsanalyse: "Normal", "Hoch", "Sehr hoch"
 
 ## Transferaufgabe
 
 "Führen Sie den Diffie-Hellman Key Exchange mit p = 13, g=9 und q=7, r=5 durch. Bestimmen Sie das gemeinsame Geheimnis. Zeigen Sie dabei, welche Berechnungen Alice und Bob ausführen und welche Daten Sie an den jeweils anderen übertagen."
 
+Generator: g=9
+Primzahl: p =13
+Alice: q=7
+Bob: r=5
+
+1. Schritt: Alice
+
+v = g<sup>q</sup> mod p
+v = 9<sup>7</sup> mod 13 = 9
+
+Alice sendet {p,g,v} = {13,9,9}
+
+2. Schritt Bob
+
+w = g<sup>r</sup> mod p
+w = 9<sup>5</sup> mod 13 = 3
+
+Bob sendet {p,g,w} = {13,9,3}
+
+3. Berechnung von s
+
+Alice: s = w<sup>q</sup> mod p = 3<sup>7</sup> mod 13 = 3
+Bob: s = v<sup>r</sup> mod p = 9<sup>5</sup> mod 13 = 3
+
+Alice und Bob haben beide {q,r,s} = {7,5,3}, ohne dass s je über die Leitung ging
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NDM0OTk5OSwtMzAyNTg3MTYxLDg2OT
-Y2NDkzNV19
+eyJoaXN0b3J5IjpbLTg0OTUxNTc2OCwtMTk3ODI5MTMzNSw4Nz
+MwNTY0NDgsLTM0NDM0OTk5OSwtMzAyNTg3MTYxLDg2OTY2NDkz
+NV19
 -->
