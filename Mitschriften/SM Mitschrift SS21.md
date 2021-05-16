@@ -3,6 +3,11 @@ Dr.-Ing. George Hallak ([georgehllk@hotmail.com](mailto:georgehllk@hotmail.com))
 
 ## Zusammenfassung
 
+- Sicherheit
+- Datenschutz
+- Bedrohung
+- Angriff
+
 **PDCA**: Plan - Do - Check - Act
 
 **ROSI**: Return on Security Invest
@@ -49,9 +54,15 @@ Security by Obscurity: Nicht effektiv!
 - Respect for User Privacy
 
 Abgrenzung: IT-Sicherheitsbeauftragter / Datenschutzbeauftragter
+Abgrenzung: IT-Sicherheit / Datenschutz
 
 Vertraulichkeit (SSL) - Integrität (Auth) - Verfügbarkeit (Sign) / Verbindlichkeit
-Transparenz - Konsistenz
+Neu: Transparenz - Konsistenz
+
+- Verdeckheit
+- Unbeobachtbarkeit
+- Unverkettbarkeit
+- Nicht-Verfolgbarket
 
 Anonymität - Pseudonymität
 
@@ -65,13 +76,25 @@ Integrität:
 - Separation of duties / concerns
 - Rotation of duties
 
+Kryptoziele:
+- private Kommunikation, private Daten - Vertraulichkeit
+- festellen von Änderungen - Integrität
+- prüfen der Identität und Echtheit der Daten - Authentizität
+- unterschreiben von Daten - Verbindlichkeit
+
 Hash, MAC, Signature
 
 Semiotik:
-- Pragmatik
-- Semamtik
-- Sigmatik
-- Syntaktik
+- Syntaktik: Zeichen und Regeln
+- Sigmatik: + Beziehung
+- Semantik: + Bedeutung
+- Pragmatik: +Zweck
+
+Angriffe:
+- Ciphertext-Only
+- Known-Plaintext
+- Chosen Plaintext
+- Chosen Ciphertext
 
 [Caesar-Chiffre](https://en.wikipedia.org/wiki/Caesar_cipher) (Alphabetverschiebung)
 
@@ -100,11 +123,22 @@ Symmetrische Verschlüsselung: Es wird der gleiche Schlüssel zum Ver- und Entsc
 
 Note: DES kann in etwa 10 Stunden überwunden werden, 3DES ist ok
 
+[Electronic Code Book Mode](https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation#Electronic_codebook_(ECB)) 
+
+[Cipher Block Chaining Mode](https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation#Cipher_block_chaining_(CBC))
+
 [AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard): [NIST](https://www.nist.gov/) schlägt [Rijndael](https://blog.finjan.com/rijndael-encryption-algorithm/) vor
 
 [Diffie-Hellmann](https://security.stackexchange.com/questions/45963/diffie-hellman-key-exchange-in-plain-english) Schlüsselaustausch
 
 [RSA](https://en.wikipedia.org/wiki/RSA_%28cryptosystem%29) Algorithmus (ab 1024bit) - [asymmetrisch](https://www.exabeam.com/information-security/rsa-algorithm/)
+Rivest - Shamir - Adleman
+- Schlüssel aus Primzahlen
+- RSA-Modul 
+- Zwei Schlüssel: Public + Private
+
+RSA Encryption: Alice encrypts with Bob's public key, Bob decrypts with his private key
+RSA Signature: Alice signs with her private key, Bob validates the signature with Alice's public key
 
 Hash-Funktionen: Normal / Kryptographisch
 - [pre-Image Resistenz](https://en.wikipedia.org/wiki/Preimage_attack)
@@ -117,6 +151,7 @@ Hash-Funktionen: Normal / Kryptographisch
 [Geburtstagsproblem](https://betterexplained.com/articles/understanding-the-birthday-paradox/) 
 
 [Message Authentication Code](https://en.wikipedia.org/wiki/Message_authentication_code)
+Symmetrischer Schlüssel als geheimer Parameter - Authentizität / Integrität
 
 [X.509](https://searchsecurity.techtarget.com/definition/X509-certificate) Certificate Authority
 
@@ -126,7 +161,8 @@ Integrität &ne; Verschlüsselung
 
 Datenverarbeitung: Technische und organisatorische Massnahmen
 - [DS-GVO](https://dsgvo-vorlagen.de/tom-nach-dsgvo-richtig-dokumentieren) Artikel 5 und 32
-- ISO 27001
+- ISO 27001 - ISMS Anforderungen
+- BSI Grundschutz 200-1, 200-2, 200-3
 
 Daten: Erheben - Verarbeiten - Nutzen 
 
@@ -146,9 +182,24 @@ Technische & organisatorische Massnahmen:
 - Trennungskontrolle
 - Wiederherstellbarkeit
 
+Risiken:
+- Strategisch
+- Unternehmensumwelt / -umfeld
+- Marktrisiko
+- Kreditrisiko
+- Operatives Risiko
+- Compliance-Risiko
+
 Risiko: Gefahr trifft auf Schwachstelle
 
 Schutzbedarfsanalyse: "Normal", "Hoch", "Sehr hoch"
+
+Risiko-Management
+- Initialisierung
+- Identifizierung
+- Beurteilung
+- Steuerung
+- Überwachung
 
 ## Transferaufgabe
 
@@ -161,27 +212,29 @@ Bob: r=5
 
 1. Schritt: Alice
 
-v = g<sup>q</sup> mod p
+v = g<sup>q</sup> mod p  --  *"Generator hoch Alice"*
 v = 9<sup>7</sup> mod 13 = 9
 
 Alice sendet {p,g,v} = {13,9,9}
 
 2. Schritt Bob
 
-w = g<sup>r</sup> mod p
+w = g<sup>r</sup> mod p  --  *"Generator hoch Bob"*
 w = 9<sup>5</sup> mod 13 = 3
 
 Bob sendet {p,g,w} = {13,9,3}
 
 3. Berechnung von s
 
-Alice: s = w<sup>q</sup> mod p = 3<sup>7</sup> mod 13 = 3
-Bob: s = v<sup>r</sup> mod p = 9<sup>5</sup> mod 13 = 3
+Alice: s = w<sup>q</sup> mod p = 3<sup>7</sup> mod 13 = 3  --  *"Bob-geschickt hoch Alice"*
+Bob: s = v<sup>r</sup> mod p = 9<sup>5</sup> mod 13 = 3  --  *"Alice-geschickt hoch Bob"*
 
 Alice und Bob haben beide {q,r,s} = {7,5,3}, ohne dass s je über die Leitung ging
 
+Das BSI empfiehlt: p sollte 3000 Bit lang sein, q und r jeweils mindestens 250; p sollte eine starke Primzahl sein, mit einem Zyklus von mindestens 2<sup>250</sup>.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0OTUxNTc2OCwtMTk3ODI5MTMzNSw4Nz
-MwNTY0NDgsLTM0NDM0OTk5OSwtMzAyNTg3MTYxLDg2OTY2NDkz
-NV19
+eyJoaXN0b3J5IjpbNDYxODk4NjExLC04NDk1MTU3NjgsLTE5Nz
+gyOTEzMzUsODczMDU2NDQ4LC0zNDQzNDk5OTksLTMwMjU4NzE2
+MSw4Njk2NjQ5MzVdfQ==
 -->
