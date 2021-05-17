@@ -8,6 +8,10 @@ Dr.-Ing. George Hallak ([georgehllk@hotmail.com](mailto:georgehllk@hotmail.com))
 - Bedrohung
 - Angriff
 
+- Vertraulichkeit
+- Authentifizierung
+- Integrität
+
 **PDCA**: Plan - Do - Check - Act
 
 **ROSI**: Return on Security Invest
@@ -85,10 +89,10 @@ Kryptoziele:
 Hash, MAC, Signature
 
 Semiotik:
-- Syntaktik: Zeichen und Regeln
-- Sigmatik: + Beziehung
-- Semantik: + Bedeutung
-- Pragmatik: +Zweck
+- Syntaktik: Zeichen und Regeln (Rot)
+- Sigmatik: + Beziehung (Ampel rot)
+- Semantik: + Bedeutung (Stopp)
+- Pragmatik: +Zweck (Bleibt stehen)
 
 Angriffe:
 - Ciphertext-Only
@@ -124,15 +128,17 @@ Symmetrische Verschlüsselung: Es wird der gleiche Schlüssel zum Ver- und Entsc
 Note: DES kann in etwa 10 Stunden überwunden werden, 3DES ist ok
 
 [Electronic Code Book Mode](https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation#Electronic_codebook_(ECB)) 
+Feste Blocklänge
 
 [Cipher Block Chaining Mode](https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation#Cipher_block_chaining_(CBC))
+Random seed
 
 [AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard): [NIST](https://www.nist.gov/) schlägt [Rijndael](https://blog.finjan.com/rijndael-encryption-algorithm/) vor
 
 [Diffie-Hellmann](https://security.stackexchange.com/questions/45963/diffie-hellman-key-exchange-in-plain-english) Schlüsselaustausch
 
 [RSA](https://en.wikipedia.org/wiki/RSA_%28cryptosystem%29) Algorithmus (ab 1024bit) - [asymmetrisch](https://www.exabeam.com/information-security/rsa-algorithm/)
-Rivest - Shamir - Adleman
+[Rivest - Shamir - Adleman](https://dl.acm.org/doi/10.1145/359340.359342)
 - Schlüssel aus Primzahlen
 - RSA-Modul 
 - Zwei Schlüssel: Public + Private
@@ -149,6 +155,7 @@ Hash-Funktionen: Normal / Kryptographisch
 2<sup>128</sup> gilt als sicher
 
 [Geburtstagsproblem](https://betterexplained.com/articles/understanding-the-birthday-paradox/) 
+P(n) = 365! &div; ((365-n)! &times; 365<sup>n</sup>)
 
 [Message Authentication Code](https://en.wikipedia.org/wiki/Message_authentication_code)
 Symmetrischer Schlüssel als geheimer Parameter - Authentizität / Integrität
@@ -234,7 +241,7 @@ Alice und Bob haben beide {q,r,s} = {7,5,3}, ohne dass s je über die Leitung gi
 Das BSI empfiehlt: p sollte 3000 Bit lang sein, q und r jeweils mindestens 250; p sollte eine starke Primzahl sein, mit einem Zyklus von mindestens 2<sup>250</sup>.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxODk4NjExLC04NDk1MTU3NjgsLTE5Nz
-gyOTEzMzUsODczMDU2NDQ4LC0zNDQzNDk5OTksLTMwMjU4NzE2
-MSw4Njk2NjQ5MzVdfQ==
+eyJoaXN0b3J5IjpbNDU1NjI0MjQ4LDQ2MTg5ODYxMSwtODQ5NT
+E1NzY4LC0xOTc4MjkxMzM1LDg3MzA1NjQ0OCwtMzQ0MzQ5OTk5
+LC0zMDI1ODcxNjEsODY5NjY0OTM1XX0=
 -->
