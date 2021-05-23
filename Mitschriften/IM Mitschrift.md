@@ -5,7 +5,7 @@ Adrian Bombelka [adrian.bombelka@outlook.com](mailto:adrian.bombelka@outlook.com
 
 Wissenspyramide:
 - Zeichen
-- Daaten
+- Daten
 - Information
 - Wissen
 
@@ -68,7 +68,7 @@ Wissensarten:
 
 [Storytelling](https://blog.hubspot.com/marketing/storytelling)
 
-Lernarten in Organisationen (alle Lern-Niveaus):
+Lernarten in Organisationen (für alle Lern-Niveaus):
 - Anspassungslernen
 - Veränderungslernen
 - Prozesslernen
@@ -123,6 +123,6 @@ Personentypen im Wandel nach Krebsbach-Gnath - see https://netlibrary.aau.at/obv
 Eine künstliche Intelligenz soll für die Analyse des Kaufverhaltens von Kunden eines Supermarkts trainiert werden. Hierzu werden die erzeugten Kassenzettel für das Training bereitgestellt. Beschreiben Sie 3 verschiedene Informationen, die für das Training einer KI relevant sein können. Beziehen Sie mindestens eine externe Informationsquelle ein, die nicht auf einem Kassenzettel zu finden ist.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMzg4ODUzNywxOTgwNDA3MDUwLDE3Nj
-g1MzY5ODIsLTQ1NjkzMTc1OF19
+eyJoaXN0b3J5IjpbLTIxMzMyODAzODgsMTYxMzg4ODUzNywxOT
+gwNDA3MDUwLDE3Njg1MzY5ODIsLTQ1NjkzMTc1OF19
 -->
