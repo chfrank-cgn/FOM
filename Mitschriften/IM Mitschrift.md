@@ -3,6 +3,12 @@ Adrian Bombelka [adrian.bombelka@outlook.com](mailto:adrian.bombelka@outlook.com
 
 ## Zusammenfassung
 
+PDCA:
+- Plan
+- Do
+- Check
+- Act
+
 Wissenspyramide:
 - Zeichen
 - Daten
@@ -21,13 +27,16 @@ Betriebliche Informationssysteme
 - Wettbewerbsfähigkeit
 
 IM-Modelle / Ansätze
+- Aufgabenorientiert
 - Problemorientiert
 - Prozessorientiert
+	- Organisation, IT, Partner, Valuestream
+- Ebenenmodell
 - Architekturorientiert
 - [ITIL v4](https://www.ibm.com/cloud/learn/it-infrastructure-library)
 - [TOGAF](https://www.opengroup.org/togaf)
 
-[ARIS](https://www.ariscommunity.com/)
+[ARIS](https://www.ariscommunity.com/) - **AR**chitektur integrierter **I**nformations**S**ysteme
 
 Informationsstrukturierung:
 - Taxonomie / Indexierung
@@ -37,10 +46,15 @@ Informationsstrukturierung:
 
 Exkurs KI: *Korrelation / Regression*
 
-Erkenntnistheorie
+Erkenntnistheorie / Epistemologie
 
 Basics der Computer Linguistik (=Klassifikation von Termini)
 - Meta Daten
+
+Weitergabe von Wissen:
+- Erzählen / Vormachen
+- Aufschreiben
+- Im Computer erfassen
 
 Stufen-Modell der semantischen Komplexität:
 - Ontologie
@@ -58,6 +72,8 @@ Kernaufgabe des Wissensmanagements: Identifizierung des erfolgskritischen Wissen
 - Markt
 - Organisation
 
+Benutzer - Quelle - Ressourcen - Angebot
+
 Wissensmanagement: "Wir-Gefühl"
 
 Wissensarten:
@@ -66,7 +82,17 @@ Wissensarten:
 - Prozedural
 - Strategisch
 
+[RDF](https://www.w3.org/RDF/) - Resource Description Framework
+(Gerichtete Graphen)
+
 [Storytelling](https://blog.hubspot.com/marketing/storytelling)
+
+Debriefing:
+- Personal
+- Project/Organization
+- Knowledge
+- Relationship
+- General
 
 Lernarten in Organisationen (für alle Lern-Niveaus):
 - Anspassungslernen
@@ -99,6 +125,11 @@ Förderung des Wissensaustausch:
 - Open Space
 - World Coffee
 
+Management nach Probst:
+- Ziele setzen
+- Kontrollieren
+- Bewerten
+
 **Exam:** Szenario für Wissensaustausch ausdenken (Beispiel)
 
 [Boston-Box](https://strategicmanagementinsight.com/tools/bcg-matrix-growth-share.html) im Wissensmanagement:
@@ -108,6 +139,10 @@ Förderung des Wissensaustausch:
 - Wir wissen, was wir nicht wissen
 - Wir wissen nicht, was wir nicht wissen
 
+3 Phasen der Veränderung:
+- Auftauen
+- Verändern
+- Stabilisieren
 
 Personentypen im Wandel nach Krebsbach-Gnath - see https://netlibrary.aau.at/obvuklhs/content/titleinfo/5464889/full.pdf
 - Visionär und Missionar - Innovatoren
@@ -118,11 +153,14 @@ Personentypen im Wandel nach Krebsbach-Gnath - see https://netlibrary.aau.at/obv
 - Offene Gegner
 - Emigranten
 
+QM: ISO 9001
+
 ## Transferaufgabe
 
 Eine künstliche Intelligenz soll für die Analyse des Kaufverhaltens von Kunden eines Supermarkts trainiert werden. Hierzu werden die erzeugten Kassenzettel für das Training bereitgestellt. Beschreiben Sie 3 verschiedene Informationen, die für das Training einer KI relevant sein können. Beziehen Sie mindestens eine externe Informationsquelle ein, die nicht auf einem Kassenzettel zu finden ist.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzMyODAzODgsMTYxMzg4ODUzNywxOT
-gwNDA3MDUwLDE3Njg1MzY5ODIsLTQ1NjkzMTc1OF19
+eyJoaXN0b3J5IjpbLTE1ODU3NzQ2OSw3NDYzNTYyNzEsLTIxMz
+MyODAzODgsMTYxMzg4ODUzNywxOTgwNDA3MDUwLDE3Njg1MzY5
+ODIsLTQ1NjkzMTc1OF19
 -->
