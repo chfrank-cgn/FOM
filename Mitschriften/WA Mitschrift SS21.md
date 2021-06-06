@@ -36,7 +36,7 @@ Social Media Strategy
 - Establishment of Presence
 - Evaluation
 
-Social Media Data Types
+Social Media Data Types:
 - Owned Media
 - Paid Media
 - Earned Media (e.g. Likes, Shares,...)
@@ -110,7 +110,7 @@ Process:
  - Reporting
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTA3MTU4MSw2ODcyNjI2NTIsMTM3NT
-kxMjg4NSwxOTg4NTIwMDU0LDE4NjA0OTI4MDAsLTQ4Mjg0MjQ3
-OCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTI1ODQ5MDcwOSwxNTQ1MDcxNTgxLDY4Nz
+I2MjY1MiwxMzc1OTEyODg1LDE5ODg1MjAwNTQsMTg2MDQ5Mjgw
+MCwtNDgyODQyNDc4LDczMDk5ODExNl19
 -->
