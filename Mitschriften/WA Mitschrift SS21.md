@@ -1,5 +1,6 @@
 # Web & Social Media Analytics (5/11/21)
 Gerrit Eicker ([gerrit.eicker@eicker.digital](mailto:gerrit.eicker@eicker.digital))
+[Wir sprechen online](https://eicker.digital/)
 
 ## Summary
 
@@ -9,11 +10,85 @@ Why Web Analytics?
  - Profit
 	 - New sales, new product ideas
 
-[POST](https://www.hilker-consulting.de/social-media-marketing/post-methode-social-media-strategie-fuer-unternehmen): People - Objectives - Strategy - Technology
+[Definitions](https://www.reflections-ibs.com/blog/articles/what-is-the-difference-between-seo-sea-sem-smo-sma-and-smm):
+- SEM = SEO + SEA
+- SMM = SMO + SMA
+
+[POST](https://www.hilker-consulting.de/social-media-marketing/post-methode-social-media-strategie-fuer-unternehmen): 
+- People 
+- Objectives 
+- Strategy 
+- Technology
+
+[How to use POST](https://crayonsandmarketers.com/news/use-p-o-s-t-method-create-social-media-plan/)
+
+[Understanding POST](https://www.certona.com/understanding-forresters-post-methodology-building-personalization-program/) (by [Forrester](https://www.forrester.com/report/Create+A+Pragmatic+Personalization+Program/-/E-RES132944))
+
+Social Media Strategy
+- Listening
+- Target Definition
+- Channel Selection
+- Agenda Setting
+- Strategy Development
+- Mix of Measures
+- Project Team
+- Crisis Management
+- Establishment of Presence
+- Evaluation
+
+Social Media Data Types
+- Owned Media
+- Paid Media
+- Earned Media (e.g. Likes, Shares,...)
+
+[Social Media Monitoring vs Social Media Listening](https://blog.adobe.com/en/publish/2016/02/26/social-media-monitoring-versus-listening-does-it-matter.html)
+
+Social Media Monitoring:
+- Looks back
+- Gathers information
+- Focuses on details
+- Measures success
+
+Social (Media) Listening:
+- Looks forward
+- Analyzes information
+- Looks at the big picture
+- Guides as strategy
+
+*Monitoring sees the trees; listening views the forest.*
+
+Social Media Monitoring:
+- Analysis design
+- Data collection
+- Data preparation
+- Analysis
+- Reporting
+
+S.M.A.R.T. = Specific, Measurable, Achievable, Relevant, Timely
+
+*Vanity Metrics*
+
+Return on Social Media:
+- Volume
+- Valence
+- Virality
+- Variance
+
+SERP - Search Engine Results Page
+
+SEO vs Keyword Advertising
+
+On-Site KPIs:
+- ROAS - Return On Ad Spend
+- Conversion Rate
 
 Interpreting Google-Analytics data
 
-*"Test", "Low hanging fruits"*
+CLV, LTV - Customer Lifetime Value
+
+*"Test!"*
+
+*"Low hanging fruits"*
 
 Segmentation
 Bounce Rate
@@ -35,6 +110,7 @@ Process:
  - Reporting
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODUyMDA1NCwxODYwNDkyODAwLC00OD
-I4NDI0NzgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTU0NTA3MTU4MSw2ODcyNjI2NTIsMTM3NT
+kxMjg4NSwxOTg4NTIwMDU0LDE4NjA0OTI4MDAsLTQ4Mjg0MjQ3
+OCw3MzA5OTgxMTZdfQ==
 -->
