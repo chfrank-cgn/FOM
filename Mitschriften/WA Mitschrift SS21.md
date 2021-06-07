@@ -69,10 +69,10 @@ S.M.A.R.T. = Specific, Measurable, Achievable, Relevant, Timely
 *Vanity Metrics*
 
 Return on Social Media:
-- Volume
-- Valence
-- Virality
-- Variance
+- Volume (Menge)
+- Valence (Tonalität)
+- Virality (Wie virulent)
+- Variance (Unterschiedlichkeit)
 
 SERP - Search Engine Results Page
 
@@ -110,7 +110,7 @@ Process:
  - Reporting
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1ODQ5MDcwOSwxNTQ1MDcxNTgxLDY4Nz
-I2MjY1MiwxMzc1OTEyODg1LDE5ODg1MjAwNTQsMTg2MDQ5Mjgw
-MCwtNDgyODQyNDc4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE4MzEzMzAyNjcsLTI1ODQ5MDcwOSwxNT
+Q1MDcxNTgxLDY4NzI2MjY1MiwxMzc1OTEyODg1LDE5ODg1MjAw
+NTQsMTg2MDQ5MjgwMCwtNDgyODQyNDc4LDczMDk5ODExNl19
 -->
